@@ -34,6 +34,10 @@
   padding-left: 40px;
 }
 
+.new-header .mdl-layout_header-row{
+  padding-left: 120px;
+}
+
 .demo-container {
   max-width: 1600px;
   width: calc(100% - 16px);
