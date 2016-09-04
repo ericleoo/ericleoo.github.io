@@ -23,6 +23,10 @@
           flex-shrink: 0;
 }
 
+img {
+    vertical-align: middle;
+}
+
 .demo-main {
   margin-top: -35vh;
   -webkit-flex-shrink: 0;
