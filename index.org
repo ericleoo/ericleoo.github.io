@@ -1,5 +1,10 @@
 #+TITLE: Welcome to my website
 #+AUTHOR: Eric Leonardo Lim
-#+HTML_HEAD: <style type="text/css">body{ max-width:50%; margin:auto; }</style>
+# #+HTML_HEAD: <style type="text/css">body{ max-width:50%; margin:auto; }</style>
+#+OPTIONS: toc:nil
+
 - [[https://ericleoo.github.io/CV/cv.pdf][My CV]]
 - [[https://ericleoo.github.io/CZ4013][CZ4013 Summary]]
+
+* About me
+I am a fourth year Computer Science undergraduate at Nanyang Technological University.

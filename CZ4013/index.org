@@ -1,6 +1,6 @@
 #+TITLE: CZ4013 Distributed Systems Summary
 #+AUTHOR: Eric Leonardo Lim
-#+HTML_HEAD: <style type="text/css">body{ max-width:50%; margin:auto; }</style>
+# #+HTML_HEAD: <style type="text/css">body{ max-width:50%; margin:auto; }</style>
 * Introduction
 ** What is DS?
 *** Definition
