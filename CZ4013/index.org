@@ -1,0 +1,619 @@
+#+TITLE: CZ4013 Distributed Systems Summary
+#+AUTHOR: Eric Leonardo Lim
+#+HTML_HEAD: <style type="text/css">body{ max-width:50%; margin:auto; }</style>
+* Introduction
+** What is DS?
+*** Definition
+A set of networked computers that _communicate_ and _coordinate_ their actions only by _passing messages_.
+** Fundamental Characteristics of DS
+*** Concurrency
+- More computer -> Higher capacity -> Higher performance
+- Need coordination
+*** Loosely coupled
+- No global clock
+  - difficult sync
+  - lack certainty
+  - difficult algo design
+- No global shared memory
+  - interaction by message passing
+*** Independent failures
+- difficult detection
+- more fault-tolerant if properly designed
+** Main Motivation of DS: Resource Sharing
+*** Description
+We can share resources (e.g. information, hardware, software) over a DS to save cost and manpower.
+
+Resources are shared via _services_. Server accepts client requests, performs services, responds to clients. Requests and replies are sent in form of messages.
+*** Service
+Distinct part of computer system providing accesses to managed resources
+*** Server
+Process managing resources
+*** Client
+Process requesting resources access 
+*** Remote Invocation
+a complete interaction between client & server. (request to response).
+** DS Issues and Problems
+*** Heterogeneity
+**** Networks
+**** Hardware
+**** OS
+**** Programming languages
+*** Scalability
+**** Approaches to handle increasing demand
+- Caching and data replication
+- Deploy multiple servers
+**** Avoid bottlenecks
+- Prefer decentralized to centralized
+**** Prevent SW resources from running out
+- e.g. IP length
+*** Failure handling
+**** Detecting
+e.g. checksum for corruption
+**** Masking
+e.g. retransmission for losts
+**** Tolerating
+use redundancy
+**** Recovery
+- rollback when crashing
+- not leaving data in inconsistent state
+** Architectural Models
+*** SW and HW layers (vertical)
+**** Platform
+Bring system's programming interface up to a level that facilitates communication and coordination between processes.
+***** Hardware
+***** OS
+**** Middleware
+SW layer to mask heterogeneity and provide convenient programming model.
+Provide generic services to applications, e.g.:
+- Naming
+- Security
+- Persistent storage
+e.g. Sun RPC, Java RMI, CORBA
+**** Applications/services
+*** System architectures (horizontal)
+**** Client-server
+Simple yet useful. Division of work among servers: partitioning and replication.
+***** Server
+Processes that manage resources
+***** Client
+Processes that use/access service
+**** P2P
+- All processes play similar roles
+- No distinction of roles
+- More complex
+** Fundamental Models
+More formal description of common and intrinsic properties
+*** Interaction Model
+**** Synchronous DS
+- Bounds on
+  - Processing time
+  - Transmission time
+  - Clock drift rate
+- Infer properties
+  - Timeout to detect failures
+  - Bound lag
+**** Asynchronous DS
+- No bounds
+- Model internet
+- Can't use timeouts to detect failures
+*** Failure Model
+**** Omission failure
+***** Process
+Crash
+***** Communication
+Fail to deliver
+**** Byzantine failure
+- cause trouble
+- arbitrarily omit intended steps
+- arbitrarily take unintended steps
+- process
+  - set wrong values
+  - return wrong result
+- communication
+  - corruption
+  - more than once
+* Interprocess Communication
+** External Data Representation & Mashalling
+*** Marshal & Unmarshal
+- data transmitted as sequence of bytes
+- data structures must be flattened
+- different representations of same datatype
+  - big endian: MSB first
+  - little endian: LSB first
+- extrenal data representation
+  - agreed standard for representation
+- interprocess communication
+  - define standard
+  - marshalling
+    - structured & primitive -> external data representation
+  - unmarshalling
+    - external data representation -> structured & primitive
+*** CORBA's Common Data Representation
+- can represent all primitive and constructed datatypes
+- types of data items are not given
+- it is assumed that sender and recipient have common knowledge of order and types of data items
+*** Java object serialization
+Deserialization does not require prior knowledge of object types.
+
+#+BEGIN_SRC java
+class Person implements Serializable{
+  private String name;
+  private String place;
+  private int year;
+}
+#+END_SRC
+
+Person {"Smith","London",1934} will be serialized as:
+- Person
+- Version number (8 bytes)
+- h0 (class handle)
+- 3 (# of fields)
+- int year
+- java.lang.String name
+- java.lang.String place
+- 1934
+- 5 Smith
+- 6 London
+- h1 (object handle)
+
+#+BEGIN_SRC java
+class Person implements Serializable{
+  private Person one;
+  private Person two;
+  public Couple(Person a, Person b){
+    one = a;
+    two = b;
+  }
+}
+#+END_SRC
+
+Couple { {"Smith","London",1934} , {"Jones","Paris",1945} } will be serialized as:
+- Couple
+- 8 byte version number
+- h0
+- 2
+- Person one
+- Person two
+- Person
+- 8 byte version number
+- h1
+- 3
+- int year
+- java.lang.String name
+- java.lang.String place
+- 1934
+- 5 Smith
+- 6 London
+- h2
+- 1945
+- 5 Jones
+- 5 Paris
+- h3
+- h4
+
+** Client-Server Communication
+*** Reliability
+**** Validity
+Message reaches destination
+**** Integrity
+- Message received = message sent
+- Received only once
+*** UDP
+**** Features
+- no ack or retries
+- fragmentation for message larger than max
+- not reliable
+  - integrity
+    - checksum
+  - no validity
+    - communication omission failure
+- for quick response, can assume reliability, manual fault handling
+**** Goal
+To build reliable protocol over UDP:
+- use timeout
+  - solve lost request problem
+  - but lost reply may imply more than once execution if operation is non-idempotent
+- use requestID to filter out duplicates
+
+*** TCP
+**** Features
+- abstraction of reliable stream
+  - connection-oriented
+    - setup connection before data transfer
+  - ack and retries
+  - tranparent message size segmentation
+- reliable
+  - integrity
+    - checksum
+    - sequence number
+  - validity
+    - ack
+    - timeouts
+- overhead
+  - store state info
+  - transmission overhead
+  - latency from connection setup
+**** Goal
+To reduce of overhead of protocols over TCP:
+- send requests and replies over same connection
+  - avoid multiple TCP slow-starts
+  - amortize connection establishment overhad
+* Distributed Objects & Remote Invocation
+** Object Model
+consists of a collection of interacting objects
+- communicate by invoking methods
+- to invoke a method, need...
+    - object reference
+    - method name
+    - arguments
+- interface defines method signatures
+    - definitions only
+    - no implementation
+    - implementation can be changed without changing interface
+- exceptions:
+    - errors
+    - unexpected conditions
+** Distributed Object Model
+*** Description
+- servers manage objects, clients invoke methods w/ RMI
+- remote method invocation
+  - between objects in different processes
+- local method invocation
+  - between objects in same process
+- remote objects
+  - objects that can receive remote invocations
+- to invoke a method, need
+  - remote object reference
+    - created by server
+    - obtained by client to access object
+  - method name
+  - arguments
+- remote interface
+  - specifies methods that can be invoked remotely
+  - defined by
+    - Java interface
+    - CORBA Interface Definition Language (IDL)
+- exception raised by RMI due to
+  - distribution
+    - timeouts
+    - lost messages
+  - method exceptions
+
+*** Invocation Semantics
+**** Maybe
+- No retransmission
+- If result, server executed method.
+- If no result,
+  - communication omission failure
+    - request lost
+      - not executed
+    - reply lost
+      - executed
+  - process omission failure
+    - executed/not executed
+- e.g. CORBA for void methods
+**** At-least-once
+- Retransmission
+- If result, server executed method >=1x
+- If no result, ??
+- Acceptable if idempotent
+- e.g. Sun RPC
+**** At-most-once
+- Retransmission and duplicate-filtering
+- If result, server executed method 1x
+- If no result, <=1x
+- e.g. Java RMI and CORBA
+** Architecture of RMI
+*** Proxy
+- 1 proxy foreach class of remote object reference
+- proxy implements methods in remote interface
+  - transparency of RMI
+- marshals arguments and unmarshals results
+*** Communication Modules
+- transmit request/reply
+- e.g. messageType + requestID + remoteObjectReference + methodID + arguments
+*** Skeleton
+- 1 skeleton foreach class of remote object
+- implements methods in remote interface
+- unmarshals arguments, invokes method, marshals results
+*** Binder
+- name service that maintains mappings
+  - object name -> remote object references
+- server register remote objects by name in binders
+- clients look up references
+*** Description
+- proxy and skeleton automatically generated by interface compiler
+  - Java -> Java RMI compiler
+  - CORBA -> use interface compiler
+- server
+  - skeleton
+  - real implementation of methods
+- client
+  - proxy
+
+For client to obtain RMI,
+- remote object references may not be available at programming
+- object names in text form are more convenient
+** Java RMI Example
+*** Polling
+**** Architecture
+***** Servant
+Implement methods in remote interface
+***** Server
+- create remote objects
+- register them in RMIregistry
+***** Client
+Lookup remote objects and access them
+**** RMI registry
+Binder for Java RMI
+- map URL-style names -> remote object reference
+- an instance of RMIregistry must run on each server
+- two cases:
+  - shared by all servers of different remote objects on same host (port 1099)
+  - 1 registry per server, each different port
+**** Implementation
+***** How to compile
+1. Compile remote interface
+   - generate proxies
+   - generate skeletons
+2. Compile source codes
+3. Start server
+4. Start client
+***** Example 1
+- Remote interface
+#+BEGIN_SRC java
+import java.rmi.*;
+
+public interface City extends Remote{
+  int getPopulation(String x) throws RemoteException;
+}
+#+END_SRC
+
+- Servant class
+#+BEGIN_SRC java
+import java.rmi.*;
+import java.rmi.server.*;
+
+public class CityImpl extends UnicastRemoteObject implements City{
+  public CityImpl throws RemoteException{
+    super();
+  }
+  public int getPopulation(String x) throws RemoteException{
+  
+  }
+}
+#+END_SRC
+- Server class
+#+BEGIN_SRC java
+import java.rmi.*;
+import java.rmi.server.*;
+
+public class CityServer{
+  public static void main(String args[]){
+    try{
+      CityImpl ci = new CityImpl();
+      Naming.rebind("rmi://.../City",ci);
+    }catch(Exception e){}
+  }
+}
+#+END_SRC
+
+- Client class
+#+BEGIN_SRC java
+import java.rmi.*;
+
+public class CityClient{
+  public static void main(String args[]){
+    try{
+      City c = (City) Naming.lookup("rmi://.../City");
+      c.getPopulation("Toronto");
+    }
+    catch (RemoteException e){}
+    catch (Exception e){}
+  }
+}
+#+END_SRC
+
+*** Callback
+Server informs when updated.
+How to implement?
+- client creates callback remote object
+#+BEGIN_SRC java
+public interface Callback extends Remote{
+  void cbMethod() throws RemoteException;
+}
+#+END_SRC
+- server provides ~register(Callback cb)~ and ~deregister(Callback cb)~
+#+BEGIN_SRC java
+void register(Callback cbObject) throws RemoteException;
+void deregister(Callback cbObject) throws RemoteException;
+#+END_SRC
+- when event occurs, server invokes method in ~Callback~
+* Distributed File Systems
+** Introduction
+*** File System
+- allow multiple clients to share access to files
+- provides API to programmers
+
+Elements:
+- files
+  - contain data and attributes
+- directories
+  - special types of files
+  - mapping: text names -> internal file identifiers
+  - serve as folders of files
+  - form hierarchical structure
+*** Distributed File System
+**** Features
+- support file accesses throughout an intranet
+- new features
+  - distributed naming and location
+  - component to deal with client-server communication
+**** Requirements
+***** Transparency
+- access
+  - same interface for accesses to local & remote files
+- location
+  - uniform file name space
+***** File replication & consistency maintenance
+- to improve performance and enhance scalability
+- enhance fault tolerance
+- thus need to maintain consistency
+***** Fault tolerance
+****** Stateful
+- remembers client's previous operations
+- inter-dependent requests
+- heavier server demand
+- difficult setup and recovery on crashes
+  - server must restore/notify after restart
+  - server must detect client crashes and discard states
+****** Stateless
+- untracked independent self-contained requests
+- easy setup and restore
+- less burden
+- heavier network demand
+** Sun NFS
+*** Overview
+- access transparency
+  - apps use same file operations for both local & remote
+- no location tranparency
+  - different clients can mount server dir to different local dirs
+- stateless servers and idempotent operations
+  - no need to recover state
+  - server unaffected by client failure
+- approximate one-copy update semantics
+*** Architecture
+- symmetric client-server relationship
+  - each computer in network can act both as client/server
+- OS independent design
+- files are accessed by means of file IDs
+  - file IDs is reference to file in the FS
+  - file IDs are called file handles in NFS
+    - FS ID
+    - ID for file in FS
+*** Client-Server Communication
+**** NFS Server Interface
+- operations used by NFS client in RPC
+- not used directly by user programs
+- stateles and idempotent operations
+  - no open close and RW pointer
+  - self contained
+**** NFS Client
+- supply interface suitable for use by conventional programs
+  - emulates UNIX FS emantics
+- transfer blocks of files to/from NFS servers
+**** Mount Service
+***** Overview
+- server exports FS
+  - mount service process runs
+  - ~/etc/exports~:
+    - names of local FS available for remote mounting
+    - hosts permitted to mount
+- client mounts FS
+  - use modified UNIX mount to request mounting
+    - remote host name
+    - pathname in remote FS
+    - local name
+  - communicates with mount service using RPC protocol
+    - request: remote dir pathname to server
+    - reply: file handle of dir
+  - maintains table of mounted FS
+  - NFS doesn't enforce single network-wide file namespace
+    - can assign different local names to remote directory
+***** Pathname Translation
+Suppose ~/~ of remote server is mounted. To access ~/bin/draw/readme~:
+1. ~binfh = lookup(rootfh,"bin")~
+2. ~drawfh = lookup(binfh,"draw")~
+3. ~readmefh = lookup(drawfh,"readme")~
+Efficiency can be improved by caching.
+*** Client Caching
+- caches results of RW etc
+  - to reduce communication with server
+  - block granularity
+  - mainly in main memory
+- comparison
+  - local systems
+    - one-copy update semantics
+      - when file modified, all other clients see updates immediately
+  - distributed systems
+    - approximation to one-copy update semantics
+- writes by client do not result in immediate updating of cached copies of same file in other clients
+- potentially different versions of files across different clients
+- to maintain consistency, clients should poll server
+- cache is fresh when ~T-Tc < t~
+- otherwise, need to poll validity
+
+** AFS and Code File Systems
+*** AFS Architecture
+**** Features
+- scalable
+- two partitions of nodes
+  - dedicated file servers
+  - large number of clients
+- similar to NFS
+  - access to files via normal UNIX operations
+  - venus clients and vice servers communicate using RPC
+  - user programs use conventional UNIX pathnames to refer to files
+  - venus translates pathnames into file IDs using step-by-step lookups from dirs in vice servers
+  - files accesses by the obtained file IDs
+**** Shared File Namespace
+- shared file namespace
+  - vice servers maintain global shared file namespace
+  - venus clients follow
+- clients have access to shared namespace by special local subdir e.g. /afs
+  - client access file in /afs/ -> venus ensures appropriate part mounted
+  - when mounting, venus ensures naming graph rooted at this subdir is always subgraph of complete shared namespace maintained by vice servers
+  - shared files have same pathname
+**** Volume
+- easy replication, location, movement
+  - basic unit of mounting and replication
+  - smaller than UNIX FS
+  - volume = partial subtree in shared namespace maintain by vice servers
+**** Replication
+- each file is contained in =1 logical volume
+- volume may be replicated
+- each logical volume is associated with a RVID
+  - location and replication independent
+- each physical volume has own VID
+  - location dependent
+- each shared file is identified by file ID
+  - RVID + file handle
+- consistency
+  - read-one, write-all
+**** Location
+- Volume replication DB
+  - RVID -> VIDs
+- Volume location DB
+  - VID -> server
+So the file ID is transformed from RVID + file handle to Server + file handle after being passed to Volume replication DB and Volume location DB. Databases are fully replicated at each server.
+*** Whole-File Serving and Caching
+*** Coda File System
+* P2P File Sharing Systems
+** Introduction
+** Unstructured P2P File Sharing
+*** Napster
+*** Gnutella
+*** KaZaA
+** Structured DHT Systems
+*** DHT Services
+*** Consistent Hashing
+*** Chord
+* Name Services
+** Names and Name Services
+** Domain Name System
+*** Example
+
+* Time and Global States
+** Synchronizing Physical Clocks
+** Causal Ordering and Logical Clocks
+** Global States
+** Distributed Debugging
+* Coordination and Agreement
+** Distributed Mutex
+** Election
+** Consensus Problem
+** Summary
+* Replication and Consistency
+** Introduction
+** Data-Centric Consistency Models & Protocols
+** Client-Centric Consistency Models & Protocols
