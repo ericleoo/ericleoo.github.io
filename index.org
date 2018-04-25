@@ -1,0 +1,4 @@
+#+TITLE: Welcome to my website
+#+AUTHOR: Eric Leonardo Lim
+- [[https://ericleoo.github.io/CV/][My CV]]
+- [[https://ericleoo.github.io/CZ4013][CZ4013 Summary]]

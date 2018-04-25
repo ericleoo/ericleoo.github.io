@@ -1,0 +1,2011 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>CZ4013 Distributed Systems Summary</title>
+<!-- 2018-04-26 Thu 01:55 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<meta  name="author" content="Eric Leonardo Lim" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">CZ4013 Distributed Systems Summary</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Introduction</a>
+<ul>
+<li><a href="#sec-1-1">1.1. What is DS?</a>
+<ul>
+<li><a href="#sec-1-1-1">1.1.1. Definition</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-2">1.2. Fundamental Characteristics of DS</a>
+<ul>
+<li><a href="#sec-1-2-1">1.2.1. Concurrency</a></li>
+<li><a href="#sec-1-2-2">1.2.2. Loosely coupled</a></li>
+<li><a href="#sec-1-2-3">1.2.3. Independent failures</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-3">1.3. Main Motivation of DS: Resource Sharing</a>
+<ul>
+<li><a href="#sec-1-3-1">1.3.1. Description</a></li>
+<li><a href="#sec-1-3-2">1.3.2. Service</a></li>
+<li><a href="#sec-1-3-3">1.3.3. Server</a></li>
+<li><a href="#sec-1-3-4">1.3.4. Client</a></li>
+<li><a href="#sec-1-3-5">1.3.5. Remote Invocation</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-4">1.4. DS Issues and Problems</a>
+<ul>
+<li><a href="#sec-1-4-1">1.4.1. Heterogeneity</a></li>
+<li><a href="#sec-1-4-2">1.4.2. Scalability</a></li>
+<li><a href="#sec-1-4-3">1.4.3. Failure handling</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-5">1.5. Architectural Models</a>
+<ul>
+<li><a href="#sec-1-5-1">1.5.1. SW and HW layers (vertical)</a></li>
+<li><a href="#sec-1-5-2">1.5.2. System architectures (horizontal)</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-6">1.6. Fundamental Models</a>
+<ul>
+<li><a href="#sec-1-6-1">1.6.1. Interaction Model</a></li>
+<li><a href="#sec-1-6-2">1.6.2. Failure Model</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#sec-2">2. Interprocess Communication</a>
+<ul>
+<li><a href="#sec-2-1">2.1. External Data Representation &amp; Mashalling</a>
+<ul>
+<li><a href="#sec-2-1-1">2.1.1. Marshal &amp; Unmarshal</a></li>
+<li><a href="#sec-2-1-2">2.1.2. CORBA's Common Data Representation</a></li>
+<li><a href="#sec-2-1-3">2.1.3. Java object serialization</a></li>
+</ul>
+</li>
+<li><a href="#sec-2-2">2.2. Client-Server Communication</a>
+<ul>
+<li><a href="#sec-2-2-1">2.2.1. Reliability</a></li>
+<li><a href="#sec-2-2-2">2.2.2. UDP</a></li>
+<li><a href="#sec-2-2-3">2.2.3. TCP</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#sec-3">3. Distributed Objects &amp; Remote Invocation</a>
+<ul>
+<li><a href="#sec-3-1">3.1. Object Model</a></li>
+<li><a href="#sec-3-2">3.2. Distributed Object Model</a>
+<ul>
+<li><a href="#sec-3-2-1">3.2.1. Description</a></li>
+<li><a href="#sec-3-2-2">3.2.2. Invocation Semantics</a></li>
+</ul>
+</li>
+<li><a href="#sec-3-3">3.3. Architecture of RMI</a>
+<ul>
+<li><a href="#sec-3-3-1">3.3.1. Proxy</a></li>
+<li><a href="#sec-3-3-2">3.3.2. Communication Modules</a></li>
+<li><a href="#sec-3-3-3">3.3.3. Skeleton</a></li>
+<li><a href="#sec-3-3-4">3.3.4. Binder</a></li>
+<li><a href="#sec-3-3-5">3.3.5. Description</a></li>
+</ul>
+</li>
+<li><a href="#sec-3-4">3.4. Java RMI Example</a>
+<ul>
+<li><a href="#sec-3-4-1">3.4.1. Polling</a></li>
+<li><a href="#sec-3-4-2">3.4.2. Callback</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#sec-4">4. Distributed File Systems</a>
+<ul>
+<li><a href="#sec-4-1">4.1. Introduction</a>
+<ul>
+<li><a href="#sec-4-1-1">4.1.1. File System</a></li>
+<li><a href="#sec-4-1-2">4.1.2. Distributed File System</a></li>
+</ul>
+</li>
+<li><a href="#sec-4-2">4.2. Sun NFS</a>
+<ul>
+<li><a href="#sec-4-2-1">4.2.1. Overview</a></li>
+<li><a href="#sec-4-2-2">4.2.2. Architecture</a></li>
+<li><a href="#sec-4-2-3">4.2.3. Client-Server Communication</a></li>
+<li><a href="#sec-4-2-4">4.2.4. Client Caching</a></li>
+</ul>
+</li>
+<li><a href="#sec-4-3">4.3. AFS and Code File Systems</a>
+<ul>
+<li><a href="#sec-4-3-1">4.3.1. AFS Architecture</a></li>
+<li><a href="#sec-4-3-2">4.3.2. Whole-File Serving and Caching</a></li>
+<li><a href="#sec-4-3-3">4.3.3. Code File System</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#sec-5">5. P2P File Sharing Systems</a>
+<ul>
+<li><a href="#sec-5-1">5.1. Introduction</a></li>
+<li><a href="#sec-5-2">5.2. Unstructured P2P File Sharing</a>
+<ul>
+<li><a href="#sec-5-2-1">5.2.1. Napster</a></li>
+<li><a href="#sec-5-2-2">5.2.2. Gnutella</a></li>
+<li><a href="#sec-5-2-3">5.2.3. KaZaA</a></li>
+</ul>
+</li>
+<li><a href="#sec-5-3">5.3. Structured DHT Systems</a>
+<ul>
+<li><a href="#sec-5-3-1">5.3.1. DHT Services</a></li>
+<li><a href="#sec-5-3-2">5.3.2. Consistent Hashing</a></li>
+<li><a href="#sec-5-3-3">5.3.3. Chord</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#sec-6">6. Name Services</a>
+<ul>
+<li><a href="#sec-6-1">6.1. Names and Name Services</a></li>
+<li><a href="#sec-6-2">6.2. Domain Name System</a>
+<ul>
+<li><a href="#sec-6-2-1">6.2.1. Example</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#sec-7">7. Time and Global States</a>
+<ul>
+<li><a href="#sec-7-1">7.1. Synchronizing Physical Clocks</a></li>
+<li><a href="#sec-7-2">7.2. Causal Ordering and Logical Clocks</a></li>
+<li><a href="#sec-7-3">7.3. Global States</a></li>
+<li><a href="#sec-7-4">7.4. Distributed Debugging</a></li>
+</ul>
+</li>
+<li><a href="#sec-8">8. Coordination and Agreement</a>
+<ul>
+<li><a href="#sec-8-1">8.1. Distributed Mutex</a></li>
+<li><a href="#sec-8-2">8.2. Election</a></li>
+<li><a href="#sec-8-3">8.3. Consensus Problem</a></li>
+<li><a href="#sec-8-4">8.4. Summary</a></li>
+</ul>
+</li>
+<li><a href="#sec-9">9. Replication and Consistency</a>
+<ul>
+<li><a href="#sec-9-1">9.1. Introduction</a></li>
+<li><a href="#sec-9-2">9.2. Data-Centric Consistency Models &amp; Protocols</a></li>
+<li><a href="#sec-9-3">9.3. Client-Centric Consistency Models &amp; Protocols</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> Introduction</h2>
+<div class="outline-text-2" id="text-1">
+</div><div id="outline-container-sec-1-1" class="outline-3">
+<h3 id="sec-1-1"><span class="section-number-3">1.1</span> What is DS?</h3>
+<div class="outline-text-3" id="text-1-1">
+</div><div id="outline-container-sec-1-1-1" class="outline-4">
+<h4 id="sec-1-1-1"><span class="section-number-4">1.1.1</span> Definition</h4>
+<div class="outline-text-4" id="text-1-1-1">
+<p>
+A set of networked computers that <span class="underline">communicate</span> and <span class="underline">coordinate</span> their actions only by <span class="underline">passing messages</span>.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-1-2" class="outline-3">
+<h3 id="sec-1-2"><span class="section-number-3">1.2</span> Fundamental Characteristics of DS</h3>
+<div class="outline-text-3" id="text-1-2">
+</div><div id="outline-container-sec-1-2-1" class="outline-4">
+<h4 id="sec-1-2-1"><span class="section-number-4">1.2.1</span> Concurrency</h4>
+<div class="outline-text-4" id="text-1-2-1">
+<ul class="org-ul">
+<li>More computer -&gt; Higher capacity -&gt; Higher performance
+</li>
+<li>Need coordination
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-1-2-2" class="outline-4">
+<h4 id="sec-1-2-2"><span class="section-number-4">1.2.2</span> Loosely coupled</h4>
+<div class="outline-text-4" id="text-1-2-2">
+<ul class="org-ul">
+<li>No global clock
+<ul class="org-ul">
+<li>difficult sync
+</li>
+<li>lack certainty
+</li>
+<li>difficult algo design
+</li>
+</ul>
+</li>
+<li>No global shared memory
+<ul class="org-ul">
+<li>interaction by message passing
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-1-2-3" class="outline-4">
+<h4 id="sec-1-2-3"><span class="section-number-4">1.2.3</span> Independent failures</h4>
+<div class="outline-text-4" id="text-1-2-3">
+<ul class="org-ul">
+<li>difficult detection
+</li>
+<li>more fault-tolerant if properly designed
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-1-3" class="outline-3">
+<h3 id="sec-1-3"><span class="section-number-3">1.3</span> Main Motivation of DS: Resource Sharing</h3>
+<div class="outline-text-3" id="text-1-3">
+</div><div id="outline-container-sec-1-3-1" class="outline-4">
+<h4 id="sec-1-3-1"><span class="section-number-4">1.3.1</span> Description</h4>
+<div class="outline-text-4" id="text-1-3-1">
+<p>
+We can share resources (e.g. information, hardware, software) over a DS to save cost and manpower.
+</p>
+
+<p>
+Resources are shared via <span class="underline">services</span>. Server accepts client requests, performs services, responds to clients. Requests and replies are sent in form of messages.
+</p>
+</div>
+</div>
+<div id="outline-container-sec-1-3-2" class="outline-4">
+<h4 id="sec-1-3-2"><span class="section-number-4">1.3.2</span> Service</h4>
+<div class="outline-text-4" id="text-1-3-2">
+<p>
+Distinct part of computer system providing accesses to managed resources
+</p>
+</div>
+</div>
+<div id="outline-container-sec-1-3-3" class="outline-4">
+<h4 id="sec-1-3-3"><span class="section-number-4">1.3.3</span> Server</h4>
+<div class="outline-text-4" id="text-1-3-3">
+<p>
+Process managing resources
+</p>
+</div>
+</div>
+<div id="outline-container-sec-1-3-4" class="outline-4">
+<h4 id="sec-1-3-4"><span class="section-number-4">1.3.4</span> Client</h4>
+<div class="outline-text-4" id="text-1-3-4">
+<p>
+Process requesting resources access 
+</p>
+</div>
+</div>
+<div id="outline-container-sec-1-3-5" class="outline-4">
+<h4 id="sec-1-3-5"><span class="section-number-4">1.3.5</span> Remote Invocation</h4>
+<div class="outline-text-4" id="text-1-3-5">
+<p>
+a complete interaction between client &amp; server. (request to response).
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-1-4" class="outline-3">
+<h3 id="sec-1-4"><span class="section-number-3">1.4</span> DS Issues and Problems</h3>
+<div class="outline-text-3" id="text-1-4">
+</div><div id="outline-container-sec-1-4-1" class="outline-4">
+<h4 id="sec-1-4-1"><span class="section-number-4">1.4.1</span> Heterogeneity</h4>
+<div class="outline-text-4" id="text-1-4-1">
+</div><ol class="org-ol"><li><a id="sec-1-4-1-1" name="sec-1-4-1-1"></a>Networks<br  /></li>
+<li><a id="sec-1-4-1-2" name="sec-1-4-1-2"></a>Hardware<br  /></li>
+<li><a id="sec-1-4-1-3" name="sec-1-4-1-3"></a>OS<br  /></li>
+<li><a id="sec-1-4-1-4" name="sec-1-4-1-4"></a>Programming languages<br  /></li></ol>
+</div>
+<div id="outline-container-sec-1-4-2" class="outline-4">
+<h4 id="sec-1-4-2"><span class="section-number-4">1.4.2</span> Scalability</h4>
+<div class="outline-text-4" id="text-1-4-2">
+</div><ol class="org-ol"><li><a id="sec-1-4-2-1" name="sec-1-4-2-1"></a>Approaches to handle increasing demand<br  /><div class="outline-text-5" id="text-1-4-2-1">
+<ul class="org-ul">
+<li>Caching and data replication
+</li>
+<li>Deploy multiple servers
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-1-4-2-2" name="sec-1-4-2-2"></a>Avoid bottlenecks<br  /><div class="outline-text-5" id="text-1-4-2-2">
+<ul class="org-ul">
+<li>Prefer decentralized to centralized
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-1-4-2-3" name="sec-1-4-2-3"></a>Prevent SW resources from running out<br  /><div class="outline-text-5" id="text-1-4-2-3">
+<ul class="org-ul">
+<li>e.g. IP length
+</li>
+</ul>
+</div>
+</li></ol>
+</div>
+<div id="outline-container-sec-1-4-3" class="outline-4">
+<h4 id="sec-1-4-3"><span class="section-number-4">1.4.3</span> Failure handling</h4>
+<div class="outline-text-4" id="text-1-4-3">
+</div><ol class="org-ol"><li><a id="sec-1-4-3-1" name="sec-1-4-3-1"></a>Detecting<br  /><div class="outline-text-5" id="text-1-4-3-1">
+<p>
+e.g. checksum for corruption
+</p>
+</div>
+</li>
+<li><a id="sec-1-4-3-2" name="sec-1-4-3-2"></a>Masking<br  /><div class="outline-text-5" id="text-1-4-3-2">
+<p>
+e.g. retransmission for losts
+</p>
+</div>
+</li>
+<li><a id="sec-1-4-3-3" name="sec-1-4-3-3"></a>Tolerating<br  /><div class="outline-text-5" id="text-1-4-3-3">
+<p>
+use redundancy
+</p>
+</div>
+</li>
+<li><a id="sec-1-4-3-4" name="sec-1-4-3-4"></a>Recovery<br  /><div class="outline-text-5" id="text-1-4-3-4">
+<ul class="org-ul">
+<li>rollback when crashing
+</li>
+<li>not leaving data in inconsistent state
+</li>
+</ul>
+</div>
+</li></ol>
+</div>
+</div>
+<div id="outline-container-sec-1-5" class="outline-3">
+<h3 id="sec-1-5"><span class="section-number-3">1.5</span> Architectural Models</h3>
+<div class="outline-text-3" id="text-1-5">
+</div><div id="outline-container-sec-1-5-1" class="outline-4">
+<h4 id="sec-1-5-1"><span class="section-number-4">1.5.1</span> SW and HW layers (vertical)</h4>
+<div class="outline-text-4" id="text-1-5-1">
+</div><ol class="org-ol"><li><a id="sec-1-5-1-1" name="sec-1-5-1-1"></a>Platform<br  /><div class="outline-text-5" id="text-1-5-1-1">
+<p>
+Bring system's programming interface up to a level that facilitates communication and coordination between processes.
+</p>
+</div>
+<ol class="org-ol"><li><a id="sec-1-5-1-1-1" name="sec-1-5-1-1-1"></a>Hardware<br  /></li>
+<li><a id="sec-1-5-1-1-2" name="sec-1-5-1-1-2"></a>OS<br  /></li></ol>
+</li>
+<li><a id="sec-1-5-1-2" name="sec-1-5-1-2"></a>Middleware<br  /><div class="outline-text-5" id="text-1-5-1-2">
+<p>
+SW layer to mask heterogeneity and provide convenient programming model.
+Provide generic services to applications, e.g.:
+</p>
+<ul class="org-ul">
+<li>Naming
+</li>
+<li>Security
+</li>
+<li>Persistent storage
+</li>
+</ul>
+<p>
+e.g. Sun RPC, Java RMI, CORBA
+</p>
+</div>
+</li>
+<li><a id="sec-1-5-1-3" name="sec-1-5-1-3"></a>Applications/services<br  /></li></ol>
+</div>
+<div id="outline-container-sec-1-5-2" class="outline-4">
+<h4 id="sec-1-5-2"><span class="section-number-4">1.5.2</span> System architectures (horizontal)</h4>
+<div class="outline-text-4" id="text-1-5-2">
+</div><ol class="org-ol"><li><a id="sec-1-5-2-1" name="sec-1-5-2-1"></a>Client-server<br  /><div class="outline-text-5" id="text-1-5-2-1">
+<p>
+Simple yet useful. Division of work among servers: partitioning and replication.
+</p>
+</div>
+<ol class="org-ol"><li><a id="sec-1-5-2-1-1" name="sec-1-5-2-1-1"></a>Server<br  /><div class="outline-text-6" id="text-1-5-2-1-1">
+<p>
+Processes that manage resources
+</p>
+</div>
+</li>
+<li><a id="sec-1-5-2-1-2" name="sec-1-5-2-1-2"></a>Client<br  /><div class="outline-text-6" id="text-1-5-2-1-2">
+<p>
+Processes that use/access service
+</p>
+</div>
+</li></ol>
+</li>
+<li><a id="sec-1-5-2-2" name="sec-1-5-2-2"></a>P2P<br  /><div class="outline-text-5" id="text-1-5-2-2">
+<ul class="org-ul">
+<li>All processes play similar roles
+</li>
+<li>No distinction of roles
+</li>
+<li>More complex
+</li>
+</ul>
+</div>
+</li></ol>
+</div>
+</div>
+<div id="outline-container-sec-1-6" class="outline-3">
+<h3 id="sec-1-6"><span class="section-number-3">1.6</span> Fundamental Models</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+More formal description of common and intrinsic properties
+</p>
+</div>
+<div id="outline-container-sec-1-6-1" class="outline-4">
+<h4 id="sec-1-6-1"><span class="section-number-4">1.6.1</span> Interaction Model</h4>
+<div class="outline-text-4" id="text-1-6-1">
+</div><ol class="org-ol"><li><a id="sec-1-6-1-1" name="sec-1-6-1-1"></a>Synchronous DS<br  /><div class="outline-text-5" id="text-1-6-1-1">
+<ul class="org-ul">
+<li>Bounds on
+<ul class="org-ul">
+<li>Processing time
+</li>
+<li>Transmission time
+</li>
+<li>Clock drift rate
+</li>
+</ul>
+</li>
+<li>Infer properties
+<ul class="org-ul">
+<li>Timeout to detect failures
+</li>
+<li>Bound lag
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-1-6-1-2" name="sec-1-6-1-2"></a>Asynchronous DS<br  /><div class="outline-text-5" id="text-1-6-1-2">
+<ul class="org-ul">
+<li>No bounds
+</li>
+<li>Model internet
+</li>
+<li>Can't use timeouts to detect failures
+</li>
+</ul>
+</div>
+</li></ol>
+</div>
+<div id="outline-container-sec-1-6-2" class="outline-4">
+<h4 id="sec-1-6-2"><span class="section-number-4">1.6.2</span> Failure Model</h4>
+<div class="outline-text-4" id="text-1-6-2">
+</div><ol class="org-ol"><li><a id="sec-1-6-2-1" name="sec-1-6-2-1"></a>Omission failure<br  /><ol class="org-ol"><li><a id="sec-1-6-2-1-1" name="sec-1-6-2-1-1"></a>Process<br  /><div class="outline-text-6" id="text-1-6-2-1-1">
+<p>
+Crash
+</p>
+</div>
+</li>
+<li><a id="sec-1-6-2-1-2" name="sec-1-6-2-1-2"></a>Communication<br  /><div class="outline-text-6" id="text-1-6-2-1-2">
+<p>
+Fail to deliver
+</p>
+</div>
+</li></ol>
+</li>
+<li><a id="sec-1-6-2-2" name="sec-1-6-2-2"></a>Byzantine failure<br  /><div class="outline-text-5" id="text-1-6-2-2">
+<ul class="org-ul">
+<li>cause trouble
+</li>
+<li>arbitrarily omit intended steps
+</li>
+<li>arbitrarily take unintended steps
+</li>
+<li>process
+<ul class="org-ul">
+<li>set wrong values
+</li>
+<li>return wrong result
+</li>
+</ul>
+</li>
+<li>communication
+<ul class="org-ul">
+<li>corruption
+</li>
+<li>more than once
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li></ol>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Interprocess Communication</h2>
+<div class="outline-text-2" id="text-2">
+</div><div id="outline-container-sec-2-1" class="outline-3">
+<h3 id="sec-2-1"><span class="section-number-3">2.1</span> External Data Representation &amp; Mashalling</h3>
+<div class="outline-text-3" id="text-2-1">
+</div><div id="outline-container-sec-2-1-1" class="outline-4">
+<h4 id="sec-2-1-1"><span class="section-number-4">2.1.1</span> Marshal &amp; Unmarshal</h4>
+<div class="outline-text-4" id="text-2-1-1">
+<ul class="org-ul">
+<li>data transmitted as sequence of bytes
+</li>
+<li>data structures must be flattened
+</li>
+<li>different representations of same datatype
+<ul class="org-ul">
+<li>big endian: MSB first
+</li>
+<li>little endian: LSB first
+</li>
+</ul>
+</li>
+<li>extrenal data representation
+<ul class="org-ul">
+<li>agreed standard for representation
+</li>
+</ul>
+</li>
+<li>interprocess communication
+<ul class="org-ul">
+<li>define standard
+</li>
+<li>marshalling
+<ul class="org-ul">
+<li>structured &amp; primitive -&gt; external data representation
+</li>
+</ul>
+</li>
+<li>unmarshalling
+<ul class="org-ul">
+<li>external data representation -&gt; structured &amp; primitive
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-2-1-2" class="outline-4">
+<h4 id="sec-2-1-2"><span class="section-number-4">2.1.2</span> CORBA's Common Data Representation</h4>
+<div class="outline-text-4" id="text-2-1-2">
+<ul class="org-ul">
+<li>can represent all primitive and constructed datatypes
+</li>
+<li>types of data items are not given
+</li>
+<li>it is assumed that sender and recipient have common knowledge of order and types of data items
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-2-1-3" class="outline-4">
+<h4 id="sec-2-1-3"><span class="section-number-4">2.1.3</span> Java object serialization</h4>
+<div class="outline-text-4" id="text-2-1-3">
+<p>
+Deserialization does not require prior knowledge of object types.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-java">class Person implements Serializable{
+  private String name;
+  private String place;
+  private int year;
+}
+</pre>
+</div>
+
+<p>
+Person {"Smith","London",1934} will be serialized as:
+</p>
+<ul class="org-ul">
+<li>Person
+</li>
+<li>Version number (8 bytes)
+</li>
+<li>h0 (class handle)
+</li>
+<li>3 (# of fields)
+</li>
+<li>int year
+</li>
+<li>java.lang.String name
+</li>
+<li>java.lang.String place
+</li>
+<li>1934
+</li>
+<li>5 Smith
+</li>
+<li>6 London
+</li>
+<li>h1 (object handle)
+</li>
+</ul>
+
+<div class="org-src-container">
+
+<pre class="src src-java">class Person implements Serializable{
+  private Person one;
+  private Person two;
+  public Couple(Person a, Person b){
+    one = a;
+    two = b;
+  }
+}
+</pre>
+</div>
+
+<p>
+Couple { {"Smith","London",1934} , {"Jones","Paris",1945} } will be serialized as:
+</p>
+<ul class="org-ul">
+<li>Couple
+</li>
+<li>8 byte version number
+</li>
+<li>h0
+</li>
+<li>2
+</li>
+<li>Person one
+</li>
+<li>Person two
+</li>
+<li>Person
+</li>
+<li>8 byte version number
+</li>
+<li>h1
+</li>
+<li>3
+</li>
+<li>int year
+</li>
+<li>java.lang.String name
+</li>
+<li>java.lang.String place
+</li>
+<li>1934
+</li>
+<li>5 Smith
+</li>
+<li>6 London
+</li>
+<li>h2
+</li>
+<li>1945
+</li>
+<li>5 Jones
+</li>
+<li>5 Paris
+</li>
+<li>h3
+</li>
+<li>h4
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-2" class="outline-3">
+<h3 id="sec-2-2"><span class="section-number-3">2.2</span> Client-Server Communication</h3>
+<div class="outline-text-3" id="text-2-2">
+</div><div id="outline-container-sec-2-2-1" class="outline-4">
+<h4 id="sec-2-2-1"><span class="section-number-4">2.2.1</span> Reliability</h4>
+<div class="outline-text-4" id="text-2-2-1">
+</div><ol class="org-ol"><li><a id="sec-2-2-1-1" name="sec-2-2-1-1"></a>Validity<br  /><div class="outline-text-5" id="text-2-2-1-1">
+<p>
+Message reaches destination
+</p>
+</div>
+</li>
+<li><a id="sec-2-2-1-2" name="sec-2-2-1-2"></a>Integrity<br  /><div class="outline-text-5" id="text-2-2-1-2">
+<ul class="org-ul">
+<li>Message received = message sent
+</li>
+<li>Received only once
+</li>
+</ul>
+</div>
+</li></ol>
+</div>
+<div id="outline-container-sec-2-2-2" class="outline-4">
+<h4 id="sec-2-2-2"><span class="section-number-4">2.2.2</span> UDP</h4>
+<div class="outline-text-4" id="text-2-2-2">
+</div><ol class="org-ol"><li><a id="sec-2-2-2-1" name="sec-2-2-2-1"></a>Features<br  /><div class="outline-text-5" id="text-2-2-2-1">
+<ul class="org-ul">
+<li>no ack or retries
+</li>
+<li>fragmentation for message larger than max
+</li>
+<li>not reliable
+<ul class="org-ul">
+<li>integrity
+<ul class="org-ul">
+<li>checksum
+</li>
+</ul>
+</li>
+<li>no validity
+<ul class="org-ul">
+<li>communication omission failure
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>for quick response, can assume reliability, manual fault handling
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-2-2-2-2" name="sec-2-2-2-2"></a>Goal<br  /><div class="outline-text-5" id="text-2-2-2-2">
+<p>
+To build reliable protocol over UDP:
+</p>
+<ul class="org-ul">
+<li>use timeout
+<ul class="org-ul">
+<li>solve lost request problem
+</li>
+<li>but lost reply may imply more than once execution if operation is non-idempotent
+</li>
+</ul>
+</li>
+<li>use requestID to filter out duplicates
+</li>
+</ul>
+</div>
+</li></ol>
+</div>
+
+<div id="outline-container-sec-2-2-3" class="outline-4">
+<h4 id="sec-2-2-3"><span class="section-number-4">2.2.3</span> TCP</h4>
+<div class="outline-text-4" id="text-2-2-3">
+</div><ol class="org-ol"><li><a id="sec-2-2-3-1" name="sec-2-2-3-1"></a>Features<br  /><div class="outline-text-5" id="text-2-2-3-1">
+<ul class="org-ul">
+<li>abstraction of reliable stream
+<ul class="org-ul">
+<li>connection-oriented
+<ul class="org-ul">
+<li>setup connection before data transfer
+</li>
+</ul>
+</li>
+<li>ack and retries
+</li>
+<li>tranparent message size segmentation
+</li>
+</ul>
+</li>
+<li>reliable
+<ul class="org-ul">
+<li>integrity
+<ul class="org-ul">
+<li>checksum
+</li>
+<li>sequence number
+</li>
+</ul>
+</li>
+<li>validity
+<ul class="org-ul">
+<li>ack
+</li>
+<li>timeouts
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>overhead
+<ul class="org-ul">
+<li>store state info
+</li>
+<li>transmission overhead
+</li>
+<li>latency from connection setup
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-2-2-3-2" name="sec-2-2-3-2"></a>Goal<br  /><div class="outline-text-5" id="text-2-2-3-2">
+<p>
+To reduce of overhead of protocols over TCP:
+</p>
+<ul class="org-ul">
+<li>send requests and replies over same connection
+<ul class="org-ul">
+<li>avoid multiple TCP slow-starts
+</li>
+<li>amortize connection establishment overhad
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li></ol>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> Distributed Objects &amp; Remote Invocation</h2>
+<div class="outline-text-2" id="text-3">
+</div><div id="outline-container-sec-3-1" class="outline-3">
+<h3 id="sec-3-1"><span class="section-number-3">3.1</span> Object Model</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+consists of a collection of interacting objects
+</p>
+<ul class="org-ul">
+<li>communicate by invoking methods
+</li>
+<li>to invoke a method, need&#x2026;
+<ul class="org-ul">
+<li>object reference
+</li>
+<li>method name
+</li>
+<li>arguments
+</li>
+</ul>
+</li>
+<li>interface defines method signatures
+<ul class="org-ul">
+<li>definitions only
+</li>
+<li>no implementation
+</li>
+<li>implementation can be changed without changing interface
+</li>
+</ul>
+</li>
+<li>exceptions:
+<ul class="org-ul">
+<li>errors
+</li>
+<li>unexpected conditions
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-3-2" class="outline-3">
+<h3 id="sec-3-2"><span class="section-number-3">3.2</span> Distributed Object Model</h3>
+<div class="outline-text-3" id="text-3-2">
+</div><div id="outline-container-sec-3-2-1" class="outline-4">
+<h4 id="sec-3-2-1"><span class="section-number-4">3.2.1</span> Description</h4>
+<div class="outline-text-4" id="text-3-2-1">
+<ul class="org-ul">
+<li>servers manage objects, clients invoke methods w/ RMI
+</li>
+<li>remote method invocation
+<ul class="org-ul">
+<li>between objects in different processes
+</li>
+</ul>
+</li>
+<li>local method invocation
+<ul class="org-ul">
+<li>between objects in same process
+</li>
+</ul>
+</li>
+<li>remote objects
+<ul class="org-ul">
+<li>objects that can receive remote invocations
+</li>
+</ul>
+</li>
+<li>to invoke a method, need
+<ul class="org-ul">
+<li>remote object reference
+<ul class="org-ul">
+<li>created by server
+</li>
+<li>obtained by client to access object
+</li>
+</ul>
+</li>
+<li>method name
+</li>
+<li>arguments
+</li>
+</ul>
+</li>
+<li>remote interface
+<ul class="org-ul">
+<li>specifies methods that can be invoked remotely
+</li>
+<li>defined by
+<ul class="org-ul">
+<li>Java interface
+</li>
+<li>CORBA Interface Definition Language (IDL)
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>exception raised by RMI due to
+<ul class="org-ul">
+<li>distribution
+<ul class="org-ul">
+<li>timeouts
+</li>
+<li>lost messages
+</li>
+</ul>
+</li>
+<li>method exceptions
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-3-2-2" class="outline-4">
+<h4 id="sec-3-2-2"><span class="section-number-4">3.2.2</span> Invocation Semantics</h4>
+<div class="outline-text-4" id="text-3-2-2">
+</div><ol class="org-ol"><li><a id="sec-3-2-2-1" name="sec-3-2-2-1"></a>Maybe<br  /><div class="outline-text-5" id="text-3-2-2-1">
+<ul class="org-ul">
+<li>No retransmission
+</li>
+<li>If result, server executed method.
+</li>
+<li>If no result,
+<ul class="org-ul">
+<li>communication omission failure
+<ul class="org-ul">
+<li>request lost
+<ul class="org-ul">
+<li>not executed
+</li>
+</ul>
+</li>
+<li>reply lost
+<ul class="org-ul">
+<li>executed
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>process omission failure
+<ul class="org-ul">
+<li>executed/not executed
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>e.g. CORBA for void methods
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-3-2-2-2" name="sec-3-2-2-2"></a>At-least-once<br  /><div class="outline-text-5" id="text-3-2-2-2">
+<ul class="org-ul">
+<li>Retransmission
+</li>
+<li>If result, server executed method &gt;=1x
+</li>
+<li>If no result, ??
+</li>
+<li>Acceptable if idempotent
+</li>
+<li>e.g. Sun RPC
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-3-2-2-3" name="sec-3-2-2-3"></a>At-most-once<br  /><div class="outline-text-5" id="text-3-2-2-3">
+<ul class="org-ul">
+<li>Retransmission and duplicate-filtering
+</li>
+<li>If result, server executed method 1x
+</li>
+<li>If no result, &lt;=1x
+</li>
+<li>e.g. Java RMI and CORBA
+</li>
+</ul>
+</div>
+</li></ol>
+</div>
+</div>
+<div id="outline-container-sec-3-3" class="outline-3">
+<h3 id="sec-3-3"><span class="section-number-3">3.3</span> Architecture of RMI</h3>
+<div class="outline-text-3" id="text-3-3">
+</div><div id="outline-container-sec-3-3-1" class="outline-4">
+<h4 id="sec-3-3-1"><span class="section-number-4">3.3.1</span> Proxy</h4>
+<div class="outline-text-4" id="text-3-3-1">
+<ul class="org-ul">
+<li>1 proxy foreach class of remote object reference
+</li>
+<li>proxy implements methods in remote interface
+<ul class="org-ul">
+<li>transparency of RMI
+</li>
+</ul>
+</li>
+<li>marshals arguments and unmarshals results
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-3-3-2" class="outline-4">
+<h4 id="sec-3-3-2"><span class="section-number-4">3.3.2</span> Communication Modules</h4>
+<div class="outline-text-4" id="text-3-3-2">
+<ul class="org-ul">
+<li>transmit request/reply
+</li>
+<li>e.g. messageType + requestID + remoteObjectReference + methodID + arguments
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-3-3-3" class="outline-4">
+<h4 id="sec-3-3-3"><span class="section-number-4">3.3.3</span> Skeleton</h4>
+<div class="outline-text-4" id="text-3-3-3">
+<ul class="org-ul">
+<li>1 skeleton foreach class of remote object
+</li>
+<li>implements methods in remote interface
+</li>
+<li>unmarshals arguments, invokes method, marshals results
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-3-3-4" class="outline-4">
+<h4 id="sec-3-3-4"><span class="section-number-4">3.3.4</span> Binder</h4>
+<div class="outline-text-4" id="text-3-3-4">
+<ul class="org-ul">
+<li>name service that maintains mappings
+<ul class="org-ul">
+<li>object name -&gt; remote object references
+</li>
+</ul>
+</li>
+<li>server register remote objects by name in binders
+</li>
+<li>clients look up references
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-3-3-5" class="outline-4">
+<h4 id="sec-3-3-5"><span class="section-number-4">3.3.5</span> Description</h4>
+<div class="outline-text-4" id="text-3-3-5">
+<ul class="org-ul">
+<li>proxy and skeleton automatically generated by interface compiler
+<ul class="org-ul">
+<li>Java -&gt; Java RMI compiler
+</li>
+<li>CORBA -&gt; use interface compiler
+</li>
+</ul>
+</li>
+<li>server
+<ul class="org-ul">
+<li>skeleton
+</li>
+<li>real implementation of methods
+</li>
+</ul>
+</li>
+<li>client
+<ul class="org-ul">
+<li>proxy
+</li>
+</ul>
+</li>
+</ul>
+
+<p>
+For client to obtain RMI,
+</p>
+<ul class="org-ul">
+<li>remote object references may not be available at programming
+</li>
+<li>object names in text form are more convenient
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-3-4" class="outline-3">
+<h3 id="sec-3-4"><span class="section-number-3">3.4</span> Java RMI Example</h3>
+<div class="outline-text-3" id="text-3-4">
+</div><div id="outline-container-sec-3-4-1" class="outline-4">
+<h4 id="sec-3-4-1"><span class="section-number-4">3.4.1</span> Polling</h4>
+<div class="outline-text-4" id="text-3-4-1">
+</div><ol class="org-ol"><li><a id="sec-3-4-1-1" name="sec-3-4-1-1"></a>Architecture<br  /><ol class="org-ol"><li><a id="sec-3-4-1-1-1" name="sec-3-4-1-1-1"></a>Servant<br  /><div class="outline-text-6" id="text-3-4-1-1-1">
+<p>
+Implement methods in remote interface
+</p>
+</div>
+</li>
+<li><a id="sec-3-4-1-1-2" name="sec-3-4-1-1-2"></a>Server<br  /><div class="outline-text-6" id="text-3-4-1-1-2">
+<ul class="org-ul">
+<li>create remote objects
+</li>
+<li>register them in RMIregistry
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-3-4-1-1-3" name="sec-3-4-1-1-3"></a>Client<br  /><div class="outline-text-6" id="text-3-4-1-1-3">
+<p>
+Lookup remote objects and access them
+</p>
+</div>
+</li></ol>
+</li>
+<li><a id="sec-3-4-1-2" name="sec-3-4-1-2"></a>RMI registry<br  /><div class="outline-text-5" id="text-3-4-1-2">
+<p>
+Binder for Java RMI
+</p>
+<ul class="org-ul">
+<li>map URL-style names -&gt; remote object reference
+</li>
+<li>an instance of RMIregistry must run on each server
+</li>
+<li>two cases:
+<ul class="org-ul">
+<li>shared by all servers of different remote objects on same host (port 1099)
+</li>
+<li>1 registry per server, each different port
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-3-4-1-3" name="sec-3-4-1-3"></a>Implementation<br  /><ol class="org-ol"><li><a id="sec-3-4-1-3-1" name="sec-3-4-1-3-1"></a>How to compile<br  /><div class="outline-text-6" id="text-3-4-1-3-1">
+<ol class="org-ol">
+<li>Compile remote interface
+<ul class="org-ul">
+<li>generate proxies
+</li>
+<li>generate skeletons
+</li>
+</ul>
+</li>
+<li>Compile source codes
+</li>
+<li>Start server
+</li>
+<li>Start client
+</li>
+</ol>
+</div>
+</li>
+<li><a id="sec-3-4-1-3-2" name="sec-3-4-1-3-2"></a>Example 1<br  /><div class="outline-text-6" id="text-3-4-1-3-2">
+<ul class="org-ul">
+<li>Remote interface
+</li>
+</ul>
+<div class="org-src-container">
+
+<pre class="src src-java">import java.rmi.*;
+
+public interface City extends Remote{
+  int getPopulation(String x) throws RemoteException;
+}
+</pre>
+</div>
+
+<ul class="org-ul">
+<li>Servant class
+</li>
+</ul>
+<div class="org-src-container">
+
+<pre class="src src-java">import java.rmi.*;
+import java.rmi.server.*;
+
+public class CityImpl extends UnicastRemoteObject implements City{
+  public CityImpl throws RemoteException{
+    super();
+  }
+  public int getPopulation(String x) throws RemoteException{
+
+  }
+}
+</pre>
+</div>
+<ul class="org-ul">
+<li>Server class
+</li>
+</ul>
+<div class="org-src-container">
+
+<pre class="src src-java">import java.rmi.*;
+import java.rmi.server.*;
+
+public class CityServer{
+  public static void main(String args[]){
+    try{
+      CityImpl ci = new CityImpl();
+      Naming.rebind("rmi://.../City",ci);
+    }catch(Exception e){}
+  }
+}
+</pre>
+</div>
+
+<ul class="org-ul">
+<li>Client class
+</li>
+</ul>
+<div class="org-src-container">
+
+<pre class="src src-java">import java.rmi.*;
+
+public class CityClient{
+  public static void main(String args[]){
+    try{
+      City c = (City) Naming.lookup("rmi://.../City");
+      c.getPopulation("Toronto");
+    }
+    catch (RemoteException e){}
+    catch (Exception e){}
+  }
+}
+</pre>
+</div>
+</div>
+</li></ol>
+</li></ol>
+</div>
+
+<div id="outline-container-sec-3-4-2" class="outline-4">
+<h4 id="sec-3-4-2"><span class="section-number-4">3.4.2</span> Callback</h4>
+<div class="outline-text-4" id="text-3-4-2">
+<p>
+Server informs when updated.
+How to implement?
+</p>
+<ul class="org-ul">
+<li>client creates callback remote object
+</li>
+</ul>
+<div class="org-src-container">
+
+<pre class="src src-java">public interface Callback extends Remote{
+  void cbMethod() throws RemoteException;
+}
+</pre>
+</div>
+<ul class="org-ul">
+<li>server provides <code>register(Callback cb)</code> and <code>deregister(Callback cb)</code>
+</li>
+</ul>
+<div class="org-src-container">
+
+<pre class="src src-java">void register(Callback cbObject) throws RemoteException;
+void deregister(Callback cbObject) throws RemoteException;
+</pre>
+</div>
+<ul class="org-ul">
+<li>when event occurs, server invokes method in <code>Callback</code>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> Distributed File Systems</h2>
+<div class="outline-text-2" id="text-4">
+</div><div id="outline-container-sec-4-1" class="outline-3">
+<h3 id="sec-4-1"><span class="section-number-3">4.1</span> Introduction</h3>
+<div class="outline-text-3" id="text-4-1">
+</div><div id="outline-container-sec-4-1-1" class="outline-4">
+<h4 id="sec-4-1-1"><span class="section-number-4">4.1.1</span> File System</h4>
+<div class="outline-text-4" id="text-4-1-1">
+<ul class="org-ul">
+<li>allow multiple clients to share access to files
+</li>
+<li>provides API to programmers
+</li>
+</ul>
+
+<p>
+Elements:
+</p>
+<ul class="org-ul">
+<li>files
+<ul class="org-ul">
+<li>contain data and attributes
+</li>
+</ul>
+</li>
+<li>directories
+<ul class="org-ul">
+<li>special types of files
+</li>
+<li>mapping: text names -&gt; internal file identifiers
+</li>
+<li>serve as folders of files
+</li>
+<li>form hierarchical structure
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-4-1-2" class="outline-4">
+<h4 id="sec-4-1-2"><span class="section-number-4">4.1.2</span> Distributed File System</h4>
+<div class="outline-text-4" id="text-4-1-2">
+</div><ol class="org-ol"><li><a id="sec-4-1-2-1" name="sec-4-1-2-1"></a>Features<br  /><div class="outline-text-5" id="text-4-1-2-1">
+<ul class="org-ul">
+<li>support file accesses throughout an intranet
+</li>
+<li>new features
+<ul class="org-ul">
+<li>distributed naming and location
+</li>
+<li>component to deal with client-server communication
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-4-1-2-2" name="sec-4-1-2-2"></a>Requirements<br  /><ol class="org-ol"><li><a id="sec-4-1-2-2-1" name="sec-4-1-2-2-1"></a>Transparency<br  /><div class="outline-text-6" id="text-4-1-2-2-1">
+<ul class="org-ul">
+<li>access
+<ul class="org-ul">
+<li>same interface for accesses to local &amp; remote files
+</li>
+</ul>
+</li>
+<li>location
+<ul class="org-ul">
+<li>uniform file name space
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-4-1-2-2-2" name="sec-4-1-2-2-2"></a>File replication &amp; consistency maintenance<br  /><div class="outline-text-6" id="text-4-1-2-2-2">
+<ul class="org-ul">
+<li>to improve performance and enhance scalability
+</li>
+<li>enhance fault tolerance
+</li>
+<li>thus need to maintain consistency
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-4-1-2-2-3" name="sec-4-1-2-2-3"></a>Fault tolerance<br  /><ol class="org-ol"><li><a id="sec-4-1-2-2-3-1" name="sec-4-1-2-2-3-1"></a>Stateful<br  /><div class="outline-text-7" id="text-4-1-2-2-3-1">
+<ul class="org-ul">
+<li>remembers client's previous operations
+</li>
+<li>inter-dependent requests
+</li>
+<li>heavier server demand
+</li>
+<li>difficult setup and recovery on crashes
+<ul class="org-ul">
+<li>server must restore/notify after restart
+</li>
+<li>server must detect client crashes and discard states
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-4-1-2-2-3-2" name="sec-4-1-2-2-3-2"></a>Stateless<br  /><div class="outline-text-7" id="text-4-1-2-2-3-2">
+<ul class="org-ul">
+<li>untracked independent self-contained requests
+</li>
+<li>easy setup and restore
+</li>
+<li>less burden
+</li>
+<li>heavier network demand
+</li>
+</ul>
+</div>
+</li></ol>
+</li></ol>
+</li></ol>
+</div>
+</div>
+<div id="outline-container-sec-4-2" class="outline-3">
+<h3 id="sec-4-2"><span class="section-number-3">4.2</span> Sun NFS</h3>
+<div class="outline-text-3" id="text-4-2">
+</div><div id="outline-container-sec-4-2-1" class="outline-4">
+<h4 id="sec-4-2-1"><span class="section-number-4">4.2.1</span> Overview</h4>
+<div class="outline-text-4" id="text-4-2-1">
+<ul class="org-ul">
+<li>access transparency
+<ul class="org-ul">
+<li>apps use same file operations for both local &amp; remote
+</li>
+</ul>
+</li>
+<li>no location tranparency
+<ul class="org-ul">
+<li>different clients can mount server dir to different local dirs
+</li>
+</ul>
+</li>
+<li>stateless servers and idempotent operations
+<ul class="org-ul">
+<li>no need to recover state
+</li>
+<li>server unaffected by client failure
+</li>
+</ul>
+</li>
+<li>approximate one-copy update semantics
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-4-2-2" class="outline-4">
+<h4 id="sec-4-2-2"><span class="section-number-4">4.2.2</span> Architecture</h4>
+<div class="outline-text-4" id="text-4-2-2">
+<ul class="org-ul">
+<li>symmetric client-server relationship
+<ul class="org-ul">
+<li>each computer in network can act both as client/server
+</li>
+</ul>
+</li>
+<li>OS independent design
+</li>
+<li>files are accessed by means of file IDs
+<ul class="org-ul">
+<li>file IDs is reference to file in the FS
+</li>
+<li>file IDs are called file handles in NFS
+<ul class="org-ul">
+<li>FS ID
+</li>
+<li>ID for file in FS
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-4-2-3" class="outline-4">
+<h4 id="sec-4-2-3"><span class="section-number-4">4.2.3</span> Client-Server Communication</h4>
+<div class="outline-text-4" id="text-4-2-3">
+</div><ol class="org-ol"><li><a id="sec-4-2-3-1" name="sec-4-2-3-1"></a>NFS Server Interface<br  /><div class="outline-text-5" id="text-4-2-3-1">
+<ul class="org-ul">
+<li>operations used by NFS client in RPC
+</li>
+<li>not used directly by user programs
+</li>
+<li>stateles and idempotent operations
+<ul class="org-ul">
+<li>no open close and RW pointer
+</li>
+<li>self contained
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-4-2-3-2" name="sec-4-2-3-2"></a>NFS Client<br  /><div class="outline-text-5" id="text-4-2-3-2">
+<ul class="org-ul">
+<li>supply interface suitable for use by conventional programs
+<ul class="org-ul">
+<li>emulates UNIX FS emantics
+</li>
+</ul>
+</li>
+<li>transfer blocks of files to/from NFS servers
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-4-2-3-3" name="sec-4-2-3-3"></a>Mount Service<br  /><ol class="org-ol"><li><a id="sec-4-2-3-3-1" name="sec-4-2-3-3-1"></a>Overview<br  /><div class="outline-text-6" id="text-4-2-3-3-1">
+<ul class="org-ul">
+<li>server exports FS
+<ul class="org-ul">
+<li>mount service process runs
+</li>
+<li><code>/etc/exports</code>:
+<ul class="org-ul">
+<li>names of local FS available for remote mounting
+</li>
+<li>hosts permitted to mount
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>client mounts FS
+<ul class="org-ul">
+<li>use modified UNIX mount to request mounting
+<ul class="org-ul">
+<li>remote host name
+</li>
+<li>pathname in remote FS
+</li>
+<li>local name
+</li>
+</ul>
+</li>
+<li>communicates with mount service using RPC protocol
+<ul class="org-ul">
+<li>request: remote dir pathname to server
+</li>
+<li>reply: file handle of dir
+</li>
+</ul>
+</li>
+<li>maintains table of mounted FS
+</li>
+<li>NFS doesn't enforce single network-wide file namespace
+<ul class="org-ul">
+<li>can assign different local names to remote directory
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-4-2-3-3-2" name="sec-4-2-3-3-2"></a>Pathname Translation<br  /><div class="outline-text-6" id="text-4-2-3-3-2">
+<p>
+Suppose <code>/</code> of remote server is mounted. To access <code>/bin/draw/readme</code>:
+</p>
+<ol class="org-ol">
+<li><code>binfh = lookup(rootfh,"bin")</code>
+</li>
+<li><code>drawfh = lookup(binfh,"draw")</code>
+</li>
+<li><code>readmefh = lookup(drawfh,"readme")</code>
+</li>
+</ol>
+<p>
+Efficiency can be improved by caching.
+</p>
+</div>
+</li></ol>
+</li></ol>
+</div>
+<div id="outline-container-sec-4-2-4" class="outline-4">
+<h4 id="sec-4-2-4"><span class="section-number-4">4.2.4</span> Client Caching</h4>
+<div class="outline-text-4" id="text-4-2-4">
+<ul class="org-ul">
+<li>caches results of RW etc
+<ul class="org-ul">
+<li>to reduce communication with server
+</li>
+<li>block granularity
+</li>
+<li>mainly in main memory
+</li>
+</ul>
+</li>
+<li>comparison
+<ul class="org-ul">
+<li>local systems
+<ul class="org-ul">
+<li>one-copy update semantics
+<ul class="org-ul">
+<li>when file modified, all other clients see updates immediately
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>distributed systems
+<ul class="org-ul">
+<li>approximation to one-copy update semantics
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>writes by client do not result in immediate updating of cached copies of same file in other clients
+</li>
+<li>potentially different versions of files across different clients
+</li>
+<li>to maintain consistency, clients should poll server
+</li>
+<li>cache is fresh when <code>T-Tc &lt; t</code>
+</li>
+<li>otherwise, need to poll validity
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-4-3" class="outline-3">
+<h3 id="sec-4-3"><span class="section-number-3">4.3</span> AFS and Code File Systems</h3>
+<div class="outline-text-3" id="text-4-3">
+</div><div id="outline-container-sec-4-3-1" class="outline-4">
+<h4 id="sec-4-3-1"><span class="section-number-4">4.3.1</span> AFS Architecture</h4>
+<div class="outline-text-4" id="text-4-3-1">
+</div><ol class="org-ol"><li><a id="sec-4-3-1-1" name="sec-4-3-1-1"></a>Features<br  /><div class="outline-text-5" id="text-4-3-1-1">
+<ul class="org-ul">
+<li>scalable
+</li>
+<li>two partitions of nodes
+<ul class="org-ul">
+<li>dedicated file servers
+</li>
+<li>large number of clients
+</li>
+</ul>
+</li>
+<li>similar to NFS
+<ul class="org-ul">
+<li>access to files via normal UNIX operations
+</li>
+<li>venus clients and vice servers communicate using RPC
+</li>
+<li>user programs use conventional UNIX pathnames to refer to files
+</li>
+<li>venus translates pathnames into file IDs using step-by-step lookups from dirs in vice servers
+</li>
+<li>files accesses by the obtained file IDs
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-4-3-1-2" name="sec-4-3-1-2"></a>Shared File Namespace<br  /><div class="outline-text-5" id="text-4-3-1-2">
+<ul class="org-ul">
+<li>shared file namespace
+<ul class="org-ul">
+<li>vice servers maintain global shared file namespace
+</li>
+<li>venus clients follow
+</li>
+</ul>
+</li>
+<li>clients have access to shared namespace by special local subdir e.g. /afs
+<ul class="org-ul">
+<li>client access file in <i>afs</i> -&gt; venus ensures appropriate part mounted
+</li>
+<li>when mounting, venus ensures naming graph rooted at this subdir is always subgraph of complete shared namespace maintained by vice servers
+</li>
+<li>shared files have same pathname
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-4-3-1-3" name="sec-4-3-1-3"></a>Volume<br  /><div class="outline-text-5" id="text-4-3-1-3">
+<ul class="org-ul">
+<li>easy replication, location, movement
+<ul class="org-ul">
+<li>basic unit of mounting and replication
+</li>
+<li>smaller than UNIX FS
+</li>
+<li>volume = partial subtree in shared namespace maintain by vice servers
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-4-3-1-4" name="sec-4-3-1-4"></a>Replication<br  /><div class="outline-text-5" id="text-4-3-1-4">
+<ul class="org-ul">
+<li>each file is contained in =1 logical volume
+</li>
+<li>volume may be replicated
+</li>
+<li>each logical volume is associated with a RVID
+<ul class="org-ul">
+<li>location and replication independent
+</li>
+</ul>
+</li>
+<li>each physical volume has own VID
+<ul class="org-ul">
+<li>location dependent
+</li>
+</ul>
+</li>
+<li>each shared file is identified by file ID
+<ul class="org-ul">
+<li>RVID + file handle
+</li>
+</ul>
+</li>
+<li>consistency
+<ul class="org-ul">
+<li>read-one, write-all
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-4-3-1-5" name="sec-4-3-1-5"></a>Location<br  /><div class="outline-text-5" id="text-4-3-1-5">
+<ul class="org-ul">
+<li>Volume replication DB
+<ul class="org-ul">
+<li>RVID -&gt; VIDs
+</li>
+</ul>
+</li>
+<li>Volume location DB
+<ul class="org-ul">
+<li>VID -&gt; server
+</li>
+</ul>
+</li>
+</ul>
+<p>
+So the file ID is transformed from RVID + file handle to Server + file handle after being passed to Volume replication DB and Volume location DB. Databases are fully replicated at each server.
+</p>
+</div>
+</li></ol>
+</div>
+<div id="outline-container-sec-4-3-2" class="outline-4">
+<h4 id="sec-4-3-2"><span class="section-number-4">4.3.2</span> Whole-File Serving and Caching</h4>
+</div>
+<div id="outline-container-sec-4-3-3" class="outline-4">
+<h4 id="sec-4-3-3"><span class="section-number-4">4.3.3</span> Code File System</h4>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5"><span class="section-number-2">5</span> P2P File Sharing Systems</h2>
+<div class="outline-text-2" id="text-5">
+</div><div id="outline-container-sec-5-1" class="outline-3">
+<h3 id="sec-5-1"><span class="section-number-3">5.1</span> Introduction</h3>
+</div>
+<div id="outline-container-sec-5-2" class="outline-3">
+<h3 id="sec-5-2"><span class="section-number-3">5.2</span> Unstructured P2P File Sharing</h3>
+<div class="outline-text-3" id="text-5-2">
+</div><div id="outline-container-sec-5-2-1" class="outline-4">
+<h4 id="sec-5-2-1"><span class="section-number-4">5.2.1</span> Napster</h4>
+</div>
+<div id="outline-container-sec-5-2-2" class="outline-4">
+<h4 id="sec-5-2-2"><span class="section-number-4">5.2.2</span> Gnutella</h4>
+</div>
+<div id="outline-container-sec-5-2-3" class="outline-4">
+<h4 id="sec-5-2-3"><span class="section-number-4">5.2.3</span> KaZaA</h4>
+</div>
+</div>
+<div id="outline-container-sec-5-3" class="outline-3">
+<h3 id="sec-5-3"><span class="section-number-3">5.3</span> Structured DHT Systems</h3>
+<div class="outline-text-3" id="text-5-3">
+</div><div id="outline-container-sec-5-3-1" class="outline-4">
+<h4 id="sec-5-3-1"><span class="section-number-4">5.3.1</span> DHT Services</h4>
+</div>
+<div id="outline-container-sec-5-3-2" class="outline-4">
+<h4 id="sec-5-3-2"><span class="section-number-4">5.3.2</span> Consistent Hashing</h4>
+</div>
+<div id="outline-container-sec-5-3-3" class="outline-4">
+<h4 id="sec-5-3-3"><span class="section-number-4">5.3.3</span> Chord</h4>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-6" class="outline-2">
+<h2 id="sec-6"><span class="section-number-2">6</span> Name Services</h2>
+<div class="outline-text-2" id="text-6">
+</div><div id="outline-container-sec-6-1" class="outline-3">
+<h3 id="sec-6-1"><span class="section-number-3">6.1</span> Names and Name Services</h3>
+</div>
+<div id="outline-container-sec-6-2" class="outline-3">
+<h3 id="sec-6-2"><span class="section-number-3">6.2</span> Domain Name System</h3>
+<div class="outline-text-3" id="text-6-2">
+</div><div id="outline-container-sec-6-2-1" class="outline-4">
+<h4 id="sec-6-2-1"><span class="section-number-4">6.2.1</span> Example</h4>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-7" class="outline-2">
+<h2 id="sec-7"><span class="section-number-2">7</span> Time and Global States</h2>
+<div class="outline-text-2" id="text-7">
+</div><div id="outline-container-sec-7-1" class="outline-3">
+<h3 id="sec-7-1"><span class="section-number-3">7.1</span> Synchronizing Physical Clocks</h3>
+</div>
+<div id="outline-container-sec-7-2" class="outline-3">
+<h3 id="sec-7-2"><span class="section-number-3">7.2</span> Causal Ordering and Logical Clocks</h3>
+</div>
+<div id="outline-container-sec-7-3" class="outline-3">
+<h3 id="sec-7-3"><span class="section-number-3">7.3</span> Global States</h3>
+</div>
+<div id="outline-container-sec-7-4" class="outline-3">
+<h3 id="sec-7-4"><span class="section-number-3">7.4</span> Distributed Debugging</h3>
+</div>
+</div>
+<div id="outline-container-sec-8" class="outline-2">
+<h2 id="sec-8"><span class="section-number-2">8</span> Coordination and Agreement</h2>
+<div class="outline-text-2" id="text-8">
+</div><div id="outline-container-sec-8-1" class="outline-3">
+<h3 id="sec-8-1"><span class="section-number-3">8.1</span> Distributed Mutex</h3>
+</div>
+<div id="outline-container-sec-8-2" class="outline-3">
+<h3 id="sec-8-2"><span class="section-number-3">8.2</span> Election</h3>
+</div>
+<div id="outline-container-sec-8-3" class="outline-3">
+<h3 id="sec-8-3"><span class="section-number-3">8.3</span> Consensus Problem</h3>
+</div>
+<div id="outline-container-sec-8-4" class="outline-3">
+<h3 id="sec-8-4"><span class="section-number-3">8.4</span> Summary</h3>
+</div>
+</div>
+<div id="outline-container-sec-9" class="outline-2">
+<h2 id="sec-9"><span class="section-number-2">9</span> Replication and Consistency</h2>
+<div class="outline-text-2" id="text-9">
+</div><div id="outline-container-sec-9-1" class="outline-3">
+<h3 id="sec-9-1"><span class="section-number-3">9.1</span> Introduction</h3>
+</div>
+<div id="outline-container-sec-9-2" class="outline-3">
+<h3 id="sec-9-2"><span class="section-number-3">9.2</span> Data-Centric Consistency Models &amp; Protocols</h3>
+</div>
+<div id="outline-container-sec-9-3" class="outline-3">
+<h3 id="sec-9-3"><span class="section-number-3">9.3</span> Client-Centric Consistency Models &amp; Protocols</h3>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Eric Leonardo Lim</p>
+<p class="date">Created: 2018-04-26 Thu 01:55</p>
+<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 25.3.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

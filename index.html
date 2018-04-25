@@ -1,252 +1,155 @@
-<!DOCTYPE html>
-
-<html class="mdl-js" lang="en">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta content="IE=edge" http-equiv="X-UA-Compatible">
-  <meta content=
-  "A front-end template that helps you build fast, modern mobile web apps."
-  name="description">
-  <meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
-  name="viewport">
+<title>Welcome to my website</title>
+<!-- 2018-04-26 Thu 02:00 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<meta  name="author" content="Eric Leonardo Lim" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
 
-  <title>About Me</title><!-- Add to homescreen for Chrome on Android -->
-  <meta content="yes" name="mobile-web-app-capable">
-  <link href="images/android-desktop.png" rel="icon" sizes="192x192">
-  <!-- Add to homescreen for Safari on iOS -->
-  <meta content="yes" name="apple-mobile-web-app-capable">
-  <meta content="black" name="apple-mobile-web-app-status-bar-style">
-  <meta content="Material Design Lite" name="apple-mobile-web-app-title">
-  <link href="images/ios-desktop.png" rel="apple-touch-icon-precomposed">
-  <!-- Tile icon for Win8 (144x144 + tile color) -->
-  <meta content="images/touch/ms-touch-icon-144x144-precomposed.png" name=
-  "msapplication-TileImage">
-  <meta content="#3372DF" name="msapplication-TileColor">
-  <link href="images/favicon.png" rel="shortcut icon">
-  <!-- SEO: If your mobile URL is different from the desktop URL, add a canonical link to the desktop page https://developers.google.com/webmasters/smartphone-sites/feature-phones -->
-  <!--
-    <link rel="canonical" href="http://www.example.com/">
-    -->
-  <link href=
-  "https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en"
-  rel="stylesheet">
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel=
-  "stylesheet">
-  <link href="https://code.getmdl.io/1.2.0/material.blue_grey-blue.min.css"
-  rel="stylesheet">
-  <link href="styles.css" rel="stylesheet">
-  <style>
-    #view-source {
-      position: fixed;
-      display: block;
-      right: 0;
-      bottom: 0;
-      margin-right: 40px;
-      margin-bottom: 40px;
-      z-index: 900;
-    }
-  </style>
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
 </head>
-
-<body class="mdl-demo mdl-color--grey-100 mdl-color-text--grey-700 mdl-base">
-  <div class="mdl-layout__container has-scrolling-header">
-    <div class=
-    "demo-layout mdl-layout mdl-layout--fixed-header mdl-js-layout mdl-color--grey-100 is-upgraded"
-    data-upgraded=",MaterialLayout">
-      <!--<header class="demo-header mdl-layout__header mdl-layout__header==scroll mdl-color==grey-100 mdl-color-text==grey-800">
-        
-        <div class="mdl-layout__header-row">
-          <span class="mdl-layout-title">Resume</span>
-          <div class="mdl-layout-spacer"></div>
-          <div class="mdl-textfield mdl-js-textfield mdl-textfield==expandable">
-            <label class="mdl-button mdl-js-button mdl-button==icon" for="search">
-              <i class="material-icons">search</i>
-            </label>
-            <div class="mdl-textfield__expandable-holder">
-              <input class="mdl-textfield__input" type="text" id="search">
-              <label class="mdl-textfield__label" for="search">Enter your query...</label>
-            </div>
-          </div>
-        </div>
-      </header> !-->
-
-
-      <div class="demo-ribbon">
-      </div>
-
-
-      <main class="demo-main mdl-layout__content">
-        <div class="demo-container mdl-grid">
-          <div class=
-          "mdl-cell mdl-cell--2-col mdl-cell--hide-tablet mdl-cell--hide-phone">
-
-          </div>
-
-
-          <div align="center" class="mdl-cell mdl-cell--8-col">
-            <font color="white"></font>
-
-            <h3><font color="white">Eric Leonardo Lim</font>
-            </h3>
-            <font color="white"></font>
-          </div>
-        </div>
-      </main>
-
-
-      <main>
-        <div class="demo-container mdl-grid">
-          <div class=
-          "mdl-cell mdl-cell--2-col mdl-cell--hide-tablet mdl-cell--hide-phone">
-
-          </div>
-
-
-          <div class=
-          "demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--8-col">
-          <h4>Education</h4>
-
-
-            <p>
-            </p>
-
-
-            <ul>
-              <li>B.Eng. Computer Science with Minor in Mathematics, Nanyang
-              Technological University, 2014-present.</li>
-            </ul>
-
-
-            <p>
-            </p>
-
-            <hr>
-
-
-            <h4>Languages and Technologies</h4>
-
-
-            <p>
-            </p>
-
-
-            <ul>
-              <li>C++, Java, C, Python, Javascript, HTML, CSS, LISP, MATLAB,
-              SQL</li>
-
-
-              <li>Eclipse, Visual Studio, IntelliJ IDEA, Android Studio,
-              Unity</li>
-            </ul>
-
-
-            <p>
-            </p>
-
-            <hr>
-
-
-            <h4>Technical Experience</h4>
-            
-            <h5>Internships</h5>
-            <p>
-            </p>
-            <ul>
-              <li>Machine Learning Researcher at SAP (Jan 2017-)
-              </li>
-            </ul>
-
-
-            <h5>Projects</h5>
-
-
-            <p>
-            </p>
-
-
-            <ul>
-              <li>Curator (2016). An Android app which provides general
-              information and events of museums in Singapore</li>
-            </ul>
-
-
-            <p>
-            </p>
-
-
-            <h5>Others</h5>
-
-
-            <p>
-            </p>
-
-
-            <ul>
-              <li>Honorable Mention at ACM ICPC Asia Jakarta Regional Contest
-              2015</li>
-
-
-              <li>Participant of ACM ICPC Asia Singapore Regional Contest
-              2015</li>
-
-
-              <li>Participant of Facebook Hacker Cup 2016 (up to Round 2)</li>
-
-
-              <li>Semifinalist of HackerRank Wold Cup 2015</li>
-            </ul>
-
-
-            <p>
-            </p>
-
-            <hr>
-
-
-            <h4>Certifications</h4>
-
-
-            <p>
-            </p>
-
-
-            <ul>
-              <li>Honorable Mention at The 2015 ACM ICPC Asia Jakarta Regional
-              Contest</li>
-
-
-              <li>Mozilla HTML5 Mobile App Development Boot Camp
-              Participation</li>
-            </ul>
-
-
-            <p>
-            </p>
-          </div>
-        </div>
-
-
-        <footer class="demo-footer mdl-mini-footer">
-          <div class="mdl-mini-footer--left-section">
-            <ul class="mdl-mini-footer--link-list">
-              <li>Phone: (+65)8317-5965</li>
-
-
-              <li>Email: elim023@e.ntu.edu.sg</li>
-
-
-              <li>Address: 708 Jurong West Street 71, Singapore 640708</li>
-            </ul>
-          </div>
-        </footer>
-      </main>
-    </div>
-  </div>
-  <a href="https://www.linkedin.com/in/ericleonardolim" id="view-source"
-  target="_blank"><button class=
-  "mdl-button--fab mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"><img align="middle"
-  height="38" src="images/linkedin.png" width="38"></button></a> 
-  <script src="https://code.getmdl.io/1.2.0/material.min.js">
-  </script>
+<body>
+<div id="content">
+<h1 class="title">Welcome to my website</h1>
+<ul class="org-ul">
+<li><a href="https://ericleoo.github.io/CV/">My CV</a>
+</li>
+<li><a href="https://ericleoo.github.io/CZ4013">CZ4013 Summary</a>
+</li>
+</ul>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Eric Leonardo Lim</p>
+<p class="date">Created: 2018-04-26 Thu 02:00</p>
+<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 25.3.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
 </body>
 </html>
