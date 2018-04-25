@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title>CZ4013 Distributed Systems Summary</title>
-<!-- 2018-04-26 Thu 03:13 -->
+<!-- 2018-04-26 Thu 04:44 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <meta  name="author" content="Eric Leonardo Lim" />
@@ -88,6 +88,7 @@
     { background-color: #ffff00; color: #000000; font-weight: bold; }
   /*]]>*/-->
 </style>
+<link rel="stylesheet" href="worg.css" type="text/css" media="screen" />
 <script type="text/javascript">
 /*
 @licstart  The following is the entire license notice for the
@@ -248,9 +249,10 @@ for the JavaScript code in this tag.
 </li>
 <li><a href="#sec-4-3">4.3. AFS and Code File Systems</a>
 <ul>
-<li><a href="#sec-4-3-1">4.3.1. AFS Architecture</a></li>
-<li><a href="#sec-4-3-2">4.3.2. Whole-File Serving and Caching</a></li>
-<li><a href="#sec-4-3-3">4.3.3. Coda File System</a></li>
+<li><a href="#sec-4-3-1">4.3.1. Overview</a></li>
+<li><a href="#sec-4-3-2">4.3.2. AFS Architecture</a></li>
+<li><a href="#sec-4-3-3">4.3.3. Whole-File Serving and Caching</a></li>
+<li><a href="#sec-4-3-4">4.3.4. Coda File System</a></li>
 </ul>
 </li>
 </ul>
@@ -1776,9 +1778,26 @@ Efficiency can be improved by caching.
 <h3 id="sec-4-3"><span class="section-number-3">4.3</span> AFS and Code File Systems</h3>
 <div class="outline-text-3" id="text-4-3">
 </div><div id="outline-container-sec-4-3-1" class="outline-4">
-<h4 id="sec-4-3-1"><span class="section-number-4">4.3.1</span> AFS Architecture</h4>
+<h4 id="sec-4-3-1"><span class="section-number-4">4.3.1</span> Overview</h4>
 <div class="outline-text-4" id="text-4-3-1">
-</div><ol class="org-ol"><li><a id="sec-4-3-1-1" name="sec-4-3-1-1"></a>Features<br  /><div class="outline-text-5" id="text-4-3-1-1">
+<ul class="org-ul">
+<li>access transparency
+</li>
+<li>high location transparency
+</li>
+<li>stateful
+</li>
+<li>relaxed consistency through session update semantics
+</li>
+<li>scalable
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-4-3-2" class="outline-4">
+<h4 id="sec-4-3-2"><span class="section-number-4">4.3.2</span> AFS Architecture</h4>
+<div class="outline-text-4" id="text-4-3-2">
+</div><ol class="org-ol"><li><a id="sec-4-3-2-1" name="sec-4-3-2-1"></a>Features<br  /><div class="outline-text-5" id="text-4-3-2-1">
 <ul class="org-ul">
 <li>scalable
 </li>
@@ -1807,7 +1826,7 @@ Efficiency can be improved by caching.
 </ul>
 </div>
 </li>
-<li><a id="sec-4-3-1-2" name="sec-4-3-1-2"></a>Shared File Namespace<br  /><div class="outline-text-5" id="text-4-3-1-2">
+<li><a id="sec-4-3-2-2" name="sec-4-3-2-2"></a>Shared File Namespace<br  /><div class="outline-text-5" id="text-4-3-2-2">
 <ul class="org-ul">
 <li>shared file namespace
 <ul class="org-ul">
@@ -1830,7 +1849,7 @@ Efficiency can be improved by caching.
 </ul>
 </div>
 </li>
-<li><a id="sec-4-3-1-3" name="sec-4-3-1-3"></a>Volume<br  /><div class="outline-text-5" id="text-4-3-1-3">
+<li><a id="sec-4-3-2-3" name="sec-4-3-2-3"></a>Volume<br  /><div class="outline-text-5" id="text-4-3-2-3">
 <ul class="org-ul">
 <li>easy replication, location, movement
 <ul class="org-ul">
@@ -1845,7 +1864,7 @@ Efficiency can be improved by caching.
 </ul>
 </div>
 </li>
-<li><a id="sec-4-3-1-4" name="sec-4-3-1-4"></a>Replication<br  /><div class="outline-text-5" id="text-4-3-1-4">
+<li><a id="sec-4-3-2-4" name="sec-4-3-2-4"></a>Replication<br  /><div class="outline-text-5" id="text-4-3-2-4">
 <ul class="org-ul">
 <li>each file is contained in =1 logical volume
 </li>
@@ -1878,7 +1897,7 @@ Efficiency can be improved by caching.
 </ul>
 </div>
 </li>
-<li><a id="sec-4-3-1-5" name="sec-4-3-1-5"></a>Location<br  /><div class="outline-text-5" id="text-4-3-1-5">
+<li><a id="sec-4-3-2-5" name="sec-4-3-2-5"></a>Location<br  /><div class="outline-text-5" id="text-4-3-2-5">
 <ul class="org-ul">
 <li>Volume replication DB
 <ul class="org-ul">
@@ -1899,11 +1918,206 @@ So the file ID is transformed from RVID + file handle to Server + file handle af
 </div>
 </li></ol>
 </div>
-<div id="outline-container-sec-4-3-2" class="outline-4">
-<h4 id="sec-4-3-2"><span class="section-number-4">4.3.2</span> Whole-File Serving and Caching</h4>
-</div>
 <div id="outline-container-sec-4-3-3" class="outline-4">
-<h4 id="sec-4-3-3"><span class="section-number-4">4.3.3</span> Coda File System</h4>
+<h4 id="sec-4-3-3"><span class="section-number-4">4.3.3</span> Whole-File Serving and Caching</h4>
+<div class="outline-text-4" id="text-4-3-3">
+</div><ol class="org-ol"><li><a id="sec-4-3-3-1" name="sec-4-3-3-1"></a>Typical UNIX Workloads<br  /><div class="outline-text-5" id="text-4-3-3-1">
+<ul class="org-ul">
+<li>Read more than write
+</li>
+<li>Entire, sequential file access
+</li>
+<li>Most files accessed only by one user
+</li>
+<li>Files are referenced in bursts (temporal locality)
+</li>
+</ul>
+</div>
+</li>
+
+<li><a id="sec-4-3-3-2" name="sec-4-3-3-2"></a>Strategy<br  /><div class="outline-text-5" id="text-4-3-3-2">
+<ul class="org-ul">
+<li>Whole-file serving
+<ul class="org-ul">
+<li>entire files transmitted to clients
+</li>
+</ul>
+</li>
+<li>Whole-file caching
+<ul class="org-ul">
+<li>transferred files are stored in cache
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-4-3-3-3" name="sec-4-3-3-3"></a>How it works<br  /><div class="outline-text-5" id="text-4-3-3-3">
+<ul class="org-ul">
+<li>Open -&gt; entire file transmitted to client
+</li>
+<li>RWs performed on local copy
+</li>
+<li>Close -&gt; client transmits updates to server, retain copy
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-4-3-3-4" name="sec-4-3-3-4"></a>Session update semantics<br  /><div class="outline-text-5" id="text-4-3-3-4">
+<p>
+We relax the one-copy update semantics to reduce network traffic, performance degradation, be more scalable.
+</p>
+
+<p>
+In session update semantics, all other clients are able to see a modified file only after the file is closed by the client that modified it.
+</p>
+</div>
+</li>
+<li><a id="sec-4-3-3-5" name="sec-4-3-3-5"></a>Cache Consistency<br  /><ol class="org-ol"><li><a id="sec-4-3-3-5-1" name="sec-4-3-3-5-1"></a>Method<br  /><div class="outline-text-6" id="text-4-3-3-5-1">
+<ul class="org-ul">
+<li>foreach file, 
+<ul class="org-ul">
+<li>server keeps track which clients have copy of it
+</li>
+<li>notify clients when file modified
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-4-3-3-5-2" name="sec-4-3-3-5-2"></a>Callback mechanism<br  /><div class="outline-text-6" id="text-4-3-3-5-2">
+<ul class="org-ul">
+<li>callback promise
+<ul class="org-ul">
+<li>valid: cache is fresh
+</li>
+<li>cancelled: cache is out-of-date
+</li>
+</ul>
+</li>
+<li>opening file
+<ul class="org-ul">
+<li>if not cached, fetch file and promise
+</li>
+<li>if cached and valid, open local copy
+</li>
+<li>if cached and cancelled, fetch copy and update promise
+</li>
+</ul>
+</li>
+<li>closing file
+<ul class="org-ul">
+<li>if modified, send updates to server
+</li>
+</ul>
+</li>
+<li>server
+<ul class="org-ul">
+<li>if file f is modified
+<ul class="org-ul">
+<li>foreach client holding valid cache of f
+<ul class="org-ul">
+<li>set client promise to cancelled
+</li>
+<li>remove client from list of valid clients
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-4-3-3-5-3" name="sec-4-3-3-5-3"></a>Problem<br  /><div class="outline-text-6" id="text-4-3-3-5-3">
+<p>
+If multiple clients write to a file concurrently, all updates are silently lost except those made by last client. Concurrency control must be implemented independently.
+</p>
+</div>
+</li></ol>
+</li></ol>
+</div>
+<div id="outline-container-sec-4-3-4" class="outline-4">
+<h4 id="sec-4-3-4"><span class="section-number-4">4.3.4</span> Coda File System</h4>
+<div class="outline-text-4" id="text-4-3-4">
+</div><ol class="org-ol"><li><a id="sec-4-3-4-1" name="sec-4-3-4-1"></a>Overview<br  /><div class="outline-text-5" id="text-4-3-4-1">
+<ul class="org-ul">
+<li>designed to have high availability
+<ul class="org-ul">
+<li>client can continue operation when disconnected
+</li>
+</ul>
+</li>
+<li>disconnected w.r.t. a volume: 
+<ul class="org-ul">
+<li>can't access any server having a copy of it
+</li>
+</ul>
+</li>
+<li>ensure cache contains files to be accessed during disconnection
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-4-3-4-2" name="sec-4-3-4-2"></a>Hoarding<br  /><div class="outline-text-5" id="text-4-3-4-2">
+<ul class="org-ul">
+<li>ask user to specify useful files in a hoard DB
+</li>
+<li>compute priority from hoard DB + recent file access
+</li>
+<li>equlibrium
+<ul class="org-ul">
+<li>cached have higher priority than uncached
+</li>
+<li>cache is full or all uncached have 0 priority
+</li>
+<li>cached files are up-to-date
+</li>
+</ul>
+</li>
+<li>priority may change overtime
+</li>
+<li>cached may be replaced
+</li>
+<li>periodically reorganize cache to maintain equilibrium
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-4-3-4-3" name="sec-4-3-4-3"></a>Client State<br  /><ol class="org-ol"><li><a id="sec-4-3-4-3-1" name="sec-4-3-4-3-1"></a>Hoarding<br  /><div class="outline-text-6" id="text-4-3-4-3-1">
+<p>
+When connected, issue file requests to server(s) to perform work and attempts to keep cache filled with useful data
+</p>
+</div>
+</li>
+<li><a id="sec-4-3-4-3-2" name="sec-4-3-4-3-2"></a>Emulation<br  /><div class="outline-text-6" id="text-4-3-4-3-2">
+<p>
+When disconnected, requests are serviced using local copy
+</p>
+</div>
+</li>
+<li><a id="sec-4-3-4-3-3" name="sec-4-3-4-3-3"></a>Reintegration<br  /><div class="outline-text-6" id="text-4-3-4-3-3">
+<p>
+When reconnected, transfer updates to server
+</p>
+</div>
+</li></ol>
+</li>
+<li><a id="sec-4-3-4-4" name="sec-4-3-4-4"></a>Conflicts<br  /><div class="outline-text-5" id="text-4-3-4-4">
+<ul class="org-ul">
+<li>during reintegration, conflicts may occur
+</li>
+<li>in such case, try conflict resolution
+</li>
+<li>if fail, manual intervention
+</li>
+<li>rare because UNIX -&gt; only one user access a file
+</li>
+</ul>
+</div>
+</li></ol>
 </div>
 </div>
 </div>
@@ -2003,7 +2217,7 @@ So the file ID is transformed from RVID + file handle to Server + file handle af
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Eric Leonardo Lim</p>
-<p class="date">Created: 2018-04-26 Thu 03:13</p>
+<p class="date">Created: 2018-04-26 Thu 04:44</p>
 <p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 25.3.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>

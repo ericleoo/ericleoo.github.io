@@ -1,6 +1,6 @@
+#+SETUPFILE: setup.org
 #+TITLE: CZ4013 Distributed Systems Summary
 #+AUTHOR: Eric Leonardo Lim
-# #+HTML_HEAD: <style type="text/css">body{ max-width:50%; margin:auto; }</style>
 * Introduction
 ** What is DS?
 *** Definition
@@ -544,6 +544,12 @@ Efficiency can be improved by caching.
 - otherwise, need to poll validity
 
 ** AFS and Code File Systems
+*** Overview
+- access transparency
+- high location transparency
+- stateful
+- relaxed consistency through session update semantics
+- scalable
 *** AFS Architecture
 **** Features
 - scalable
@@ -587,7 +593,76 @@ Efficiency can be improved by caching.
   - VID -> server
 So the file ID is transformed from RVID + file handle to Server + file handle after being passed to Volume replication DB and Volume location DB. Databases are fully replicated at each server.
 *** Whole-File Serving and Caching
+**** Typical UNIX Workloads
+- Read more than write
+- Entire, sequential file access
+- Most files accessed only by one user
+- Files are referenced in bursts (temporal locality)
+
+**** Strategy
+- Whole-file serving
+  - entire files transmitted to clients
+- Whole-file caching
+  - transferred files are stored in cache
+**** How it works
+- Open -> entire file transmitted to client
+- RWs performed on local copy
+- Close -> client transmits updates to server, retain copy
+**** Session update semantics
+We relax the one-copy update semantics to reduce network traffic, performance degradation, be more scalable.
+
+In session update semantics, all other clients are able to see a modified file only after the file is closed by the client that modified it.
+**** Cache Consistency
+***** Method
+- foreach file, 
+  - server keeps track which clients have copy of it
+  - notify clients when file modified
+***** Callback mechanism
+- callback promise
+  - valid: cache is fresh
+  - cancelled: cache is out-of-date
+- opening file
+  - if not cached, fetch file and promise
+  - if cached and valid, open local copy
+  - if cached and cancelled, fetch copy and update promise
+- closing file
+  - if modified, send updates to server
+- server
+  - if file f is modified
+    - foreach client holding valid cache of f
+      - set client promise to cancelled
+      - remove client from list of valid clients
+***** Problem
+If multiple clients write to a file concurrently, all updates are silently lost except those made by last client. Concurrency control must be implemented independently.
 *** Coda File System
+**** Overview
+- designed to have high availability
+  - client can continue operation when disconnected
+- disconnected w.r.t. a volume: 
+  - can't access any server having a copy of it
+- ensure cache contains files to be accessed during disconnection
+**** Hoarding
+- ask user to specify useful files in a hoard DB
+- compute priority from hoard DB + recent file access
+- equlibrium
+  - cached have higher priority than uncached
+  - cache is full or all uncached have 0 priority
+  - cached files are up-to-date
+- priority may change overtime
+- cached may be replaced
+- periodically reorganize cache to maintain equilibrium
+**** Client State
+***** Hoarding
+When connected, issue file requests to server(s) to perform work and attempts to keep cache filled with useful data
+***** Emulation
+When disconnected, requests are serviced using local copy
+***** Reintegration
+When reconnected, transfer updates to server
+**** Conflicts
+- during reintegration, conflicts may occur
+- in such case, try conflict resolution
+- if fail, manual intervention
+- rare because UNIX -> only one user access a file
 * P2P File Sharing Systems
 ** Introduction
 ** Unstructured P2P File Sharing
