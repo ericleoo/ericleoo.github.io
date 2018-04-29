@@ -1,0 +1,10 @@
+@media all
+{
+    body {
+        font-family: "Times New Roman", Times, serif !important;
+        font-size: 18px;
+        line-height: 21px;
+        max-width: 960px;
+        margin: auto;
+    }
+}

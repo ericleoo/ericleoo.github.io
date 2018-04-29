@@ -5,7 +5,7 @@
 #+OPTIONS: toc:nil
 
 - [[https://ericleoo.github.io/CV/cv.pdf][My CV]]
-- [[https://ericleoo.github.io/CZ4013/summary.html][CZ4013 Summary]]
+- [[https://ericleoo.github.io/cz4013.html][CZ4013 Summary]]
 
 * About me
 I am a fourth year Computer Science undergraduate at Nanyang Technological University.

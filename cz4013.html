@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title>CZ4013 Distributed Systems Summary</title>
-<!-- 2018-04-27 Fri 16:02 -->
+<!-- 2018-04-29 Sun 20:16 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <meta  name="author" content="Eric Leonardo Lim" />
@@ -88,7 +88,7 @@
     { background-color: #ffff00; color: #000000; font-weight: bold; }
   /*]]>*/-->
 </style>
-<link rel="stylesheet" href="worg.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="css/worg.css" type="text/css" media="screen" />
 <script type="text/javascript">
 /*
 @licstart  The following is the entire license notice for the
@@ -858,10 +858,10 @@ Deserialization does not require prior knowledge of object types.
 
 <div class="org-src-container">
 
-<pre class="src src-java">class Person implements Serializable{
-  private String name;
-  private String place;
-  private int year;
+<pre class="src src-java"><span style="color: #a020f0;">class</span> <span style="color: #228b22;">Person</span> <span style="color: #a020f0;">implements</span> <span style="color: #228b22;">Serializable</span>{
+  <span style="color: #a020f0;">private</span> <span style="color: #228b22;">String</span> <span style="color: #a0522d;">name</span>;
+  <span style="color: #a020f0;">private</span> <span style="color: #228b22;">String</span> <span style="color: #a0522d;">place</span>;
+  <span style="color: #a020f0;">private</span> <span style="color: #228b22;">int</span> <span style="color: #a0522d;">year</span>;
 }
 </pre>
 </div>
@@ -896,10 +896,10 @@ Person {"Smith","London",1934} will be serialized as:
 
 <div class="org-src-container">
 
-<pre class="src src-java">class Person implements Serializable{
-  private Person one;
-  private Person two;
-  public Couple(Person a, Person b){
+<pre class="src src-java"><span style="color: #a020f0;">class</span> <span style="color: #228b22;">Person</span> <span style="color: #a020f0;">implements</span> <span style="color: #228b22;">Serializable</span>{
+  <span style="color: #a020f0;">private</span> <span style="color: #228b22;">Person</span> <span style="color: #a0522d;">one</span>;
+  <span style="color: #a020f0;">private</span> <span style="color: #228b22;">Person</span> <span style="color: #a0522d;">two</span>;
+  <span style="color: #a020f0;">public</span> <span style="color: #0000ff;">Couple</span>(<span style="color: #228b22;">Person</span> <span style="color: #a0522d;">a</span>, <span style="color: #228b22;">Person</span> <span style="color: #a0522d;">b</span>){
     one = a;
     two = b;
   }
@@ -1466,10 +1466,10 @@ Binder for Java RMI
 </ul>
 <div class="org-src-container">
 
-<pre class="src src-java">import java.rmi.*;
+<pre class="src src-java"><span style="color: #a020f0;">import</span> <span style="color: #008b8b;">java</span>.<span style="color: #008b8b;">rmi</span>.*;
 
-public interface City extends Remote{
-  int getPopulation(String x) throws RemoteException;
+<span style="color: #a020f0;">public</span> <span style="color: #a020f0;">interface</span> <span style="color: #228b22;">City</span> <span style="color: #a020f0;">extends</span> <span style="color: #228b22;">Remote</span>{
+  <span style="color: #228b22;">int</span> <span style="color: #0000ff;">getPopulation</span>(<span style="color: #228b22;">String</span> <span style="color: #a0522d;">x</span>) <span style="color: #a020f0;">throws</span> <span style="color: #228b22;">RemoteException</span>;
 }
 </pre>
 </div>
@@ -1480,14 +1480,14 @@ public interface City extends Remote{
 </ul>
 <div class="org-src-container">
 
-<pre class="src src-java">import java.rmi.*;
-import java.rmi.server.*;
+<pre class="src src-java"><span style="color: #a020f0;">import</span> <span style="color: #008b8b;">java</span>.<span style="color: #008b8b;">rmi</span>.*;
+<span style="color: #a020f0;">import</span> <span style="color: #008b8b;">java</span>.<span style="color: #008b8b;">rmi</span>.<span style="color: #008b8b;">server</span>.*;
 
-public class CityImpl extends UnicastRemoteObject implements City{
-  public CityImpl throws RemoteException{
-    super();
+<span style="color: #a020f0;">public</span> <span style="color: #a020f0;">class</span> <span style="color: #228b22;">CityImpl</span> <span style="color: #a020f0;">extends</span> <span style="color: #228b22;">UnicastRemoteObject</span> <span style="color: #a020f0;">implements</span> <span style="color: #228b22;">City</span>{
+  <span style="color: #a020f0;">public</span> <span style="color: #228b22;">CityImpl</span> <span style="color: #a020f0;">throws</span> <span style="color: #228b22;">RemoteException</span>{
+    <span style="color: #a020f0;">super</span>();
   }
-  public int getPopulation(String x) throws RemoteException{
+  <span style="color: #a020f0;">public</span> <span style="color: #228b22;">int</span> <span style="color: #0000ff;">getPopulation</span>(<span style="color: #228b22;">String</span> <span style="color: #a0522d;">x</span>) <span style="color: #a020f0;">throws</span> <span style="color: #228b22;">RemoteException</span>{
 
   }
 }
@@ -1499,15 +1499,15 @@ public class CityImpl extends UnicastRemoteObject implements City{
 </ul>
 <div class="org-src-container">
 
-<pre class="src src-java">import java.rmi.*;
-import java.rmi.server.*;
+<pre class="src src-java"><span style="color: #a020f0;">import</span> <span style="color: #008b8b;">java</span>.<span style="color: #008b8b;">rmi</span>.*;
+<span style="color: #a020f0;">import</span> <span style="color: #008b8b;">java</span>.<span style="color: #008b8b;">rmi</span>.<span style="color: #008b8b;">server</span>.*;
 
-public class CityServer{
-  public static void main(String args[]){
-    try{
-      CityImpl ci = new CityImpl();
-      Naming.rebind("rmi://.../City",ci);
-    }catch(Exception e){}
+<span style="color: #a020f0;">public</span> <span style="color: #a020f0;">class</span> <span style="color: #228b22;">CityServer</span>{
+  <span style="color: #a020f0;">public</span> <span style="color: #a020f0;">static</span> <span style="color: #228b22;">void</span> <span style="color: #0000ff;">main</span>(<span style="color: #228b22;">String</span> <span style="color: #a0522d;">args</span>[]){
+    <span style="color: #a020f0;">try</span>{
+      <span style="color: #228b22;">CityImpl</span> <span style="color: #a0522d;">ci</span> = <span style="color: #a020f0;">new</span> <span style="color: #228b22;">CityImpl</span>();
+      Naming.rebind(<span style="color: #8b2252;">"rmi://.../City"</span>,ci);
+    }<span style="color: #a020f0;">catch</span>(<span style="color: #228b22;">Exception</span> <span style="color: #a0522d;">e</span>){}
   }
 }
 </pre>
@@ -1519,16 +1519,16 @@ public class CityServer{
 </ul>
 <div class="org-src-container">
 
-<pre class="src src-java">import java.rmi.*;
+<pre class="src src-java"><span style="color: #a020f0;">import</span> <span style="color: #008b8b;">java</span>.<span style="color: #008b8b;">rmi</span>.*;
 
-public class CityClient{
-  public static void main(String args[]){
-    try{
-      City c = (City) Naming.lookup("rmi://.../City");
-      c.getPopulation("Toronto");
+<span style="color: #a020f0;">public</span> <span style="color: #a020f0;">class</span> <span style="color: #228b22;">CityClient</span>{
+  <span style="color: #a020f0;">public</span> <span style="color: #a020f0;">static</span> <span style="color: #228b22;">void</span> <span style="color: #0000ff;">main</span>(<span style="color: #228b22;">String</span> <span style="color: #a0522d;">args</span>[]){
+    <span style="color: #a020f0;">try</span>{
+      <span style="color: #228b22;">City</span> <span style="color: #a0522d;">c</span> = (<span style="color: #228b22;">City</span>) Naming.lookup(<span style="color: #8b2252;">"rmi://.../City"</span>);
+      c.getPopulation(<span style="color: #8b2252;">"Toronto"</span>);
     }
-    catch (RemoteException e){}
-    catch (Exception e){}
+    <span style="color: #a020f0;">catch</span> (<span style="color: #228b22;">RemoteException</span> <span style="color: #a0522d;">e</span>){}
+    <span style="color: #a020f0;">catch</span> (<span style="color: #228b22;">Exception</span> <span style="color: #a0522d;">e</span>){}
   }
 }
 </pre>
@@ -1551,8 +1551,8 @@ How to implement?
 </ul>
 <div class="org-src-container">
 
-<pre class="src src-java">public interface Callback extends Remote{
-  void cbMethod() throws RemoteException;
+<pre class="src src-java"><span style="color: #a020f0;">public</span> <span style="color: #a020f0;">interface</span> <span style="color: #228b22;">Callback</span> <span style="color: #a020f0;">extends</span> <span style="color: #228b22;">Remote</span>{
+  <span style="color: #228b22;">void</span> <span style="color: #0000ff;">cbMethod</span>() <span style="color: #a020f0;">throws</span> <span style="color: #228b22;">RemoteException</span>;
 }
 </pre>
 </div>
@@ -1562,8 +1562,8 @@ How to implement?
 </ul>
 <div class="org-src-container">
 
-<pre class="src src-java">void register(Callback cbObject) throws RemoteException;
-void deregister(Callback cbObject) throws RemoteException;
+<pre class="src src-java"><span style="color: #228b22;">void</span> <span style="color: #0000ff;">register</span>(<span style="color: #228b22;">Callback</span> <span style="color: #a0522d;">cbObject</span>) <span style="color: #a020f0;">throws</span> <span style="color: #228b22;">RemoteException</span>;
+<span style="color: #228b22;">void</span> <span style="color: #0000ff;">deregister</span>(<span style="color: #228b22;">Callback</span> <span style="color: #a0522d;">cbObject</span>) <span style="color: #a020f0;">throws</span> <span style="color: #228b22;">RemoteException</span>;
 </pre>
 </div>
 <ul class="org-ul">
@@ -2655,7 +2655,7 @@ When reconnected, transfer updates to server
 </li>
 </ul>
 </li>
-<li>suppose want to query key k at node n, then lookup the table[n][log2(k-n)+1]
+<li>suppose want to query key k at node n, then lookup the table[n][lg(k-n)+1]
 </li>
 <li>O(lgN) routing information, O(lgN) query routing
 </li>
@@ -2696,7 +2696,7 @@ When reconnected, transfer updates to server
 </li>
 </ul>
 <p>
-log<sup>2</sup>(N) complexity of node insertion
+lg(N) complexity of node insertion
 </p>
 </li>
 <li>n reports files that it is willing to share to nodes responsible for them
@@ -3960,9 +3960,9 @@ Analysis
 <ul class="org-ul">
 <li>assume asynchronous system and no failure
 </li>
-<li>process state &isin; {PARTICIPANT, NON<sub>PARTICIPANT</sub>}
+<li>process state &isin; {PARTICIPANT, NON-PARTICIPANT}
 </li>
-<li>initially, each process is NON<sub>PARTICIPANT</sub>
+<li>initially, each process is NON-PARTICIPANT
 </li>
 <li>any process can initiate election:
 <ol class="org-ol">
@@ -3978,7 +3978,7 @@ Analysis
 <ul class="org-ul">
 <li>if message PID &gt; own PID, forward
 </li>
-<li>if message PID &lt; own PID and NON<sub>PARTICIPANT</sub>, substitute &amp; forward
+<li>if message PID &lt; own PID and NON-PARTICIPANT, substitute &amp; forward
 </li>
 <li>if message PID &lt; own PID and PARTICIPANT, stop
 </li>
@@ -3986,11 +3986,11 @@ Analysis
 </li>
 </ul>
 </li>
-<li>coordinator becomes NON<sub>PARTICIPANT</sub> and sends <b>elected message</b> to neighbour, announce election, enclose identity
+<li>coordinator becomes NON-PARTICIPANT and sends <b>elected message</b> to neighbour, announce election, enclose identity
 </li>
 <li>when p<sub>i</sub> receives election message
 <ul class="org-ul">
-<li>p<sub>i</sub> becomes NON<sub>PARTICIPANT</sub>
+<li>p<sub>i</sub> becomes NON-PARTICIPANT
 </li>
 <li>records coordinator PID
 </li>
@@ -4803,7 +4803,7 @@ Finally,
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Eric Leonardo Lim</p>
-<p class="date">Created: 2018-04-27 Fri 16:02</p>
+<p class="date">Created: 2018-04-29 Sun 20:16</p>
 <p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 25.3.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>

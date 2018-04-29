@@ -804,7 +804,7 @@ When reconnected, transfer updates to server
 - each node maintains ID and IP of nodes in a finger table
 - ~table[n][i]~ = ID and IP of first node that succeeds n by at least 2^(i-1) on ID circle
   - each entry called a finger
-- suppose want to query key k at node n, then lookup the table[n][log2(k-n)+1]
+- suppose want to query key k at node n, then lookup the table[n][lg(k-n)+1]
 - O(lgN) routing information, O(lgN) query routing
 - query can always be routed correctly as long as each node knows its correct successor node
 **** Node Join
@@ -820,7 +820,7 @@ When reconnected, transfer updates to server
      - foreach i in [1..m],
        - foreach node x in [p-2^(i-1)+1,n-2^(i-1)],
          - table[x][i] = n
-     log^2(N) complexity of node insertion
+     lg(N) complexity of node insertion
   9. n reports files that it is willing to share to nodes responsible for them
 **** Node Leave
 Similar to node join
@@ -1245,20 +1245,20 @@ Analysis
 *** Ring-Based Algorithm
 **** Description
 - assume asynchronous system and no failure
-- process state \in {PARTICIPANT, NON_PARTICIPANT}
-- initially, each process is NON_PARTICIPANT
+- process state \in {PARTICIPANT, NON-PARTICIPANT}
+- initially, each process is NON-PARTICIPANT
 - any process can initiate election:
   1. mark self as participant
   2. place PID in election message
   3. send to successor
 - when process receives *election message*, compare message PID w/ own PID
   - if message PID > own PID, forward
-  - if message PID < own PID and NON_PARTICIPANT, substitute & forward
+  - if message PID < own PID and NON-PARTICIPANT, substitute & forward
   - if message PID < own PID and PARTICIPANT, stop
   - if message PID = own PID, be coordinator
-- coordinator becomes NON_PARTICIPANT and sends *elected message* to neighbour, announce election, enclose identity
+- coordinator becomes NON-PARTICIPANT and sends *elected message* to neighbour, announce election, enclose identity
 - when p_i receives election message
-  - p_i becomes NON_PARTICIPANT
+  - p_i becomes NON-PARTICIPANT
   - records coordinator PID
   - p_i forwards *elected message* to neighbour unless coordinator
 **** Analysis
