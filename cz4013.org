@@ -1,6 +1,6 @@
 #+SETUPFILE: setup.org
 #+TITLE: CZ4013 Distributed Systems Summary
-#+AUTHOR: Eric Leonardo Lim
+#+AUTHOR: Eric
 * Tasks
 ** TODO Chandy & Lamport Algorithm at Global States
 ** TODO Data-Centric Consistency Models & Protocols

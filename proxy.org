@@ -1,0 +1,59 @@
+#+SETUPFILE: setup.org
+#+TITLE: How to setup proxy at atos
+#+AUTHOR: Eric
+
+
+* Install cntlm
+Can download [[https://sourceforge.net/projects/cntlm/files/][here]]
+* Modify config file
+Modify C:\Program Files (x86)\Cntlm\cntlm.ini
+
+Sample:
+#+BEGIN_SRC
+Username	a701480
+#Domain		
+Password	test
+Proxy		proxy-sg.glb.my-it-solutions.net:84
+NoProxy		localhost, 127.0.0.*, 10.*, 192.168.*
+Listen		3128
+#+END_SRC
+
+Alphabets in username must be lowercase.
+* Change Windows proxy settings
+1. Go to Windows start, search for "Configure proxy server".
+2. Go to LAN settings.
+3. Uncheck "Use automatic configuration script.
+4. Check "Use a proxy server for your LAN".
+5. Put address 127.0.0.1, port 3128
+* Start/stop cntlm
+** Setup
+Create new file start-proxy.bat in desktop with content:
+#+BEGIN_SRC
+net start cntlm
+#+END_SRC
+
+Create another file stop-proxy.bat in desktop with content:
+#+BEGIN_SRC
+net stop cntlm
+#+END_SRC
+** Start/stop
+- To start cntlm, right click at the start-proxy.bat -> Run as administrator.
+- To stop cntlm, right click at the stop-proxy.bat -> Run as administrator.
+* Git settings
+** Set proxy
+Go to command line and type:
+#+BEGIN_SRC
+git config --global http.proxy http://127.0.0.1:3128
+#+END_SRC
+** Unset proxy
+Go to command line and type:
+#+BEGIN_SRC
+git config --global --unset http.proxy
+#+END_SRC
+* Revert Windows proxy settings
+May be needed before connecting to VPN (URA) when laptop is at home.
+1. Go to Windows start, search for "Configure proxy server".
+2. Go to LAN settings.
+3. Uncheck "Use automatic configuration script.
+4. Check "Use a proxy server for your LAN".
+5. Put address 127.0.0.1, port 3128

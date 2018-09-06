@@ -3,12 +3,12 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2018-09-07 Fri 01:08 -->
+<!-- 2018-09-07 Fri 01:06 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Welcome!</title>
+<title>How to setup proxy at atos</title>
 <meta name="generator" content="Org mode" />
-<meta name="author" content="Eric" />
+<meta name="author" content="Eric Leonardo Lim" />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -227,40 +227,179 @@ for the JavaScript code in this tag.
  }
 /*]]>*///-->
 </script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
 <body>
 <div id="content">
-<h1 class="title">Welcome!</h1>
-
-<div id="outline-container-org7d75678" class="outline-2">
-<h2 id="org7d75678"><span class="section-number-2">1</span> Notes</h2>
-<div class="outline-text-2" id="text-1">
-<ul class="org-ul">
-<li><a href="https://ericleoo.github.io/proxy.html">Proxy setup</a></li>
-<li><a href="https://ericleoo.github.io/cz4013.html">CZ4013</a></li>
+<h1 class="title">How to setup proxy at atos</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgcc204f9">1. Install cntlm</a></li>
+<li><a href="#org8f30c54">2. Modify config file</a></li>
+<li><a href="#org843831a">3. Change Windows proxy settings</a></li>
+<li><a href="#org716ed41">4. Start/stop cntlm</a>
+<ul>
+<li><a href="#org290b396">4.1. Setup</a></li>
+<li><a href="#org1978943">4.2. Start/stop</a></li>
+</ul>
+</li>
+<li><a href="#orgd0430f3">5. Git settings</a>
+<ul>
+<li><a href="#orgc688072">5.1. Set proxy</a></li>
+<li><a href="#org8e71146">5.2. Unset proxy</a></li>
+</ul>
+</li>
+<li><a href="#org4a10df5">6. Revert Windows proxy settings</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org506ae2a" class="outline-2">
-<h2 id="org506ae2a"><span class="section-number-2">2</span> About me</h2>
+
+
+<div id="outline-container-orgcc204f9" class="outline-2">
+<h2 id="orgcc204f9"><span class="section-number-2">1</span> Install cntlm</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Can download <a href="https://sourceforge.net/projects/cntlm/files/">here</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org8f30c54" class="outline-2">
+<h2 id="org8f30c54"><span class="section-number-2">2</span> Modify config file</h2>
 <div class="outline-text-2" id="text-2">
 <p>
-I'm Eric. I'm a fourth year Computer Science undergraduate at Nanyang Technological University.
+Modify C:\Program Files (x86)\Cntlm\cntlm.ini
 </p>
-</div>
-</div>
-<div id="outline-container-orgeae5766" class="outline-2">
-<h2 id="orgeae5766"><span class="section-number-2">3</span> About this website</h2>
-<div class="outline-text-2" id="text-3">
+
 <p>
-I use this website for notes only. I am taking notes of my university courses using emacs org-mode. Most of the pages in this website is exported from org-mode, so all pages are very traditional.
+Sample:
 </p>
+<pre class="example">
+Username	a701480
+#Domain		
+Password	test
+Proxy		proxy-sg.glb.my-it-solutions.net:84
+NoProxy		localhost, 127.0.0.*, 10.*, 192.168.*
+Listen		3128
+</pre>
+
+<p>
+Alphabets in username must be lowercase.
+</p>
+</div>
+</div>
+<div id="outline-container-org843831a" class="outline-2">
+<h2 id="org843831a"><span class="section-number-2">3</span> Change Windows proxy settings</h2>
+<div class="outline-text-2" id="text-3">
+<ol class="org-ol">
+<li>Go to Windows start, search for "Configure proxy server".</li>
+<li>Go to LAN settings.</li>
+<li>Uncheck "Use automatic configuration script.</li>
+<li>Check "Use a proxy server for your LAN".</li>
+<li>Put address 127.0.0.1, port 3128</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org716ed41" class="outline-2">
+<h2 id="org716ed41"><span class="section-number-2">4</span> Start/stop cntlm</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-org290b396" class="outline-3">
+<h3 id="org290b396"><span class="section-number-3">4.1</span> Setup</h3>
+<div class="outline-text-3" id="text-4-1">
+<p>
+Create new file start-proxy.bat in desktop with content:
+</p>
+<pre class="example">
+net start cntlm
+</pre>
+
+<p>
+Create another file stop-proxy.bat in desktop with content:
+</p>
+<pre class="example">
+net stop cntlm
+</pre>
+</div>
+</div>
+<div id="outline-container-org1978943" class="outline-3">
+<h3 id="org1978943"><span class="section-number-3">4.2</span> Start/stop</h3>
+<div class="outline-text-3" id="text-4-2">
+<ul class="org-ul">
+<li>To start cntlm, right click at the start-proxy.bat -&gt; Run as administrator.</li>
+<li>To stop cntlm, right click at the stop-proxy.bat -&gt; Run as administrator.</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-orgd0430f3" class="outline-2">
+<h2 id="orgd0430f3"><span class="section-number-2">5</span> Git settings</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-orgc688072" class="outline-3">
+<h3 id="orgc688072"><span class="section-number-3">5.1</span> Set proxy</h3>
+<div class="outline-text-3" id="text-5-1">
+<p>
+Go to command line and type:
+</p>
+<pre class="example">
+git config --global http.proxy http://127.0.0.1:3128
+</pre>
+</div>
+</div>
+<div id="outline-container-org8e71146" class="outline-3">
+<h3 id="org8e71146"><span class="section-number-3">5.2</span> Unset proxy</h3>
+<div class="outline-text-3" id="text-5-2">
+<p>
+Go to command line and type:
+</p>
+<pre class="example">
+git config --global --unset http.proxy
+</pre>
+</div>
+</div>
+</div>
+<div id="outline-container-org4a10df5" class="outline-2">
+<h2 id="org4a10df5"><span class="section-number-2">6</span> Revert Windows proxy settings</h2>
+<div class="outline-text-2" id="text-6">
+<p>
+May be needed before connecting to VPN (URA) when laptop is at home.
+</p>
+<ol class="org-ol">
+<li>Go to Windows start, search for "Configure proxy server".</li>
+<li>Go to LAN settings.</li>
+<li>Uncheck "Use automatic configuration script.</li>
+<li>Check "Use a proxy server for your LAN".</li>
+<li>Put address 127.0.0.1, port 3128</li>
+</ol>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="author">Author: Eric</p>
-<p class="date">Created: 2018-09-07 Fri 01:08</p>
+<p class="author">Author: Eric Leonardo Lim</p>
+<p class="date">Created: 2018-09-07 Fri 01:06</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

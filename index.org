@@ -1,13 +1,9 @@
 #+SETUPFILE: setup.org
 #+TITLE: Welcome!
-#+AUTHOR: Eric Leonardo Lim
+#+AUTHOR: Eric
 
 #+OPTIONS: toc:nil
 
 * Notes
-- [[https://ericleoo.github.io/CV/cv.pdf][My CV]]
+- [[https://ericleoo.github.io/proxy.html][Proxy setup]]
 - [[https://ericleoo.github.io/cz4013.html][CZ4013]]
-* About me
-I'm Eric. I'm a fourth year Computer Science undergraduate at Nanyang Technological University.
-* About this website
-I use this website for notes only. I am taking notes of my university courses using emacs org-mode. Most of the pages in this website is exported from org-mode, so all pages are very traditional.
