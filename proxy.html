@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2018-09-07 Fri 01:28 -->
+<!-- 2018-09-07 Fri 01:30 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>How to setup proxy at atos</title>
@@ -257,48 +257,48 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org81d2729">1. AboutCE</a></li>
-<li><a href="#org1d35627">2. Install cntlm</a></li>
-<li><a href="#org553056a">3. Modify config file</a></li>
-<li><a href="#org21b9113">4. Change Windows proxy settings</a></li>
-<li><a href="#orgf17ba8f">5. Start/stop cntlm</a>
+<li><a href="#org10a815f">1. About</a></li>
+<li><a href="#orgcdf52c1">2. Install cntlm</a></li>
+<li><a href="#org34660d6">3. Modify config file</a></li>
+<li><a href="#orge6d4647">4. Change Windows proxy settings</a></li>
+<li><a href="#org270245b">5. Start/stop cntlm</a>
 <ul>
-<li><a href="#org191d0c1">5.1. Setup</a></li>
-<li><a href="#orgd606e95">5.2. Start/stop</a></li>
+<li><a href="#orgc45ee12">5.1. Setup</a></li>
+<li><a href="#org7062bba">5.2. Start/stop</a></li>
 </ul>
 </li>
-<li><a href="#org97aa5c2">6. Git settings</a>
+<li><a href="#org9c87fba">6. Git settings</a>
 <ul>
-<li><a href="#org836a34f">6.1. Set proxy</a></li>
-<li><a href="#org53d9596">6.2. Unset proxy</a></li>
+<li><a href="#orgec06d99">6.1. Set proxy</a></li>
+<li><a href="#orgd961b07">6.2. Unset proxy</a></li>
 </ul>
 </li>
-<li><a href="#orgeb7c87a">7. Revert Windows proxy settings</a></li>
+<li><a href="#org3c7bf11">7. Revert Windows proxy settings</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org81d2729" class="outline-2">
-<h2 id="org81d2729"><span class="section-number-2">1</span> AboutCE</h2>
+<div id="outline-container-org10a815f" class="outline-2">
+<h2 id="org10a815f"><span class="section-number-2">1</span> About</h2>
 <div class="outline-text-2" id="text-1">
-<p>
-Atos is using proxy that requires authentication. 
-Many programs can use regular proxy, but can't use proxy requiring authentication.
-Cntlm is the solution bcs it can handle the authentication.
-It will create a new proxy server on localhost that programs can use.
-You only need to start Cntlm server and change program's proxy settings into Cntlm server.
-</p>
+<ul class="org-ul">
+<li>Atos is using proxy that requires authentication.</li>
+<li>Many programs can use regular proxy, but can't use proxy requiring authentication.</li>
+<li>Cntlm is the solution bcs it can handle the authentication.</li>
+<li>It will create a new proxy server on localhost that programs can use.</li>
+<li>You only need to start Cntlm server and change program's proxy settings into Cntlm server.</li>
+</ul>
 </div>
 </div>
-<div id="outline-container-org1d35627" class="outline-2">
-<h2 id="org1d35627"><span class="section-number-2">2</span> Install cntlm</h2>
+<div id="outline-container-orgcdf52c1" class="outline-2">
+<h2 id="orgcdf52c1"><span class="section-number-2">2</span> Install cntlm</h2>
 <div class="outline-text-2" id="text-2">
 <p>
 Can download <a href="https://sourceforge.net/projects/cntlm/files/">here</a>
 </p>
 </div>
 </div>
-<div id="outline-container-org553056a" class="outline-2">
-<h2 id="org553056a"><span class="section-number-2">3</span> Modify config file</h2>
+<div id="outline-container-org34660d6" class="outline-2">
+<h2 id="org34660d6"><span class="section-number-2">3</span> Modify config file</h2>
 <div class="outline-text-2" id="text-3">
 <p>
 Modify C:\Program Files (x86)\Cntlm\cntlm.ini
@@ -321,8 +321,8 @@ Alphabets in username must be lowercase.
 </p>
 </div>
 </div>
-<div id="outline-container-org21b9113" class="outline-2">
-<h2 id="org21b9113"><span class="section-number-2">4</span> Change Windows proxy settings</h2>
+<div id="outline-container-orge6d4647" class="outline-2">
+<h2 id="orge6d4647"><span class="section-number-2">4</span> Change Windows proxy settings</h2>
 <div class="outline-text-2" id="text-4">
 <ol class="org-ol">
 <li>Go to Windows start, search for "Configure proxy server".</li>
@@ -333,12 +333,12 @@ Alphabets in username must be lowercase.
 </ol>
 </div>
 </div>
-<div id="outline-container-orgf17ba8f" class="outline-2">
-<h2 id="orgf17ba8f"><span class="section-number-2">5</span> Start/stop cntlm</h2>
+<div id="outline-container-org270245b" class="outline-2">
+<h2 id="org270245b"><span class="section-number-2">5</span> Start/stop cntlm</h2>
 <div class="outline-text-2" id="text-5">
 </div>
-<div id="outline-container-org191d0c1" class="outline-3">
-<h3 id="org191d0c1"><span class="section-number-3">5.1</span> Setup</h3>
+<div id="outline-container-orgc45ee12" class="outline-3">
+<h3 id="orgc45ee12"><span class="section-number-3">5.1</span> Setup</h3>
 <div class="outline-text-3" id="text-5-1">
 <p>
 Create new file start-proxy.bat in desktop with content:
@@ -355,8 +355,8 @@ net stop cntlm
 </pre>
 </div>
 </div>
-<div id="outline-container-orgd606e95" class="outline-3">
-<h3 id="orgd606e95"><span class="section-number-3">5.2</span> Start/stop</h3>
+<div id="outline-container-org7062bba" class="outline-3">
+<h3 id="org7062bba"><span class="section-number-3">5.2</span> Start/stop</h3>
 <div class="outline-text-3" id="text-5-2">
 <ul class="org-ul">
 <li>To start cntlm, right click at the start-proxy.bat -&gt; Run as administrator.</li>
@@ -365,12 +365,12 @@ net stop cntlm
 </div>
 </div>
 </div>
-<div id="outline-container-org97aa5c2" class="outline-2">
-<h2 id="org97aa5c2"><span class="section-number-2">6</span> Git settings</h2>
+<div id="outline-container-org9c87fba" class="outline-2">
+<h2 id="org9c87fba"><span class="section-number-2">6</span> Git settings</h2>
 <div class="outline-text-2" id="text-6">
 </div>
-<div id="outline-container-org836a34f" class="outline-3">
-<h3 id="org836a34f"><span class="section-number-3">6.1</span> Set proxy</h3>
+<div id="outline-container-orgec06d99" class="outline-3">
+<h3 id="orgec06d99"><span class="section-number-3">6.1</span> Set proxy</h3>
 <div class="outline-text-3" id="text-6-1">
 <p>
 Go to command line and type:
@@ -380,8 +380,8 @@ git config --global http.proxy http://127.0.0.1:3128
 </pre>
 </div>
 </div>
-<div id="outline-container-org53d9596" class="outline-3">
-<h3 id="org53d9596"><span class="section-number-3">6.2</span> Unset proxy</h3>
+<div id="outline-container-orgd961b07" class="outline-3">
+<h3 id="orgd961b07"><span class="section-number-3">6.2</span> Unset proxy</h3>
 <div class="outline-text-3" id="text-6-2">
 <p>
 Go to command line and type:
@@ -392,8 +392,8 @@ git config --global --unset http.proxy
 </div>
 </div>
 </div>
-<div id="outline-container-orgeb7c87a" class="outline-2">
-<h2 id="orgeb7c87a"><span class="section-number-2">7</span> Revert Windows proxy settings</h2>
+<div id="outline-container-org3c7bf11" class="outline-2">
+<h2 id="org3c7bf11"><span class="section-number-2">7</span> Revert Windows proxy settings</h2>
 <div class="outline-text-2" id="text-7">
 <p>
 May be needed before connecting to VPN (URA) when laptop is at home.
@@ -409,7 +409,7 @@ May be needed before connecting to VPN (URA) when laptop is at home.
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Eric</p>
-<p class="date">Created: 2018-09-07 Fri 01:28</p>
+<p class="date">Created: 2018-09-07 Fri 01:30</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
