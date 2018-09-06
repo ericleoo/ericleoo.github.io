@@ -1,8 +1,12 @@
 #+SETUPFILE: setup.org
 #+TITLE: How to setup proxy at atos
 #+AUTHOR: Eric
-
-
+* AboutCE
+Atos is using proxy that requires authentication. 
+Many programs can use regular proxy, but can't use proxy requiring authentication.
+Cntlm is the solution bcs it can handle the authentication.
+It will create a new proxy server on localhost that programs can use.
+You only need to start Cntlm server and change program's proxy settings into Cntlm server.
 * Install cntlm
 Can download [[https://sourceforge.net/projects/cntlm/files/][here]]
 * Modify config file
