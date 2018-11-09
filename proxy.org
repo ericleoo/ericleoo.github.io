@@ -67,7 +67,7 @@ Go to command line and type:
 npm config set proxy http://127.0.0.1:3128
 npm config set https-proxy http://127.0.0.1:3128
 #+END_SRC
-** TODO Unset proxy
+** Unset proxy
 Go to command line and type:
 #+BEGIN_SRC
 npm config delete proxy
