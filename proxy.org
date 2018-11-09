@@ -60,3 +60,16 @@ May be needed before connecting to VPN (URA) when laptop is at home.
 2. Go to LAN settings.
 3. Check "Use automatic configuration script.
 4. Uncheck "Use a proxy server for your LAN".
+* NPM settings
+** Set proxy
+Go to command line and type:
+#+BEGIN_SRC
+npm config set proxy http://127.0.0.1:3128
+npm config set https-proxy http://127.0.0.1:3128
+#+END_SRC
+** TODO Unset proxy
+Go to command line and type:
+#+BEGIN_SRC
+npm config delete proxy
+npm config delete https-proxy
+#+END_SRC
