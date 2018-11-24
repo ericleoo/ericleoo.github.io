@@ -1,8 +1,10 @@
+@font-face { font-family: roboto-regular; 
+			 src: url('../font/Inconsolata.otf'); } 
 @media all
 {
     body {
         /*font-family: "Times New Roman", Times, serif !important;*/
-        font-family: "Courier New", Courier, monospace;
+        font-family: inconsolata;
         /*font-size: 18px;*/
         line-height: 21px;
         max-width: 960px;
