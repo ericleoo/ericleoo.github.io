@@ -1,4 +1,4 @@
-CE#+SETUPFILE: setup.org
+#+SETUPFILE: setup.org
 #+TITLE: Welcome!
 #+AUTHOR: Eric
 
