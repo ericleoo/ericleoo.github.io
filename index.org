@@ -1,4 +1,4 @@
-#+SETUPFILE: setup.org
+CE#+SETUPFILE: setup.org
 #+TITLE: Welcome!
 #+AUTHOR: Eric
 
@@ -7,4 +7,4 @@
 * Notes
 - [[https://ericleoo.github.io/proxy.html][Proxy setup]]
 - [[https://ericleoo.github.io/cz4013.html][CZ4013]]
-- [[https://ericleoo.github.io/zos.html][Z/OS Resources]]
+- [[https://ericleoo.github.io/z.html][Z/OS Resources]]
