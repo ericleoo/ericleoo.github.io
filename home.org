@@ -8,6 +8,7 @@
 - [[https://www.duckduckgo.com][duckduckgo]]
 - [[https://www.google.com][google]]
 ** tutorials
+- [[https://www.tutorialspoint.com/tutorialslibrary.htm][tutorialspoint]]
 - [[https://www-01.ibm.com/servers/resourcelink/svc00100.nsf/pages/zOSV2R3Library?OpenDocument][z/os library]]
 - [[https://www.tutorialspoint.com/cobol/][cobol]]
 - [[https://www.tutorialspoint.com/vsam/index.htm][vsam]]
