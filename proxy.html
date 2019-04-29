@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2018-11-09 Fri 10:12 -->
+<!-- 2019-04-29 Mon 11:43 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>How to setup proxy at atos</title>
@@ -257,34 +257,34 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org11f835c">1. About</a></li>
-<li><a href="#orgf91e45f">2. Install cntlm</a></li>
-<li><a href="#org79a1d13">3. Modify config file</a></li>
-<li><a href="#org617b7ca">4. Change Windows proxy settings</a></li>
-<li><a href="#org5de45c8">5. Start/stop cntlm</a>
+<li><a href="#org7ca3e31">1. About</a></li>
+<li><a href="#org92eaff7">2. Install cntlm</a></li>
+<li><a href="#orgb5d6593">3. Modify config file</a></li>
+<li><a href="#orgedbeb6d">4. Change Windows proxy settings</a></li>
+<li><a href="#org5e9e460">5. Start/stop cntlm</a>
 <ul>
-<li><a href="#org9b55ccb">5.1. Setup</a></li>
-<li><a href="#org4006ec4">5.2. Start/stop</a></li>
+<li><a href="#org63cf978">5.1. Setup</a></li>
+<li><a href="#org1f2d72a">5.2. Start/stop</a></li>
 </ul>
 </li>
-<li><a href="#org57818c0">6. Git settings</a>
+<li><a href="#org25e0909">6. Git settings</a>
 <ul>
-<li><a href="#org37c6b40">6.1. Set proxy</a></li>
-<li><a href="#org0f3ab3e">6.2. Unset proxy</a></li>
+<li><a href="#org75c3901">6.1. Set proxy</a></li>
+<li><a href="#orgbbd3a74">6.2. Unset proxy</a></li>
 </ul>
 </li>
-<li><a href="#orgcf8384c">7. Revert Windows proxy settings</a></li>
-<li><a href="#orgb2231f3">8. NPM settings</a>
+<li><a href="#org3597995">7. Revert Windows proxy settings</a></li>
+<li><a href="#org4cc8b0d">8. NPM settings</a>
 <ul>
-<li><a href="#org9043c7a">8.1. Set proxy</a></li>
-<li><a href="#org8e68c64">8.2. Unset proxy</a></li>
+<li><a href="#org338ff0c">8.1. Set proxy</a></li>
+<li><a href="#org14f4282">8.2. Unset proxy</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org11f835c" class="outline-2">
-<h2 id="org11f835c"><span class="section-number-2">1</span> About</h2>
+<div id="outline-container-org7ca3e31" class="outline-2">
+<h2 id="org7ca3e31"><span class="section-number-2">1</span> About</h2>
 <div class="outline-text-2" id="text-1">
 <ul class="org-ul">
 <li>Atos is using proxy that requires authentication.</li>
@@ -295,16 +295,16 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgf91e45f" class="outline-2">
-<h2 id="orgf91e45f"><span class="section-number-2">2</span> Install cntlm</h2>
+<div id="outline-container-org92eaff7" class="outline-2">
+<h2 id="org92eaff7"><span class="section-number-2">2</span> Install cntlm</h2>
 <div class="outline-text-2" id="text-2">
 <p>
 Can download <a href="https://sourceforge.net/projects/cntlm/files/">here</a>
 </p>
 </div>
 </div>
-<div id="outline-container-org79a1d13" class="outline-2">
-<h2 id="org79a1d13"><span class="section-number-2">3</span> Modify config file</h2>
+<div id="outline-container-orgb5d6593" class="outline-2">
+<h2 id="orgb5d6593"><span class="section-number-2">3</span> Modify config file</h2>
 <div class="outline-text-2" id="text-3">
 <p>
 Modify C:\Program Files (x86)\Cntlm\cntlm.ini
@@ -327,8 +327,8 @@ Alphabets in username must be lowercase.
 </p>
 </div>
 </div>
-<div id="outline-container-org617b7ca" class="outline-2">
-<h2 id="org617b7ca"><span class="section-number-2">4</span> Change Windows proxy settings</h2>
+<div id="outline-container-orgedbeb6d" class="outline-2">
+<h2 id="orgedbeb6d"><span class="section-number-2">4</span> Change Windows proxy settings</h2>
 <div class="outline-text-2" id="text-4">
 <ol class="org-ol">
 <li>Go to Windows start, search for "Configure proxy server".</li>
@@ -339,12 +339,12 @@ Alphabets in username must be lowercase.
 </ol>
 </div>
 </div>
-<div id="outline-container-org5de45c8" class="outline-2">
-<h2 id="org5de45c8"><span class="section-number-2">5</span> Start/stop cntlm</h2>
+<div id="outline-container-org5e9e460" class="outline-2">
+<h2 id="org5e9e460"><span class="section-number-2">5</span> Start/stop cntlm</h2>
 <div class="outline-text-2" id="text-5">
 </div>
-<div id="outline-container-org9b55ccb" class="outline-3">
-<h3 id="org9b55ccb"><span class="section-number-3">5.1</span> Setup</h3>
+<div id="outline-container-org63cf978" class="outline-3">
+<h3 id="org63cf978"><span class="section-number-3">5.1</span> Setup</h3>
 <div class="outline-text-3" id="text-5-1">
 <p>
 Create new file start-proxy.bat in desktop with content:
@@ -361,8 +361,8 @@ net stop cntlm
 </pre>
 </div>
 </div>
-<div id="outline-container-org4006ec4" class="outline-3">
-<h3 id="org4006ec4"><span class="section-number-3">5.2</span> Start/stop</h3>
+<div id="outline-container-org1f2d72a" class="outline-3">
+<h3 id="org1f2d72a"><span class="section-number-3">5.2</span> Start/stop</h3>
 <div class="outline-text-3" id="text-5-2">
 <ul class="org-ul">
 <li>To start cntlm, right click at the start-proxy.bat -&gt; Run as administrator.</li>
@@ -371,12 +371,12 @@ net stop cntlm
 </div>
 </div>
 </div>
-<div id="outline-container-org57818c0" class="outline-2">
-<h2 id="org57818c0"><span class="section-number-2">6</span> Git settings</h2>
+<div id="outline-container-org25e0909" class="outline-2">
+<h2 id="org25e0909"><span class="section-number-2">6</span> Git settings</h2>
 <div class="outline-text-2" id="text-6">
 </div>
-<div id="outline-container-org37c6b40" class="outline-3">
-<h3 id="org37c6b40"><span class="section-number-3">6.1</span> Set proxy</h3>
+<div id="outline-container-org75c3901" class="outline-3">
+<h3 id="org75c3901"><span class="section-number-3">6.1</span> Set proxy</h3>
 <div class="outline-text-3" id="text-6-1">
 <p>
 Go to command line and type:
@@ -386,8 +386,8 @@ git config --global http.proxy http://127.0.0.1:3128
 </pre>
 </div>
 </div>
-<div id="outline-container-org0f3ab3e" class="outline-3">
-<h3 id="org0f3ab3e"><span class="section-number-3">6.2</span> Unset proxy</h3>
+<div id="outline-container-orgbbd3a74" class="outline-3">
+<h3 id="orgbbd3a74"><span class="section-number-3">6.2</span> Unset proxy</h3>
 <div class="outline-text-3" id="text-6-2">
 <p>
 Go to command line and type:
@@ -398,8 +398,8 @@ git config --global --unset http.proxy
 </div>
 </div>
 </div>
-<div id="outline-container-orgcf8384c" class="outline-2">
-<h2 id="orgcf8384c"><span class="section-number-2">7</span> Revert Windows proxy settings</h2>
+<div id="outline-container-org3597995" class="outline-2">
+<h2 id="org3597995"><span class="section-number-2">7</span> Revert Windows proxy settings</h2>
 <div class="outline-text-2" id="text-7">
 <p>
 May be needed before connecting to VPN (URA) when laptop is at home.
@@ -412,24 +412,26 @@ May be needed before connecting to VPN (URA) when laptop is at home.
 </ol>
 </div>
 </div>
-<div id="outline-container-orgb2231f3" class="outline-2">
-<h2 id="orgb2231f3"><span class="section-number-2">8</span> NPM settings</h2>
+<div id="outline-container-org4cc8b0d" class="outline-2">
+<h2 id="org4cc8b0d"><span class="section-number-2">8</span> NPM settings</h2>
 <div class="outline-text-2" id="text-8">
 </div>
-<div id="outline-container-org9043c7a" class="outline-3">
-<h3 id="org9043c7a"><span class="section-number-3">8.1</span> Set proxy</h3>
+<div id="outline-container-org338ff0c" class="outline-3">
+<h3 id="org338ff0c"><span class="section-number-3">8.1</span> Set proxy</h3>
 <div class="outline-text-3" id="text-8-1">
 <p>
 Go to command line and type:
 </p>
 <pre class="example">
-npm config set proxy http://127.0.0.1:3128
-npm config set https-proxy http://127.0.0.1:3128
+npm config set proxy http://localhost:3128
+npm config set https-proxy http://localhost:3128
+npm config set strict-ssl false
+npm config set registry "http://registry.npmjs.org/"
 </pre>
 </div>
 </div>
-<div id="outline-container-org8e68c64" class="outline-3">
-<h3 id="org8e68c64"><span class="section-number-3">8.2</span> Unset proxy</h3>
+<div id="outline-container-org14f4282" class="outline-3">
+<h3 id="org14f4282"><span class="section-number-3">8.2</span> Unset proxy</h3>
 <div class="outline-text-3" id="text-8-2">
 <p>
 Go to command line and type:
@@ -437,6 +439,8 @@ Go to command line and type:
 <pre class="example">
 npm config delete proxy
 npm config delete https-proxy
+npm config delete strict-ssl
+npm config delete registry
 </pre>
 </div>
 </div>
@@ -444,7 +448,7 @@ npm config delete https-proxy
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Eric</p>
-<p class="date">Created: 2018-11-09 Fri 10:12</p>
+<p class="date">Created: 2019-04-29 Mon 11:43</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
