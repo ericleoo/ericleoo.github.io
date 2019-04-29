@@ -31,18 +31,12 @@ Alphabets in username must be lowercase.
 5. Put address 127.0.0.1, port 3128
 * Start/stop cntlm
 ** Setup
-Create new file start-proxy.bat in desktop with content:
+If installation directory is located in C:\Program Files (x86)\Cntlm, to start cntlm, enter the following into cmd:
 #+BEGIN_SRC
-net start cntlm
+cd C:\Program Files (x86)\Cntlm
+cntlm.exe -g
 #+END_SRC
-
-Create another file stop-proxy.bat in desktop with content:
-#+BEGIN_SRC
-net stop cntlm
-#+END_SRC
-** Start/stop
-- To start cntlm, right click at the start-proxy.bat -> Run as administrator.
-- To stop cntlm, right click at the stop-proxy.bat -> Run as administrator.
+You can stop the process manually using Task Manager.
 * Git settings
 ** Set proxy
 Go to command line and type:
