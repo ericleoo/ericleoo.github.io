@@ -2,6 +2,7 @@ import adapter from '@sveltejs/adapter-static';
 import preprocess from 'svelte-preprocess';
 import { mdsvex } from 'mdsvex'
 import mdsvexConfig from './mdsvex.config.js';
+import { resolve } from 'path'
 
 /** @type {import('@sveltejs/kit').Config} */
 /*
@@ -42,7 +43,12 @@ const config = {
         mdsvex(mdsvexConfig)
     ],
     kit: {
-        adapter: adapter()
+      adapter: adapter({
+        fallback: '200.html'
+      }),
+      alias: {
+        $lib: resolve('./src/lib'),
+      },
     }
 };
 

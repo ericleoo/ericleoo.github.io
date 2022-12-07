@@ -15,9 +15,26 @@ This is a paragraph.
 | And this is | A table |
 |-------------|---------|
 | With two    | columns |
+
 <script>
+  import fs from 'fs';
+
+  // Use fs.readdir to get an array of the names of the files and directories
+  // in the src/routes directory
+  const routes = fs.readdirSync('src/routes');
+
+  // Use the fs.statSync method to check the type of each file or directory
+  // and only include directories in the routes array
+  const directories = routes.filter(route => {
+    const stats = fs.statSync(`src/routes/${route}`);
+    return stats.isDirectory();
+  });
 </script>
 
-<div>
-Done.
-</div>
+<ul>
+	{#each directories as directory}
+		<li><a href="{directory}/">
+		  {directory}
+		</a></li>
+	{/each}
+</ul>
