@@ -1,6 +1,6 @@
 ---
 date: 2022-12-07
-title: Oil, Gold, and LCLo(SP)R
+title: Oil, Gold, and LCLo(SP)R - Zoltan Pozsar
 published: true
 ---
 
