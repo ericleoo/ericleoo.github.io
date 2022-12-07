@@ -8,7 +8,7 @@
   <div class="mx-2 px-2 navbar-start">
     <span class="font-bold text-lg">{siteName}</span>
   </div>
-  <!--
+  <!-- 
   <div class="dropdown dropdown-right lg:hidden">
     <div tabindex="0" class="m-1 btn">Links</div>
     <ul
