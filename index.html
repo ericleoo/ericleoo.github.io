@@ -5,13 +5,16 @@
 		<link rel="icon" href="./favicon.png" />
 		<meta name="viewport" content="width=device-width" />
 		<meta http-equiv="content-security-policy" content="">
-		<link rel="modulepreload" href="./_app/immutable/start-f69c5092.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/index-8f0aa09d.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/singletons-1769c739.js">
-		<link rel="modulepreload" href="./_app/immutable/components/layout.svelte-95848490.js">
+		<link rel="modulepreload" href="./_app/immutable/start-e2448ca4.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/index-1c54e198.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/singletons-247c70db.js">
+		<link rel="modulepreload" href="./_app/immutable/components/layout.svelte-987c304f.js">
 		<link rel="modulepreload" href="./_app/immutable/modules/pages/_layout.js-7b9cbfbc.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/_layout-8d2a742b.js">
-		<link rel="modulepreload" href="./_app/immutable/components/pages/_page.svelte-743712c3.js">
+		<link rel="modulepreload" href="./_app/immutable/components/pages/_page.svelte-46519d85.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/head-a5cfd1c5.js">
+		<link rel="modulepreload" href="./_app/immutable/modules/pages/_page.js-18452259.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/_page-14433e87.js"><title>All the Posts</title><!-- HEAD_svelte-enfip_START --><link rel="canonical"><meta name="description"><meta name="author" content="Eric"><meta itemprop="name" content="All the Posts"><meta itemprop="description"><meta itemprop="image"><meta property="og:url"><meta property="og:type" content="website"><meta property="og:title" content="All the Posts"><meta property="og:description"><meta property="og:image"><meta name="twitter:card" content="summary_large_image"><meta property="twitter:domain" content="https://ericleoo.github.io"><meta property="twitter:url"><meta name="twitter:title" content="All the Posts"><meta name="twitter:description"><meta name="twitter:image"><meta name="monetization" content="$ilp.uphold.com/bzPBWkMBzLmN"><!-- HEAD_svelte-enfip_END -->
 	</head>
 	<body data-sveltekit-preload-data="hover">
 		<div style="display: contents">
@@ -19,26 +22,20 @@
 
 <h1>Welcome to SvelteKit</h1>
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
-<h1>Hello</h1>
-<h2>How are you?</h2>
-<p>This text is <em>bold</em></p>
-<h1>This is a header</h1>
-<p>This is a paragraph.</p>
-<ul><li>This is a list</li>
-<li>With two items<ol><li>And a sublist</li>
-<li>That is ordered</li>
-</ol><ul><li>With another</li>
-<li>Sublist inside</li></ul></li></ul>
-<table><thead><tr><th>And this is</th>
-<th>A table</th></tr></thead>
-<tbody><tr><td>With two</td>
-<td>columns</td></tr></tbody></table>
-<div>Done.
-</div>
 
 
-		<script type="module" data-sveltekit-hydrate="ol2u4z">
-			import { start } from "./_app/immutable/start-f69c5092.js";
+
+<div class="flex flex-col flex-grow"><h1 class="font-bold mb-5 text-5xl">Check out the posts!</h1>
+  <article class="border border-primary bg-base-100 shadow-xl mb-10 p-5 transition card hover:text-accent-focus first:pt-0"><a sveltekit:prefetch href="/posts/hello-world"><div><h2 class="font-black mt-5 mb-1 text-3xl">Hello World!</h2>
+      <div class="font-bold text-accent text-sm mb-4 uppercase"><time>Wed Dec 07 2022</time></div></div></a></article><article class="border border-primary bg-base-100 shadow-xl mb-10 p-5 transition card hover:text-accent-focus first:pt-0"><a sveltekit:prefetch href="/posts/using-skeltekit-endpoints-in-netlify"><div><h2 class="font-black mt-5 mb-1 text-3xl">Using SvelteKit Endpoints in Netlify</h2>
+      <div class="font-bold text-accent text-sm mb-4 uppercase"><time>Tue Aug 31 2021</time></div></div></a></article><article class="border border-primary bg-base-100 shadow-xl mb-10 p-5 transition card hover:text-accent-focus first:pt-0"><a sveltekit:prefetch href="/posts/make-a-sitemap-with-sveltekit"><div><h2 class="font-black mt-5 mb-1 text-3xl">Make a Sitemap with Sveltekit</h2>
+      <div class="font-bold text-accent text-sm mb-4 uppercase"><time>Sat Aug 21 2021</time></div></div></a></article><article class="border border-primary bg-base-100 shadow-xl mb-10 p-5 transition card hover:text-accent-focus first:pt-0"><a sveltekit:prefetch href="/posts/make-an-rss-feed-with-sveltekit"><div><h2 class="font-black mt-5 mb-1 text-3xl">Make an RSS Feed for your SvelteKit Project</h2>
+      <div class="font-bold text-accent text-sm mb-4 uppercase"><time>Mon Aug 09 2021</time></div></div></a></article><article class="border border-primary bg-base-100 shadow-xl mb-10 p-5 transition card hover:text-accent-focus first:pt-0"><a sveltekit:prefetch href="/posts/sveltekit-env-secrets"><div><h2 class="font-black mt-5 mb-1 text-3xl">SvelteKit .env secrets</h2>
+      <div class="font-bold text-accent text-sm mb-4 uppercase"><time>Tue Jun 22 2021</time></div></div></a></article></div>
+
+
+		<script type="module" data-sveltekit-hydrate="ryhlww">
+			import { start } from "./_app/immutable/start-e2448ca4.js";
 
 			start({
 				env: {},
@@ -52,10 +49,10 @@
 					form: null
 				},
 				paths: {"base":"","assets":""},
-				target: document.querySelector('[data-sveltekit-hydrate="ol2u4z"]').parentNode,
-				version: "1670384440458"
+				target: document.querySelector('[data-sveltekit-hydrate="ryhlww"]').parentNode,
+				version: "1670403896859"
 			});
 		</script>
-	</div>
+	<script type="application/json" data-sveltekit-fetched data-url="/posts.json">{"status":200,"statusText":"","headers":{},"body":"{\n  \"posts\": [\n    {\n      \"date\": \"2022-12-07T00:00:00.000Z\",\n      \"title\": \"Hello World!\",\n      \"published\": true,\n      \"slug\": \"hello-world\"\n    },\n    {\n      \"date\": \"2021-08-31T00:00:00.000Z\",\n      \"title\": \"Using SvelteKit Endpoints in Netlify\",\n      \"published\": true,\n      \"slug\": \"using-skeltekit-endpoints-in-netlify\"\n    },\n    {\n      \"date\": \"2021-08-21T00:00:00.000Z\",\n      \"title\": \"Make a Sitemap with Sveltekit\",\n      \"published\": true,\n      \"slug\": \"make-a-sitemap-with-sveltekit\"\n    },\n    {\n      \"date\": \"2021-08-09T00:00:00.000Z\",\n      \"title\": \"Make an RSS Feed for your SvelteKit Project\",\n      \"published\": true,\n      \"slug\": \"make-an-rss-feed-with-sveltekit\"\n    },\n    {\n      \"date\": \"2021-06-22T00:00:00.000Z\",\n      \"title\": \"SvelteKit .env secrets\",\n      \"published\": true,\n      \"slug\": \"sveltekit-env-secrets\"\n    }\n  ]\n}"}</script></div>
 	</body>
 </html>
