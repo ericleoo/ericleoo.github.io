@@ -5,9 +5,11 @@
 <div
   class="bg-neutral shadow-lg text-neutral-content mb-16 top-0 z-10 navbar sticky"
 >
-  <div class="mx-2 px-2 navbar-start">
+  <!--
+  <div class="mx-2 px-2 navbar-start left">
     <span class="font-bold text-lg">{siteName}</span>
   </div>
+  -->
   <!-- 
   <div class="dropdown dropdown-right lg:hidden">
     <div tabindex="0" class="m-1 btn">Links</div>
@@ -23,7 +25,7 @@
     </ul>
   </div>
   !-->
-  <div class="mx-2 px-2 hidden navbar-center lg:flex">
+  <div class="mx-2 px-2 hidden navbar-center lg:flex right">
     <div class="flex items-stretch">
       {#each pages as { title, path }}
         <a
@@ -31,6 +33,7 @@
           href={path}
           class="rounded-btn btn btn-ghost btn-sm">{title}</a
         >
+        <div class="px-2"> </div>
       {/each}
     </div>
   </div>

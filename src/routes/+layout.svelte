@@ -1,5 +1,6 @@
 <script>
   import Nav from '@components/nav.svelte'
+  import '../styles.css'
   import '../prism.css'
 
 </script>
@@ -12,6 +13,7 @@
   <slot />
 </main>
 
+<!--
 <style>
   :global(:root) {
     --spacing-unit: 4px;
@@ -47,3 +49,4 @@
     margin-top: calc(var(--spacing-unit) * 8);
   }
 </style>
+-->

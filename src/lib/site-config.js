@@ -7,7 +7,8 @@ export const website = `https://ericleoo.github.io`
 export const description = `This project is built with SvelteKit and MDSveX`
 
 export const pages = [
-  { title: `Home`, path: `/` }
+  { title: `Home`, path: `/` },
+  { title: `About`, path: `/about` },
 ]
 //  { title: `Posts`, path: `/posts` },
 //  { title: `About`, path: `/about` },
