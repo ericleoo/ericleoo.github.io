@@ -616,7 +616,7 @@ A BIS meeting was held and from those doors the world did change. The Bundesbank
 > Shek ( home ) ID#287279:  
 > Global Gold Market Deficit Is 700 Tonnes Larger Than Consensus Estimates - Aggregate Short Position Too Large To Be Covered Noted international gold market analyst Frank Veneroso said today that Bundesbank disclosure of massive gold loans \`\`confirms our view that the global gold market deficit is 700 tonnes larger than consensus estimates and that the aggregate short position in the gold market is too large to be covered... This is the beginning of a reappraisal of the gold market that will slowly unfold...''
 > 
-> http://biz.yahoo.com/prnews/971112/ny\_bundesbank\_gold\_1.html  
+> [Yahoo News - NY Bundensbank Gold](http://biz.yahoo.com/prnews/971112/ny\_bundesbank\_gold\_1.html)
 > Wednesday November 12, 9:37 pm Eastern Time
 > 
 > Date: Wed Nov 12 1997 22:38  
@@ -881,7 +881,7 @@ THIS REPORT:
 
 > Date: Thu Nov 27 1997 09:02  
 > Leland ( What "Another" has been saying..in speak-plain-talk ) ID#316193:  
-> [http://www.gigweb.com/news/it/report/](http://www.gigweb.com/news/it/report/)
+> [Gigweb News - Report](http://www.gigweb.com/news/it/report/)
 
 Leland, this report is very good! I will add to it tonight and add some replys.
 
@@ -1306,7 +1306,7 @@ REPLY:
 
 > Date: Sun Jan 18 1998 09:46  
 > sharefin ( Worth a re- read???? ) ID#284255:  
-> http://www.kitcomm.com/pub/discussion/another3.html  
+> [Kitco Discsussions - Another - Page 3](http://www.kitcomm.com/pub/discussion/another3.html)
 > ANOTHER updated plus a couple of old ones I found.
 
 Mr. Sharefin,  
