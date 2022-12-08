@@ -1,6 +1,6 @@
 <script>
   import { pages, siteName } from '@lib/site-config'
-  let duration = "350ms";
+  let duration = "250ms";
   let offset = 50;
   let tolerance = 5;
 
