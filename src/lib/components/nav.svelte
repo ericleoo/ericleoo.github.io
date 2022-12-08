@@ -37,7 +37,7 @@
   $: headerClass = updateClass(y);
 </script>
 
-<div use:setTransitionDuration class="bg-neutral shadow-lg text-neutral-content mb-16 top-0 z-10 navbar sticky {headerClass}">
+<div use:setTransitionDuration class="bg-neutral shadow text-neutral-content mb-16 top-0 z-10 navbar sticky {headerClass}">
   <!-- 
   <div class="mx-2 px-2 navbar-start left">
     <span class="font-bold text-lg">{siteName}</span>
@@ -78,6 +78,6 @@
     transform: translateY(0%);
   }
   .hide {
-    transform: translateY(-100%);
+    transform: translateY(-150%);
   }
 </style>
