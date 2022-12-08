@@ -1,8 +1,10 @@
 ---
 date: 2022-12-07
-title: Oil, Gold, and LCLo(SP)R - Zoltan Pozsar
+title: Zoltan Pozsar - Oil, Gold, and LCLo(SP)R
 published: true
 ---
+
+Source: [Credit Suisse](https://plus2.credit-suisse.com/shorturlpdf.html?v=5gjk-YP34-V&t=-7ev7jl105unaw8awa0bdw7c7c)
 
 I am stunned every time a client asks me if I am worried about the current  level of reserves in the U.S. banking system. The market’s search for the  level of reserves at which the system "breaks" implies that the market is worried about a repeat of the 2019 repo blowup. Such fears are misplaced.  To be clear, there are risks lurking in funding markets, but they have nothing to do with the draining of reserves via QT (watching paint dry). Rather, they have to do with the draining of reserves via geopolitics (Russia responding to price caps).
 
