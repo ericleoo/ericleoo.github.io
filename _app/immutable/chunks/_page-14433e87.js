@@ -1,0 +1,1 @@
+async function s({fetch:t}){const o=await t("/posts.json");if(o.ok){const{posts:e}=await o.json();return{posts:e}}}const n=Object.freeze(Object.defineProperty({__proto__:null,load:s},Symbol.toStringTag,{value:"Module"}));export{n as _,s as l};
