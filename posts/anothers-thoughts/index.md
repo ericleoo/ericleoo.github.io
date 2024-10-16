@@ -1,10 +1,10 @@
 ---
-date: 2022-07-28
+date: 2024-07-28
 title: Another's Thoughts (October 1997 - September 1998)
 published: true
 ---
 
-Source: [ANOTHER (THOUGHTS!)](https://www.usagold.com/goldtrail/archives/another1.html)
+Source: [ANOTHER (THOUGHTS!)](http://ubercraftorg.ipage.com/thoughts/)
 
 Date: Sun Oct 05 1997 21:29  
 ANOTHER ( THOUGHTS! ) ID#60253:
