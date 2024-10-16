@@ -1,5 +1,0 @@
-import{S as u,i as _,s as d,w as $,a as b,k as g,q as f,x,c as y,l as T,m as E,r as p,h as r,n as H,y as q,b as m,D as v,B as w,f as I,t as S,z as k}from"../../../chunks/index-87cc245d.js";import{H as z}from"../../../chunks/head-df07598c.js";function A(h){let a,i,s,o,n,l;return a=new z({props:{title:`${c}`}}),{c(){$(a.$$.fragment),i=b(),s=g("h1"),o=f(c),n=f(`
-
-This is Eric's blog. This blog is also a personal reading list as it consists of articles that I personally may read time after time again.`),this.h()},l(t){x(a.$$.fragment,t),i=y(t),s=T(t,"H1",{class:!0});var e=E(s);o=p(e,c),e.forEach(r),n=p(t,`
-
-This is Eric's blog. This blog is also a personal reading list as it consists of articles that I personally may read time after time again.`),this.h()},h(){H(s,"class","font-bold mb-5 text-5xl")},m(t,e){q(a,t,e),m(t,i,e),m(t,s,e),v(s,o),m(t,n,e),l=!0},p:w,i(t){l||(I(a.$$.fragment,t),l=!0)},o(t){S(a.$$.fragment,t),l=!1},d(t){k(a,t),t&&r(i),t&&r(s),t&&r(n)}}}let c="About";class D extends u{constructor(a){super(),_(this,a,null,A,d,{})}}export{D as default};
