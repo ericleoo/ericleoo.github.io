@@ -1,16 +1,16 @@
 {
   "posts": [
     {
+      "date": "2024-12-01T00:00:00.000Z",
+      "title": "Another's Thoughts (October 1997 - September 1998)",
+      "published": true,
+      "slug": "anothers-thoughts"
+    },
+    {
       "date": "2024-10-16T00:00:00.000Z",
       "title": "Friend of Another - The Gold Trail",
       "published": true,
       "slug": "gold-trail"
-    },
-    {
-      "date": "2024-07-28T00:00:00.000Z",
-      "title": "Another's Thoughts (October 1997 - September 1998)",
-      "published": true,
-      "slug": "anothers-thoughts"
     },
     {
       "date": "2022-12-27T00:00:00.000Z",
