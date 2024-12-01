@@ -1,5 +1,5 @@
 ---
-date: 2024-07-28
+date: 2024-12-01
 title: Another's Thoughts (October 1997 - September 1998)
 published: true
 ---
