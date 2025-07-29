@@ -1,0 +1,65 @@
+.post-card {
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  border: 1px solid #e9ecef !important;
+}
+
+.post-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0,0,0,0.1) !important;
+}
+
+.post-card .stretched-link {
+  color: #333 !important;
+  text-decoration: none !important;
+}
+
+.post-card .stretched-link:hover {
+  color: #0d6efd !important;
+}
+
+.post-card .card-title {
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.post-card .card-text {
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.navbar-brand {
+  font-weight: 700 !important;
+  font-size: 1.5rem !important;
+}
+
+.display-4 {
+  font-weight: 300;
+  color: #2c3e50;
+}
+
+.lead {
+  font-size: 1.1rem;
+}
+
+.badge {
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+body {
+  background-color: #f8f9fa;
+}
+
+.container {
+  max-width: 1200px;
+}
+
+@media (max-width: 768px) {
+  .display-4 {
+    font-size: 2.5rem;
+  }
+  
+  .post-card {
+    margin-bottom: 1rem;
+  }
+}

@@ -1,19 +1,7 @@
-import { sveltekit } from '@sveltejs/kit/vite';
-import { resolve } from 'path'
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
 
-/** @type {import('vite').UserConfig} */
-const config = {
-	plugins: [sveltekit()],
-	test: {
-		include: ['src/**/*.{test,spec}.{js,ts}']
-	},
-  resolve: {
-    alias: {
-      '@components': resolve('./src/lib/components'),
-      '@lib': resolve('./src/lib'),
-      '@icons': resolve('./src/lib/icons'),
-    },
-  },
-};
-
-export default config;
+// https://vitejs.dev/config/
+export default defineConfig({
+  plugins: [react()],
+})
