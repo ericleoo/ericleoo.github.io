@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
-		"deploy": "touch build/.nojekyll && gh-pages -d build -t true",
+		"deploy": "touch dist/.nojekyll && gh-pages -d dist -t true",
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
