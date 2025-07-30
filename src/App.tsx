@@ -10,12 +10,12 @@ import { postSlugs as posts } from './posts';
 function App() {
   return (
     <Router>
-      <Navbar bg="dark" variant="dark" expand="lg">
+      <Navbar bg="light" variant="light" expand="lg" className="shadow-sm">
         <Container>
           <Navbar.Brand as={Link} to="/">My Blog</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
-            <Nav className="me-auto">
+            <Nav className="ms-auto">
               {posts.map((post) => (
                 <Nav.Link as={Link} to={`/posts/${post}`} key={post}>
                   {post.replace(/-/g, ' ')}
@@ -25,7 +25,7 @@ function App() {
           </Navbar.Collapse>
         </Container>
       </Navbar>
-      <Container>
+      <Container className="py-4 py-md-5">
         <main>
           <Routes>
             <Route path="/" element={<Home />} />
