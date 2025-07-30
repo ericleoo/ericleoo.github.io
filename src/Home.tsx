@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { Badge } from 'react-bootstrap';
+import removeMarkdown from 'remove-markdown';
 import { postSlugs, getPost } from './posts';
 
 interface PostMetadata {
@@ -21,9 +22,11 @@ const Home = () => {
         const postsData = await Promise.all(
           postSlugs.map(async (slug) => {
             const { attributes, body } = await getPost(slug);
-            const paragraphs = body.trim().split('\n\n');
-            const firstParagraph = paragraphs.find(p => p.trim() && !p.startsWith('#'));
-            const excerpt = firstParagraph ? firstParagraph.substring(0, 200) + '...' : '';
+            const plainTextBody = removeMarkdown(body);
+            const paragraphs = plainTextBody.trim().split('\n\n');
+            const contentParagraphs = paragraphs.filter(p => p.trim() && !p.startsWith('#'));
+            const excerptContent = contentParagraphs.join('\n\n');
+            const excerpt = excerptContent ? excerptContent.substring(0, 400) + '...' : '';
             return { ...attributes, slug, excerpt } as PostMetadata;
           })
         );
