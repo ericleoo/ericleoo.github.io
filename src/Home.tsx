@@ -18,7 +18,7 @@ const Home = () => {
     'anothers-thoughts',
     'aristotle-gold-oil', 
     'gold-trail',
-    'oil-gold-and-lclospr',
+    'zoltan-pozsar-oil-gold-and-lclospr',
     'war-and-commodity-encumbrance',
   ];
 
@@ -42,7 +42,11 @@ const Home = () => {
               lines.forEach(line => {
                 const [key, ...valueParts] = line.split(':');
                 if (key && valueParts.length > 0) {
-                  const value = valueParts.join(':').trim();
+                  let value = valueParts.join(':').trim();
+                  // Remove quotes from title
+                  if (key.trim() === 'title') {
+                    value = value.replace(/^"(.*)"$/, '$1');
+                  }
                   metadata[key.trim()] = value;
                 }
               });
