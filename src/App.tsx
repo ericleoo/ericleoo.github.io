@@ -1,6 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Link, useNavigate } from 'react-router-dom';
 import { Container, Nav, Navbar } from 'react-bootstrap';
+import { useEffect } from 'react';
 import Post from './Post';
 import Home from './Home';
 import { ThemeProvider, useTheme } from './ThemeContext';
@@ -10,6 +11,20 @@ import './custom-styles.css';
 import './styles/theme.css';
 
 import { postSlugs as posts } from './posts';
+
+const RedirectHandler = () => {
+  const navigate = useNavigate();
+  
+  useEffect(() => {
+    const redirectPath = sessionStorage.getItem('redirectPath');
+    if (redirectPath) {
+      sessionStorage.removeItem('redirectPath');
+      navigate(redirectPath, { replace: true });
+    }
+  }, [navigate]);
+  
+  return null;
+};
 
 const AppContent = () => {
   const { theme } = useTheme();
@@ -49,6 +64,7 @@ const AppContent = () => {
           </Container>
         </Navbar>
         <Container className="py-4 py-md-5">
+          <RedirectHandler />
           <main>
             <Routes>
               <Route path="/" element={<Home />} />
