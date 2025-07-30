@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { Card, Row, Col, Badge } from 'react-bootstrap';
+import { Badge } from 'react-bootstrap';
 import { postSlugs, getPost } from './posts';
 
 interface PostMetadata {
@@ -62,39 +62,36 @@ const Home = () => {
         <p className="lead text-muted">Thoughts on economics, markets, and investments</p>
       </div>
       
-      <Row xs={1} md={2} lg={3} className="g-4">
+      <div className="post-list">
         {posts.map((post) => (
-          <Col key={post.slug}>
-            <Card className="h-100 border-0 shadow-sm post-card-hover">
-              <Card.Body className="d-flex flex-column p-4">
-                <div className="mb-3">
-                  <Badge pill bg="primary" className="px-3 py-2">
-                    {formatDate(post.date)}
-                  </Badge>
-                </div>
-                <Card.Title className="h5 mb-3">
-                  <Link 
-                    to={`/posts/${post.slug}`} 
-                    className="text-decoration-none text-dark stretched-link"
-                  >
-                    {post.title}
-                  </Link>
-                </Card.Title>
-                {post.excerpt && (
-                  <Card.Text className="text-muted flex-grow-1 mb-4">
-                    {post.excerpt}
-                  </Card.Text>
-                )}
-                <div className="mt-auto">
-                  <small className="text-primary fw-bold">
-                    Read more →
-                  </small>
-                </div>
-              </Card.Body>
-            </Card>
-          </Col>
+          <article key={post.slug} className="post-item mb-4 pb-4 border-bottom">
+            <div className="mb-2">
+              <Badge bg="primary" className="px-2 py-1">
+                {formatDate(post.date)}
+              </Badge>
+            </div>
+            <h2 className="h4 mb-3">
+              <Link 
+                to={`/posts/${post.slug}`} 
+                className="text-decoration-none text-dark"
+              >
+                {post.title}
+              </Link>
+            </h2>
+            {post.excerpt && (
+              <p className="text-muted mb-3">
+                {post.excerpt}
+              </p>
+            )}
+            <Link 
+              to={`/posts/${post.slug}`}
+              className="text-primary text-decoration-none fw-bold"
+            >
+              Read more →
+            </Link>
+          </article>
         ))}
-      </Row>
+      </div>
     </div>
   );
 };

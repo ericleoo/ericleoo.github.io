@@ -40,7 +40,7 @@ const Post = () => {
   }
 
   return (
-    <div className="post-content bg-white p-3 p-md-4 rounded-lg shadow-sm">
+    <article className="post-content">
       {post.title && <h1 className="display-4 mb-3">{post.title}</h1>}
       {post.date && (
         <p className="text-muted mb-4">
@@ -52,7 +52,7 @@ const Post = () => {
         </p>
       )}
       <ReactMarkdown>{post.content}</ReactMarkdown>
-    </div>
+    </article>
   );
 };
 

@@ -1,19 +1,21 @@
-.post-card-hover {
-  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+.post-list {
+  max-width: 800px;
+  margin: 0 auto;
 }
 
-.post-card-hover:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+.post-item:last-child {
+  border-bottom: none !important;
+}
+
+.post-item h2 a:hover {
+  color: #0d6efd !important;
+  transition: color 0.2s ease-in-out;
 }
 
 .post-content {
   max-width: 800px;
   margin: 0 auto;
-  padding: 2rem;
-  background-color: #fff;
-  border-radius: 0.5rem;
-  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.05);
+  padding: 1rem 0;
 }
 
 .post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6 {
