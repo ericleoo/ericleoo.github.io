@@ -31,7 +31,7 @@ function App() {
           </Navbar.Collapse>
         </Container>
       </Navbar>
-      <Container className="mt-4">
+      <Container>
         <main>
           <Routes>
             <Route path="/" element={<Home />} />

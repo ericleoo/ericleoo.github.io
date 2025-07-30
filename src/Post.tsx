@@ -54,7 +54,7 @@ const Post = () => {
   }
 
   return (
-    <div className="post">
+    <div className="post-content">
       {post.title && <h1 className="display-4 mb-3">{post.title}</h1>}
       {post.date && (
         <p className="text-muted mb-4">

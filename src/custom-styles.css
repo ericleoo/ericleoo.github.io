@@ -1,3 +1,4 @@
+
 .post-card {
   transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
   border: 1px solid #e9ecef !important;
@@ -61,5 +62,33 @@ body {
   
   .post-card {
     margin-bottom: 1rem;
+  }
+}
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.25rem;
+}
+
+.post-content pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  background-color: #f8f9fa;
+  padding: 1rem;
+  border-radius: 0.25rem;
+}
+
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6 {
+  word-wrap: break-word;
+}
+
+@media (max-width: 576px) {
+  .post-content {
+    font-size: 1rem;
   }
 }

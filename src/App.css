@@ -1,7 +1,10 @@
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
+}
+
+main {
+  padding: 1rem;
 }
 
 .logo {
@@ -32,9 +35,7 @@
   }
 }
 
-.card {
-  padding: 2em;
-}
+
 
 .read-the-docs {
   color: #888;
