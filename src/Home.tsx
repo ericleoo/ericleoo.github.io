@@ -76,7 +76,7 @@ const Home = () => {
             <h2 className="h4 mb-3">
               <Link 
                 to={`/posts/${post.slug}`} 
-                className="text-decoration-none text-dark"
+                className="text-decoration-none"
               >
                 {post.title}
               </Link>
