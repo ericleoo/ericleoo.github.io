@@ -46,3 +46,25 @@ a:hover {
 .theme-toggler .nav-link {
   color: var(--bs-navbar-color) !important;
 }
+
+.theme-toggler .dropdown-item {
+  color: var(--bs-navbar-color) !important;
+  background-color: transparent;
+}
+
+.theme-toggler .dropdown-item:hover {
+  color: var(--bs-link-hover-color) !important;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="dark"] .theme-toggler .dropdown-item:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.text-muted {
+  color: #6c757d !important;
+}
+
+[data-theme="dark"] .text-muted {
+  color: #adb5bd !important;
+}
