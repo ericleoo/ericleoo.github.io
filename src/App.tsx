@@ -10,7 +10,7 @@ import { postSlugs as posts } from './posts';
 function App() {
   return (
     <Router>
-      <Navbar bg="light" variant="light" expand="lg" className="shadow-sm">
+      <Navbar bg="light" variant="light" expand="lg" className="shadow-sm" fluid>
         <Container>
           <Navbar.Brand as={Link} to="/">My Blog</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
