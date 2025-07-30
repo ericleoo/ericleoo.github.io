@@ -5,13 +5,7 @@ import Home from './Home';
 import './App.css';
 import './custom-styles.css';
 
-const posts = [
-  'anothers-thoughts',
-  'aristotle-gold-oil',
-  'gold-trail',
-  'oil-gold-and-lclospr',
-  'war-and-commodity-encumbrance',
-];
+import { postSlugs as posts } from './posts';
 
 function App() {
   return (

@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { Card, Row, Col, Badge } from 'react-bootstrap';
+import { postSlugs, getPost } from './posts';
 
 interface PostMetadata {
   slug: string;
@@ -14,54 +15,19 @@ const Home = () => {
   const [posts, setPosts] = useState<PostMetadata[]>([]);
   const [loading, setLoading] = useState(true);
 
-  const postSlugs = [
-    'anothers-thoughts',
-    'aristotle-gold-oil', 
-    'gold-trail',
-    'zoltan-pozsar-oil-gold-and-lclospr',
-    'war-and-commodity-encumbrance',
-  ];
-
   useEffect(() => {
     const fetchPostsMetadata = async () => {
       try {
         const postsData = await Promise.all(
           postSlugs.map(async (slug) => {
-            const response = await fetch(`/posts/${slug}/index.md`);
-            const text = await response.text();
-            
-            const frontmatterMatch = text.match(/^---\n([\s\S]*?)\n---/);
-            const content = text.replace(/^---\n[\s\S]*?\n---\n/, '');
-            
-            let metadata: any = { slug };
-            
-            if (frontmatterMatch) {
-              const frontmatter = frontmatterMatch[1];
-              const lines = frontmatter.split('\n');
-              
-              lines.forEach(line => {
-                const [key, ...valueParts] = line.split(':');
-                if (key && valueParts.length > 0) {
-                  let value = valueParts.join(':').trim();
-                  // Remove quotes from title
-                  if (key.trim() === 'title') {
-                    value = value.replace(/^"(.*)"$/, '$1');
-                  }
-                  metadata[key.trim()] = value;
-                }
-              });
-            }
-            
-            // Extract first paragraph as excerpt
-            const paragraphs = content.trim().split('\n\n');
+            const { attributes, body } = await getPost(slug);
+            const paragraphs = body.trim().split('\n\n');
             const firstParagraph = paragraphs.find(p => p.trim() && !p.startsWith('#'));
-            metadata.excerpt = firstParagraph ? firstParagraph.substring(0, 200) + '...' : '';
-            
-            return metadata as PostMetadata;
+            const excerpt = firstParagraph ? firstParagraph.substring(0, 200) + '...' : '';
+            return { ...attributes, slug, excerpt } as PostMetadata;
           })
         );
         
-        // Sort by date (newest first)
         const sortedPosts = postsData
           .filter(post => post.published !== false)
           .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());

@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import { useParams } from 'react-router-dom';
 
+import { getPost } from './posts';
+
 interface PostData {
   content: string;
   title?: string;
@@ -15,26 +17,10 @@ const Post = () => {
   useEffect(() => {
     const fetchPost = async () => {
       try {
-        const response = await fetch(`/posts/${slug}/index.md`);
-        const text = await response.text();
-        
-        const frontmatterMatch = text.match(/^---\n([\s\S]*?)\n---/);
-        const content = text.replace(/^---\n[\s\S]*?\n---\n/, '');
-        
-        let title, date;
-        if (frontmatterMatch) {
-          const frontmatter = frontmatterMatch[1];
-          const titleMatch = frontmatter.match(/title:\s*([^\n]*)/);
-          if (titleMatch) {
-            title = titleMatch[1];
-          }
-          const dateMatch = frontmatter.match(/date:\s*(.*)/);
-          if (dateMatch) {
-            date = dateMatch[1];
-          }
-        }
-        
-        setPost({ content, title, date });
+        if (!slug) return;
+        const postData = await getPost(slug);
+        const { attributes, body } = postData;
+        setPost({ content: body, title: attributes.title, date: attributes.date });
       } catch (error) {
         console.error('Error fetching post:', error);
       }
