@@ -6,7 +6,7 @@ const ThemeToggler = () => {
   const { theme, setTheme } = useTheme();
 
   return (
-    <NavDropdown title={theme === 'light' ? <Sun /> : theme === 'dark' ? <Moon /> : <Circle />} id="basic-nav-dropdown" className="theme-toggler">
+    <NavDropdown title={theme === 'light' ? <Sun /> : theme === 'dark' ? <Moon /> : <Circle />} id="basic-nav-dropdown" className="theme-toggler" drop="down" align="end">
       <NavDropdown.Item onClick={() => setTheme('light')}><Sun className="me-2" /> Light</NavDropdown.Item>
       <NavDropdown.Item onClick={() => setTheme('dark')}><Moon className="me-2" /> Dark</NavDropdown.Item>
       <NavDropdown.Item onClick={() => setTheme('system')}><Circle className="me-2" /> System</NavDropdown.Item>

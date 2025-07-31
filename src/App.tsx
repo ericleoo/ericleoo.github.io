@@ -44,23 +44,14 @@ const AppContent = () => {
         <Navbar 
           bg={effectiveTheme} 
           variant={effectiveTheme} 
-          expand="lg" 
           className="shadow-sm"
           data-bs-theme={effectiveTheme}
         >
           <Container>
             <Navbar.Brand as={Link} to="/">My Blog</Navbar.Brand>
-            <Navbar.Toggle aria-controls="basic-navbar-nav" />
-            <Navbar.Collapse id="basic-navbar-nav">
-              <Nav className="ms-auto">
-                {posts.map((post) => (
-                  <Nav.Link as={Link} to={`/posts/${post}`} key={post}>
-                    {post.replace(/-/g, ' ')}
-                  </Nav.Link>
-                ))}
-                <ThemeToggler />
-              </Nav>
-            </Navbar.Collapse>
+            <Nav className="ms-auto">
+              <ThemeToggler />
+            </Nav>
           </Container>
         </Navbar>
         <Container className="py-4 py-md-5">
