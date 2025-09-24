@@ -220,6 +220,7 @@ ANOTHER (09/26/98; 19:41:45MDT - Msg ID:201)
 TYoung (9/24/98; 18:46:57MST - Msg ID:153)
 YOUR POST:
 "I mentioned to Another the other day that I thought derivatives would cause loss of confidence in the US$ and asked what he thought would be the cause. Well, looks like derivatives are at the forefront. I was really just pitching a high fast ball to a high fast ball hitter.... Another...but I'd still like a comment. Yes? Tom"
+
 ---------------------------------------------------------------------------
 Mr. Young, while in the US I have seen your new fast ball hitter! A good eye has he, and a fine person. His composure and stature as in play, is the image of a true American to many from afar. Sir, I will swing for your pitch as my view now becomes clear. This LTCM, they stand in the open for all to see. This "Noble House" holds no resources above or below the ground and many now ask "how this palace of paper could stand"? To this I add "how will they deliver the real items they owe"?
 
@@ -228,6 +229,7 @@ Others have built their fortune holding the debt of these traders. And now Defau
 ANOTHER (09/26/98; 21:57:35MDT - Msg ID:203)
 Pete (9/25/98; 10:06:55MST - Msg ID:174)
 YOUR POST:
+
 ------------------------------------------------------------
 ANOTHER & FOA-THINGS TO COME?
 My Dear FOA,
@@ -249,6 +251,7 @@ Friend of Another (9/27/98; 18:11:12MDT - Msg ID:213)
 Ph in LA (9/27/98; 11:39:16MDT - Msg ID:211)
 PH, I may have sent you (and others) the wrong signal in my reply to el St. One . In your post you noted:
 "Yet you also said yesterday to el St. One "...the new exchange rate would destroy your purpose for holding the (foreign currency) account in the first place."
+
 -------------
 You must read that statement in context of St One's question. At least as I understood it. My thoughts to him were from a standpoint of having an account in "a bank in the states"?? See his post (Msg ID:206). My explanation was directed towards a person that wanted to hold foreign currency in an account "in the states"! Does this make more sense? Ph, I thank you for giving me your interpretation of this. It has been one of my greatest problems, trying to refine some of Another's message. Many people have picked it up out of context without receiving a better "English" explanation! Sometimes I don't get all of it in the first read. As time goes by, events have made it more understandable. On this Forum, I am able to explain in the company of very polite interesting people.
 
@@ -266,17 +269,22 @@ Friend of Another (9/29/98; 08:44:25MDT - Msg ID:232)
 BMACD:
 bmacd,--------
 Everyone all agrees that gold is a political metal. Having been used as real money (both in coin form and in paper receipt form) for thousands of years, it's natural human nature for governments to try and control it. It's nothing new and for generations, investors worldwide have come to expect it. Political structures will always manipulate whatever form of money is being used at the time. Today, they rework paper money on a grand scale no one could have ever believed only 30 years ago. People get very nervous as gold was worked over this last decade and fear to hold it through this process. Yet they hold paper currencies that, on a world scale, have been engineered to degrees that make the current gold markets fluctuations look normal! The same investors that have held Yen in 1990 at 64, then watched it go to 120 in 1995, and finally back to 72 in 1998! Now mind you, this is a major currency, not gold! We can also see it in reverse as American citizens held dollars in 1990 that would buy 156 yen, then in 1995 would buy 83 yen and back to 138 yen in 1998!
+
 -------------
 Bmacd, -----------
 observe all the paper money today as it swings wildly on the exchange market. Those swings translate directly into major swings in price for every item traded in the world economy, not just gold! You may not see these price changes directly on the goods purchased as the fluctuations are absorbed through producers profits. But they are real never less. The market price for gold is not absorbed by anyone as it delivered directly to the buyer. But, then again, gold is also money so it is normal for it's exchange rate to change, just as any other currency does (Yen?). The notion that investors will not buy gold as it's exchange rate changes is ludicrous. In 1995 did Americans stop buying Yen when it suddenly became expensive with one dollar able to only buy 83? No. But it went up in price almost 100%. How could anyone afford it? You see, today we know gold is a major currency because it's being manipulated to no end, just like the rest of them.
+
 ----------------
 What does all of this have to do with your question of the IMF? If gold is going to $170 in dollar terms, it's because the political powers want it there. It's a currency, and will be moved up and down. It doesn't fluctuate in simple commodity supply and demand terms. If it did we would have seen it much higher in all currency terms years ago. Trading of gold, on and off official markets dwarfs not only new mine supply but is even larger than all existing stocks. LBMA, trades a million ounces a day! And that is only what is seen. The IMF could sell it's gold currency assets in the same fashion that it could sell Dollars, Yen or Marks. A ready market exists.
+
 -------------------
 If gold is a currency to today's political movers and shakers, we need to see it in a different light. To understand gold, is to grasp that not all world entities want it to fall further in dollar terms. Just as government CBs battle over currency exchange rates, they also form opposing sides on gold valuations. Western investors may not view gold as an asset to evaluate the worth of circulating paper money, but many resource countries do! The value they place on a currency is directly related to how much gold it will buy. This view is not lost to ECU nations either. It's easy for them to see that the number of American dollar assets worldwide takes the valuation of the US gold holdings into the many thousands and makes the current illusion of gold in dollar terms a fraud from manipulation. They also know that the US gold is held in the Treasury, not the American Central Bank, and therefore does not represent any form of backing for the dollar.
 
 Perhaps this is the reason that the Euro gold reserves will be held by the ECB (not the national treasury as none will exist for that entity) as part of the foreign exchange reserves that DO / WILL back the new currency. It's also easy to see that the reserve gold currently held by the EMCB will find no home on the dollar market as they will have too many dollars as it is. Even if Western analysis think the Euro will not fly, it's still a fact that it will be the reserve currency for the ECB and it's EMCBs. In the coming years they, the EMCBs, will be in need or more Euros for their expanding economy and the way they will get them will be to sell gold (at a much higher rate from today) to the ECB. This need for Euro money will be driven by countries that wish not only to sell products to Europe, but also to retain the Currency as a Foreign Exchange Reserve. In much the same way that dollars are retained today, nations with a balance of trade surplus with Europe will end up with extra Euros, the same Euros purchased with gold by the EMCBs. That gold will make the Euro a truly well backed strong currency in world eyes. Especially if the dollar price of gold is soaring!
+
 ------------------
 Back to the IMF: That gold is the only remaining link that the dollar has to metal. It is also out of the US government's control. I believe Arabia has some control over the IMF and it's gold as they are major contributors of assets. Perhaps someone could correct this view? As Another has told me. "If the IMF sells gold, a good deal for someone , yes? Yes!
+
 ----------------
 Also, a thought? If the dollar is the current world reserve currency and all dollars circulating outside the US are called Eurodollars. Then, If the Euro becomes the new world reserve currency, will all Euros outside Europe be called,,,,,,,,,,,,,,,,,, Dollareuros? Thanks FOA
 
@@ -287,8 +295,10 @@ Rainman,-------------- Nice reply! You bring up exactly the kinds of political p
 Friend of Another (9/29/98; 18:27:57MDT - Msg ID:243)
 My view.
 Dec. comex gold did not make through $300 today, but it came close. Slowly the liquidity of physical supply, that was so available 24 months ago, is now drying up on world markets. The lease rates have not risen much simply because many of the Bullion Banks now understand the risk and don't want to supply leased gold for the purpose of covering the bad bets of others. In this process, the demand for borrowed gold falls away
+
 ---------------------------------------------------------
 From the beginning gold was sold down to give strength to the dollar. As the process continued, funds, large traders and investors arrived on the seen with their own oversupply story as the reason to sell. We were told that gold was no longer an asset and it would fall in value for the rest of time! Now that they have told their story and made their sales, the true gold market is about to speak. It's not a story of oversupply or undersupply. It is a story of market need for a currency evaluation tool. A way for governments not supportive of the dollar to show it's true value through gold.
+
 ------------------------
 Some of these short traders have already started to cover. But it will not be until gold moves into the low $300 range that they grasp how tight the market will have become by that time. It has taken years for this selling to build and it will not be covered in a few months. Perhaps many of them will have to be bailed out as LTCM was? We shall see.
 
@@ -338,10 +348,12 @@ Friend of Another (9/30/98; 09:39:46MDT - Msg ID:280)
 RAINMAN (9/29/98; 11:01:17MDT - Msg ID:237)
 Rainman,
 Nice reply! You bring up exactly the kinds of political posturing that is affecting all investment markets. Not just gold. I think I can offer a timely reply to each of these items. Hope to post later today. Thanks for the consideration. FOA Rainman, You offer a different view of the present predicament the world finds itself in. While I do not hope to show where your thoughts are wrong, we may attempt to see this through different eyes. Not yours or mine, but others.
+
 -------------------------------
 Your words: "You assume in your post that the EMCB will eventually purchase GOLD in the open market . Isn't that wishful thinking?"
 
 No sir, I would call it thoughtful thinking. The EMCBs (European Member Central Banks) are the CBs of the eleven nations that will join in monetary union. They hold a good deal of gold that was left over from previous monetary wars with the New World, America. You are correct that they lost that war in 1971 when the US closed the gold window. However, that was yesterday. My friend, the generals of lost wars have long memories. In those days countries wanted off the dollar hook more so for national reasons than financial. We now know that, compared to today, the dollar in 1971 was in great shape! The leverage of third world debt was nothing as compared to the current dilemma. The push to get gold in exchange for dollars, in that time, was precipitated by a belief that the present world currency crisis was to occur back then. Perhaps by 1978? What the history of world economic finance succeeded in teaching them was that they were wrong in their expectations of dollar debt EXCESS! I'll get back to the question of gold buying in a minute.
+
 ----------------------------------
 Your words: "The US was able to export financial calamity to the world without paying the cost for years."
 
@@ -351,18 +363,21 @@ Your words: "Nothing would prevent the US in this kind of circumstances to issue
 Rainman, I read your words as a jump to present time. What you speak of is Foreign Exchange Controls (FXC) for the US dollar. I wrote a piece to PH in LA and others about FXCs. The only way the US would ever enact these controls would be in the event of a national economic emergency. For the last twenty + years to present America has run a Balance of Trade Deficit.
 
 In other words they send dollars out of the country as they buy everything in sight as imports. It's the same thing you speak of above "able to export financial calamity to the world ". Without the ability to export dollars at a high exchange rate (read that manipulated strong dollar) for the benefit of US citizens, the American economy would revert back into a regular economic system. In other words, FXCs would block the very thing that keeps inflation low and the GDP running at a high rate. Never the less, in an economic emergency (the dollar coming home because it is no longer needed as a reserve asset) FXCs would be enacted because the resulting inflation would be ten times worse than without it!
+
 ------------------------------------------
 Your words: "Most central bankers don't think in the same terms as most do on this site. They don't foresee the demise of whatever remains of the world financial system."
 
 Well, I know someone that has the brain of a Central Banker and they are very concerned about the orderly progression of the world financial system. They are pragmatic in their belief that a currency system based on the dollar has indeed reached the end of it's ability to expand! What we are witnessing today shows that the world dollar debt load has reached it's limit and must be dealt with. In the current system, if the debt cannot expand, new money (purchasing power) can not be increased. No, the press will never print these views of CB leaders. But that is the nature of the political game. Always has been, always will be! Most Europeans have come to expect it and work and live around it. It's just the system.
 
 As for what to do about the dollar? Back in 1980, the Europeans started the birth of the Euro. It began as the ECU (European Economic Unit). Much of the world has waited for this Euro in a period that seems like forever. During this time the world dollar remained the only game in town, and in consequence the only way to keep the economy alive. So the dollar debt was expanded in degrees no economist could have ever dreamed of. In fact, most of them thought the end was reached back in 1987! Boy, those were the good old days! We come to today, traveling on the back of a derivatives nightmare that from the beginning was the only, last way to expand debt further. It is done and none too soon as the Euro comes out in 1999!
+
 ------------------------------------------------------
 Your words: "Moreover , W. DUISSENBERG more than any other , holds GOLD in extreme contempt. It was only under intense pressure from FRANCE , ITALY and GERMANY that he accepted to include any GOLD in these reserves. He was instrumental in engineering the sale of NETHERLAND CB 's GOLD in the last 2 years."
 
 Rainman, --------you have hit the proverbial nail on the head. Yes, France Italy and Germany did apply pressure on the new ECB. But, that is the point, the ECB unlike the Federal Reserve that is controlled by a single power, will be controlled by three countries of different economic and financial purpose. This will create a balance never before seen in a world Central Bank as it controls the world reserve currency! Forget all the talk and conjecture about an independent ECB. That's just for show. The European citizens are far to knowledgeable of political motives to ever expect an un-manipulated Euro.
 
 Still, the direction is clear, to appease a thinking populous the Euro can not act like a dollar. It will have debt and problems, but those will be neutralized with the initial demise of the dollar as a competitor. W. DUISSENBERG ? He's a good choice. Read his story of remarks over the past few years. I think the World Gold Council web site has a lot of it. He does have a slant towards gold and the EMCBs didn't have to push all that hard for it. Most of the squabble was public posturing anyway. He sold off the Netherlands gold to other CBs that in turn sold it to more important clients that they needed for Euro support. Mr. D thinks his country will prosper without gold in the Euro environment more so than other members. We shall see.
+
 ---------------------------------------------------------------
 Your words: "Most of the bureaucrats who make a living from European institutions, including the ECB, hate GOLD to the same extent. Thus I don't see an open financial war being started with the US on such a controversial asset."
 
@@ -371,10 +386,13 @@ I think you give these bureaucrats more power than they have. Europe has far les
 I can hear it now, "Lets keep gold for our countries because we can see how the dollar has crashed in gold terms." and "We need to expand out currency base to increase out pensions so lets issue more Euros to the EMCBs for gold".
 
 Rainman, I agree that the ECB will be just as bad as the FRB in the US. It's just that they will be further back in the time cycle of currencies. I have only so much time here on earth so I accept the notion that was told to me, "live with it" !
+
 -----------------------------------------------------------
 As for starting a financial war with the US, it's was already started long ago when they took the first steps to create what would obviously be a major block currency. The only difference today from 1971 is that the US dollar is tapped out to the limit! Again only time will resolve the outcome of this viewpoint. The same applies to the question of US armed support for Europe? My opinion is that if the US does have to intervene it will be because they want to save the world financial system! The New Euro financial system!
+
 ---------------------
 My thoughts: As I have said before, the ECB will use newly printed Euros to buy gold from the existing stocks in the vaults of the EMCBs. That gold will be added to the present 40 to 50 billion in "exchange reserves" in the ECB to back the currency. In this process the EMCBs will receive what they really need for the future as all trade converts into Euro settlement. There will be demand for this currency so the only exchange intervention that will be necessary will be to sell Euros! Any dollar assets collected will be sold in the open market as dollar reserves will be useless for backing. More likely than not, these dollar sales will be seen as sending the currency home to the originator. If inflation or FXCs become a problem, then the dollar will be used to purchase gold on the open market, if there is one. There is more to it than this and I will ask Another to Chronicle these events for us as we proceed.
+
 --------------------------------------------------------
 Your words: "However , no CB GOLD reserves in the US or EUROPE will save the system "
 
@@ -384,6 +402,7 @@ Friend of Another (9/30/98; 10:36:43MDT - Msg ID:282)
 Pete (9/30/98; 09:18:30MDT - Msg ID:278)
 Hello Pete,--------------------------
 Yes, I think you read it about right. It's chock full of political intrigue. For some time, Another has posted that dollar rates were about to be taken up, in his opinion, to defend the currency against the coming Euro. At this late stage of currency war preparations, it's world economy be dammed, the battle is about to begin. The LTCM group knew this, so they bet the farm on higher rates.
+
 ----------------------------
 Pete, these people, at this level of power are not stupid. Gamblers, yes, stupid no! They work on real knowledge, not a traders guess as the press has portrayed them as doing. Problem is that their bet was as large as most countries and it would have caused a further CB embarrassment had so much money been made on an inside decision. I think they talked of lowering rates first to destroy their capital, then later took them over on the news. When it's done, rates will rise. That's why these major players are now selling off the Dow Jones on a rate cut, they know what's coming. Their position in the old LTCM portfolio will be sold off with a big profit, just as their old management had bet it would. The obvious portent from all of this is that the US economy is about to take a hit of unimaginable proportions from a currency war fought during a collapsing world economy. Wow! My best financial advise? Forget gold, buy a super fast computer so you can access this site later on! It's going to get real interesting! Thanks
 
@@ -398,6 +417,7 @@ Michael, thanks for the notice. I hope it helps people see the world in a differ
 Friend of Another (9/30/98; 18:54:41MDT - Msg ID:295)
 All:
 PH in LA,------------ thanks for the kudos! That was nice. Perhaps by looking both ways we will not be run down by the train that's coming. By the way, as you know Spain is one of the EMU countries that will join in Jan. If you have assets or contacts there, could you update us as to how people are taking it? Always good to hear all sides. RAINMAN : on Market Rap with Bill Fleckenstein, September 30, 1998, he had a interesting report
+
 ------------------------------------------------------------
 "Golden development... Moving on to the gold market, the Belgian National Bank, governing council member of the ECB (European Central Bank), said "The bank has no need or desire to sell gold in the future to satisfy reserve restructuring."
 
@@ -431,6 +451,7 @@ Friend of Another (10/8/98; 07:24:37MDT - Msg ID:443)
 Is the position of LTCM in the clear?
 ALL: A quick note for today. There are several stories that LTCM (and most other hedge funds) are covering their short positions. They are not! What they are doing (as the NY
 Post article below shows) is further hedging in the paper gold markets to attempt to control the coming (huge) loses! That will not work as the BIS has changed the rules. Read my old post to Pete below:
+
 ------------------------------------
 
 Pete (9/23/98; 21:26:13MST - Msg ID:131)
@@ -438,8 +459,10 @@ Pete (9/23/98; 21:26:13MST - Msg ID:131)
 Pete, To answer your questions: Yes, this is only a very, very small tip of the iceberg. Many of these people are short the gold paper market and they are the ones in the
 know, at least we are told? And just look who is in the rework group: Goldman Sachs, Merrill Lynch, Morgan Stanley Dean Witter & Co., Travelers Group Inc. and UBS AG will make up the committee. Pete, I wonder how many tons they move in world gold markets!
 The change in motion by the BIS, concerning gold and the Euro is going to play them right into the European game plan! Read a few of the last (Thoughts!) archives at USAGOLD. I may reprint some of the things written here the last few days, it begins to tell the story that is before us. The Fed will push money like mad for now, but they will be raising rates like mad a little later as the dollar falls off the charts! Keep up your analysis, as you see things some of us don't catch. All minds don't work the same and it helps to mix Gray Cells in different portions. Thanks
+
 ----------------------------------------------
 There truly is not enough physical gold to cover these positions. We are heading into a total default event that will also impact your ability to buy real gold in a timely fashion. It will also impact the ability of the mines to function during this phase. The length of occurrence, that this pre-default period will span is unknown. We may enter into turmoil for a year or so? I believe the story of LTCM covering shorts (see below) is an attempt to calm the markets. We shall see! Michael, (USAGOLD) I sent you an E-Mail the other day that they were only using the money os sold gold, not short gold themselves! Now the cat is out of the bag!
+
 ----------------------------------------------
 http://www.nypostonline.com/business/6373.htm
 
@@ -703,6 +726,7 @@ This I do know. To cover the open gold positions will require far more than simp
 Friend of Another (10/12/98; 06:26:22MDT - Msg ID:537)
 http://www.spokane.net:80/news-story-body.asp?Date=101098&ID=s464856&cat=
 Note: This is part of an article about Russian imports. It also has a bit about the new gold coin. I place it here as a thought about how gold can take the place of other metals (silver) as money. The new Russian coin will have a gold content of about $6.00 US. As we see here they did not use silver for there was no need to do so. Gold can be placed into coins in amounts of a few cents US if needed for small exchange. Food for thought?
+
 -----------------------------------------------------------
 
 October 10, 1998
@@ -830,6 +854,7 @@ lower to 2488.
 
 © Associated Newspapers Ltd., 13 October 1998
 This Is London
+
 -------------------------------------------------------
 Russian losses hit Frenchbank jobs in London
 
@@ -983,6 +1008,7 @@ Friend of Another (10/14/98; 10:13:46MDT - Msg ID:567)
 Items.
 ALL:
 I must apologize for the poor placement of some wording in my post MSG: 556. My time was in short supply.
+
 ------------------------------------------------------------
 Also: Someone (perhaps PH in LA) asked about Mr. M. A. Armstrong's various reports and my thoughts on them. I think we will see the many of the world economies that base
 their future on a trading relationship with the USA fall into a major depression. Perhaps much as MA suggests?? As for his views on gold and the Euro:
@@ -1004,6 +1030,7 @@ Thanks for the consideration. May we will continue this as time allows? FOA
 Friend of Another (10/14/98; 10:38:30MDT - Msg ID:570)
 REPLY?
 Tyler Rose and Bottom$, I will reply later during the Noon - Midnight section when I have more time . Thanks
+
 ---------------------------------------------------------
 Also: correction to my last post: "I direct you to my last news post of Msg #556" should be #566! FOA
 
@@ -1076,8 +1103,10 @@ Friend of Another (10/15/98; 05:22:12MDT - Msg ID:588)
 NEWS
 NOTE: The last sentence shows that the Japanese view
 Europe as a stable enviorment.
+
 ------------------------------------------------------
 Japanese restructuring 'crucial to end Southeast Asian turmoil'
+
 -------------------------------------------------------
 MANAMA: The Japanese economy is likely to remain sluggish during the next year, although prospects of recovery look good after that, according to a leading Japanese economist.
 
@@ -1147,6 +1176,7 @@ By INDIRACHAND
 Friend of Another (10/15/98; 05:29:04MDT - Msg ID:589)
 NEWS
 S African gold empire in £6bn London move
+
 ---------------------------------------------------
 
 by PATRICK HOSKING
@@ -1247,6 +1277,7 @@ This Is London
 Friend of Another (10/15/98; 05:40:44MDT - Msg ID:590)
 NEWS
 NOTE: This is old news but in light of the Hedge Fund problems I ask; "if these people start buying gold, how in the world will anyone else be able to cover at today's prices"?
+
 -------------------------------------------------------
 Liu Shanen, vice director of the
 Gold Economic Development and Research
@@ -1689,9 +1720,11 @@ Initiative (NAI). This is a brief introduction to a meeting held in Istanbul, Ma
 Please read all of the preamble to this speech given by Mr. Michael Portillo. The speech
 also follows and is extremely timely to your investments decisions if your thinking involves
 politics. They are located at http://www.aei.org/start.htm
+
 ------------------------------------------------------------------------------------------------------------------------
 
 • NAI holds annual congress in Istanbul, May 1-3, 1998.
+
 -----------------------------------------------------------
 On Thursday, April 30, 1998, the United States Senate voted 80 to 19 (with one
 abstention) to ratify an amendment to the North Atlantic Treaty that will allow Poland,
@@ -1716,9 +1749,11 @@ of State Madeleine Albright, former British prime minister Margaret Thatcher, Po
 Deputy Prime Minister and Minister of Finance Leszek Balcerowicz, former U.S.
 secretary of state Henry Kissinger, U.S. Senate Majority Leader Trent Lott, and
 Speaker of the U.S. House of Representatives Newt Gingrich.
+
 ------------------------------------------------------------
 • NAI hosts Michael Portillo ------------------------------ Will European Monetary Union Fracture the
 Atlantic Alliance?
+
 ----------------------------------------------------------
 Former British defense minister Michael Portillo unwaveringly answered yes. In
 keynote remarks delivered Wednesday, May 27, at the American Enterprise Institute,
@@ -1732,6 +1767,7 @@ hope that Europeans can find a satisfactory common outlook which has eluded them
 until now." Jeane Kirkpatrick, director of foreign and defense policy studies at AEI and
 former U.S. ambassador to the United Nations, and Richard Perle, a resident fellow at
 AEI and former U.S. assistant secretary of defense, also spoke at the May 27 lecture.
+
 -----------------------------------------------------------------------------------------------------------------------
 Extract from remarks made by the Rt. Hon. Michael Portillo to the-----------------------------------------------------
 ---- New Atlantic Initiative Congress of Istanbul--
@@ -1889,10 +1925,12 @@ Friend of Another (10/19/98; 08:16:37MDT - Msg ID:657)
 Hallmarking of gold shows big increase!
 MANAMA: Gold hallmarking figures have dramatically increased this year, as
 compared with the past two years, it was announced yesterday.
+
 ----------------------------------
 Bahrain Assay Section head Abdul Khaliq Al Bosta said 1,018,493 individual
 gold pieces, weighing 7,295,352gm, were hallmarked from January to
 September this year.
+
 ----------------------------
 This figure, he said, showed an increase of nearly 10 per cent when compared
 with the same period in 1996.
@@ -1923,6 +1961,7 @@ and the high standards of Bahrain's gold hallmarking legislation.
 "Bahraini hallmarked gold serves as a guarantee to shoppers, that what they
 are buying is genuine quality. All jewellery on display at the exhibition and
 sold in Bahrain has to be hallmarked," he said.
+
 -----------------------------------------------------------------
 Copyright © Gulf Daily News, All Rights Reserved.
 WWW by Arabian Net
@@ -2006,6 +2045,7 @@ By INDIRACHAND
 Friend of Another (10/19/98; 20:36:09MDT - Msg ID:672)
 PH in LA (10/19/98; 11:02:04MDT - Msg ID:661)
 PH, I'm glad you read the article from AEI presented in my #656 post. I like your last sentence "Pointing out the rigors of the journey is a coward's argument against embarking on the journey altogether."
+
 ------------------------------------------------------------------
 That is so true! Has no one studied world history? It seems that every country has traveled
 a difficult road during their creation. Need we use American History as an example? Also,
@@ -2033,10 +2073,13 @@ Another,
 You said on July 19,1998, "The US Federal Reserve will now have little
 choice but to raise interest rates as the dollar currency inflation of past years moves from
 "paper assets" into real things."
+
 ----------------------------------------
 We hardly see this to be the case in recent weeks. Would you please care to comment.
+
 ---------------------------------------------------------
 David L.B.
+
 -----------------------------------------------------------
 David,------------------ I would like to comment on this. You may already well know that
 currency inflation and price inflation are two different things. If your statement of "We
@@ -2086,6 +2129,7 @@ thanks FOA
 Friend of Another (10/21/98; 07:25:50MDT - Msg ID:696)
 Argentine coin sale??
 David Linkley (10/20/98; 18:39:57MDT - Msg ID:686)
+
 ------------------------------------
 Thanks for the post about the Argentine coin sale. Why would they offer to melt the coins
 for sale? Everyone on the planet knows that gold in recognized coin form can be readily
@@ -2692,8 +2736,10 @@ opposition to giving Europe its own defense capability, so that it
 could act independently of the United States in dealing with
 security issues in its own area, opens up a whole new area for
 debate."
+
 ------------------------------------------------------
 Paris, Tuesday, October 27, 1998
+
 -----------------------------------------------------
 EU Leaders Taking The Activist Route At Summit, New Roles for Community -----------------------------------------
 
@@ -2789,6 +2835,7 @@ Friend of Another (10/27/98; 18:10:39MDT - Msg ID:821)
 http://www.iht.com/IHT/TODAY/WED/FIN/euro.html
 Paris, Wednesday, October 28, 1998 -------------------------------------
 2 Bundesbank Officials Reject Rate-Cut Calls
+
 ---------------------------------------------
 By John Schmid International Herald Tribune
 
@@ -2843,12 +2890,16 @@ appropriate."
 Friend of Another (10/27/98; 18:15:32MDT - Msg ID:822)
 http://www.iht.com/IHT/TODAY/WED/FIN/gitic.html
 Paris, Wednesday, October 28, 1998
+
 ---------------------------------------------------
 GITIC Bond Default Shakes China Creditors
+
 -------------------------------------------------
 Foreign Banks Move to Reassess Exposure
+
 -----------------------------------------------
 By Philip Segal International Herald Tribune
+
 ----------------------------------------
 HONG KONG - One of China's most prominent investment
 companies has defaulted on an international bond payment,
@@ -2990,6 +3041,7 @@ Junior (10/28/98; 03:47:11MDT - Msg ID:826)------------
 The Currency War is Very REAL---------------------------
 WEDNESDAY OCTOBER 28 1998 Financial Times - London
 Columnists
+
 --------------------------------------------------------
 Junior, ------------- That was a good article! The most important concept to grasp from the
 many thoughts about the Euro and the ECB is this:---------- The EMU is going to come
@@ -3645,6 +3697,7 @@ Msg.. That's it my friend, I can add no more. Thanks
 Friend of Another (11/14/98; 16:00:24MDT - Msg ID:983)
 January?
 FOA NOTE: Reuters and Associated Press did not offer this portion of Mr. Duisenberg's speach at the Economic Club! I think that January could be the flash point?
+
 ----------------------------------------------------------
 
 DUISENBERG: EURO MAY ACCELERATE CUT IN DLR SHARE IN
@@ -3693,6 +3746,7 @@ of keeping the dollar in trade, yes? Now "The Bank" has broken Japan as
 they laid upon them rules of adequate financial dealings! These new rules of
 engagement find that "noble house" as a ship that sinks with a dollar cargo.
 This one ship will remove the entity of the "American Pacific Order".
+
 ---------------------------------------------------------------------------------
 Please consider this meeting: "11th July 1998 The Bank for International
 Settlements (BIS) today opened its Representative Office for Asia and the
@@ -3707,6 +3761,7 @@ organization of meetings and seminars and to contribute generally to
 cooperation among central banks and
 monetary authorities. The BIS has previously operated only from its
 headquarters in Basle, Switzerland."
+
 ---------------------------------------------------------------------------------------
 Now the Euro makers offer the China a path to travel that does not bring the
 curse of dollar holdings. This day we see the beginnings of the "orient
@@ -3715,6 +3770,7 @@ express" on modern tracks. It will carry the cargo of trade that creates the
 peoples of China, then add the finance of the "Old World" and we perceive a
 "New Order" of world commerce. Yes, we the China to the Euro "WITH
 GOLD"!
+
 -------------------------------------------------------------------------------------
 Please consider as this was written after the BIS meeting : " Wednesday
 brought some renewed strength on recommendations that China should
@@ -3746,10 +3802,12 @@ Shanen pointed out that China ranks third in
 global consumption of gold and fifth in mine
 production, but only twelfth in terms of its official
 reserves in gold."
+
 ------------------------------------------------------------------------------------
 Some still say that the new Europe will sell gold. I say, these are words that
 many wish for! Even the Poland does buy gold that will soon sell at $200US?
 I have known these people well, they be no fools for London stories.
+
 ---------------------------------------------------------------------------------
 Please consider these words of Mr. Milling Stanley: "
 "Moreover, member countries of the ECB have been firm in telling
@@ -4093,6 +4151,7 @@ CyclePro - Bank Derivative Exposure Report
 banks include the following (with stock symbol): Chase (CMB) includes Chemical from
 merger, J.P.Morgan (JPM), Citibank (CCI), NationsBank (NB), Bankers Trust (BT),
 Bank of America (BAC), First Chicago (FCN), and Bank of New York (BNY)."
+
 ----------------------------------------------------------
 http://www.geocities.com/~CyclePro/Charts/SP500/DerivExpo.htm
 
@@ -8380,6 +8439,7 @@ Average is 21-1 for 1968-1999
 Average for 1986-1999 is 26.5 to 1.
 
 We are now at 12.75 to 1. This has been a dramatic movement over a very short period of time. Oil has been in the position for a number of months to acquire Gold for Oil at an absolutely favorable rate, which has only occurred before during a few brief moments over the last 30 years. What is Oils plan for Gold?
+
 ---------------------------------------------------
 Mr. Jade,
 Thank you for posting these numbers.
@@ -8571,6 +8631,7 @@ This is why so many were perplexed by Another's ongoing Thoughts of this market.
 a quoted market to show this price).
 
 Is this the bottom? Could be. The persons, that have most of the gold are now are pulling out from participation and will not create the turn. It will come from those that hold undeliverable claims on gold (or are waiting to buy lower), that discover they hold nothing. The whole market dynamics will become very confusing as this unfolds.
+
 -----------
 Your friend, FOA
 
@@ -8707,6 +8768,7 @@ Now we can clearly see into the future as the failure of present gold market to 
 Please see Aragorn III (07/24/99; 17:30:34MDT - Msg ID:9591):
 --------FOA, your continuing efforts are appreciated.
 FOA, there was much made by several posters one week ago of the appearance that ANOTHER had "changed his mind" about the direction of the gold market and price. Your post today affirms my suspicion, as related in the opening portion of my e-mail (partially reproduced below) sent mid-week to a friend that also reads this forum.
+
 -------
 It seems to me that ANOTHER has not so much changed his mind as it seems he has recognized the potential for a path to be taken that from several paces back upon our trail did not seem apparent or even remotely possible. Yet here it is. Successful delivery/receipt of metal will truly be the key, as he says. You may recall a post a couple weeks ago with a seemingly obscure comment by FOA that essentially "the price could be falling because the banks were no longer able to find an adequate supply of deliverable gold". And while
 that notion flies in the face of the "common" sense of many, you need only to consider how this price might indeed fall as the "Big Purchaser" would no longer be supporting what has become a ludicrous paper gold trade...no interest in
@@ -8715,6 +8777,7 @@ buying the paper with no hope for future delivery. This system did make sense as
 Can you picture a person starving as "paper food" falls to a price of poor investment returns? No! The time comes when possession means more than price of paper by paper--an old fashioned run on the bank...for gold!
 This is where Ted Butler and also GATA have a clouded view of the problem, and proclaim unfair institutional manipulation of this special financial commodity. If they would see it as pure money, they would easily recognize the "time-pattern of value" of paper gold follows exactly the diminution of any other currency under a banking system of
 fractional reserve lending. Consider how many must think they hold the equivalent value of gold, when what they truly hold is only an illusion...an artificial portion of a lender's artificially inflated supply! With credit-based fiat currencies it is not meaningful to have a run on a bank for your fair share of ledger numbers. However, the gold-based monetary system that exists worldwide is not immune to such a "run". As this current paper system fails, the metal that remains will inherit the vast value spread thin over much imaginary paper supply. While they are to be commended for their passion, GATA's interests would be best served if their efforts were focused on education and lobbying for an end to the currently lawful banking practice of fractional reserve lending.
+
 --------------
 
 Then, my reply/comment:
@@ -12040,6 +12103,7 @@ Holtzman here,
 
 --------------
 More than one POG
+
 --------------
 
 There are many different prices for gold. Or, more accurately, there are many different ways in which gold is formed and stored, and those differences cause prices to differ between the resulting products.
@@ -12088,6 +12152,7 @@ Most of us here at the USAGOLD Forum do not buy and sell thousands of ounces at 
 
 --------------
 Street POG
+
 --------------
 
 The Cash or Street price of gold is the number of dollars (or pounds, or euros) you take out of your wallet and hand to your friendly, neighbourhood coin dealer in return for a one-ounce Krugerrand.
@@ -12110,6 +12175,7 @@ But if you see Spot POG drop below $200 while a Krugerrand selling on the street
 
 --------------
 The American Civil War
+
 --------------
 
 I think maybe the hardest mental hurdle for people to clear in understanding Another and FOA is this notion of two gold markets occurring simultaneously. There's an historical example (and it's Western :-) in which very much the same thing transpired...
@@ -13625,6 +13691,7 @@ I can say with pleasure that the markets have become infinitely more interesting
 I agree with this, FOA. I think the lending rate is falling not because of a new supply of gold but because there are no takers. This gold carry trade is indeed locked up. I think many are losing their career positions over this debacle and many more are on the verge of losing their positions. The
 proponents of gold sales, leasing et al are in the process of being severely discredited both in public and in the professional investment community due to its burdensome excesses -- excesses which could have severe repercussions with financial firms up and down Wall Street. ( I saw one report where it was rumoured that Goldman Sachs losses at the moment could be as high as $2 billion.) It appears to me that the gold carry trade battle is now over and all that remains is burying the corpses and removing the debris from the battlefield. There will be further attempts to drag these firms out of the fire, but when the day is done, I think the gold carry trade will be taken out of the
 financial firm training manual and rendered a much deserved place in financial history books.--------
+
 -----------------------------------
 
 Hello MK,
@@ -13635,6 +13702,7 @@ these funds (and others) "coat tailed" the fall. And why not smile, these trades
 the markets like madmen.
 What amazes me is that most of these "big inside" operators create the market and really didn't know why the original gold (and loan guarantees) was being supplied by the Euro arena. I always thought they did and their stories to clients about "CBs no longer using gold" was just a "good retail story". When the ECB and the BIS told Greenspan "it done", it hit these BBs like a nuclear blast! I don't think anyone yet understands that these people are now the sole backup for an entire asset class that cannot be made whole. On the surface, they may have to make good on 5 or 10 billion. But underneath, the ECB could crush them by running gold into the thousands. That's why I say "it's all over people", because this bull is going to run the equity of the dollar creating banks into the ground. And the US FED has no power to stop it. There is no way the US will use one ounce of it's gold to support a "banking crisis" if a "currency war" becomes the result! Some think that if we have one it's as bad as the other. They should study "currency war" history, preDollar!
 The BBs can go for the ride slowly (and be controlled) or they can kill themselves by attempting to cover. What a master play this has been.
+
 -------------------------------------------
 
 
@@ -13655,6 +13723,7 @@ The two pronged attack on the bullion banks, foreign exchange desks, hedge funds
 of the excesses in the equities markets. Perhaps now they will find out the central banks still have teeth?
 
 This all goes hand in hand and marks a turning point. The financial world has changed in the last few weeks and I think the man on the street is just now finding out that something has happened. At the moment I can say with pleasure that the markets have become infinitely more interesting, and with no pleasure that they have perhaps become infinitely more dangerous.---------------
+
 -----------------------
 
 Dangerous is the right word, MK! Indeed, I did little more than "extend" my context into your "just written" perception. As events have unfolded we can clearly see what this gold market means to Euroland. Traders are busy trying to build a strategy to gain from a move in gold while the very trading arena they use may go up in smoke! I know that the BIS wants gold over $400. Yet, for the same reasons they didn't buy at $280 they don't have to buy physical now. The BIS is responsible for all gold movements between CBs, it's in their charter. Few know what they are doing untill after the fact. Today, they can let the BB "paper crunch" do their work for them. Soon. How fast it gets there will be determined by how the BBs can workout their problems. I suspect we will see rental rates rise each time one of them has to slice off some capital. When this process is wide open Another said he will be writing again (above $360 should do it). The changeover of oil to Euro settlement is the next area to discuss and I am intrested to follow how this ties with gold.
@@ -13754,6 +13823,7 @@ Cavan Man (10/20/99; 17:28:27MDT - Msg ID:17016)
 FOA
 Hello. What is your personal target for $ price? How do you come by it? Have you abandoned any hope of 10K or 30K?
 Thanks....CM
+
 --------------------------------------------
 Cavan Man (10/20/99; 18:42:24MDT - Msg ID:17020)
 Dear FOA
@@ -13771,6 +13841,7 @@ these very persons that were to receive gold. It's mostly market dynamics at thi
 We will run well past $400, but I use this as the first area that the ECB would like gold to attain. The "controlled burn" comment should be applied to the gold markets. The ECB does not want to see a total run-away and will try to slow the gold rise. This comment is better applied to the Washington Agreement as that signed paper was really two statements that: (1.) applied to the need to sell gold in a future context (going out 5 years?). This would control the rise. (2.) The halt of the expansion of lending was what killed the current markets. Like fractional reserve currency inflation, stop the presses and banks fail. Therefore, stop the fractional gold lending and the market
 "officially" changes!
 The "wrecking ball" metaphor is applied to the world IMF/Dollar economic structure. Not so much the gold markets. Note the charts it applied to.
+
 ------------------------
 
 
@@ -14031,6 +14102,7 @@ FOA (10/25/99; 20:00:19MDT - Msg ID:17448)
 reply
 Scrappy (10/23/99; 22:13:50MDT - Msg ID:17283)
 FOA
+
 --------------------
 Gold will be, (is?) the only constant common denominator amongst the countries, as the value of goods and services changes with needs & desires. It would seem to me, that the rest of the world is trying to eliminate currency based on debt, (a good plan). But, if this is the case, what is to become of the U.S.? The only currencies we have are I.O.U.'s. Will U.S. workers be paying off U.S. debt for the next century or two? Or,(more likely), will we be forced to return to a partial gold stndard, or even a nothing-but-gold economy, just so we don't starve to death? Will the rest of the world allow us to come into the new playing field 'even?' How will this all be dealt with? (bearing in mind, that about the only 'products' the U.S.A. has anymore are miniscule compared to what we import. We are a nation of paper-pushers-what value will that be in the new scheme of things?) Forgive me if I am sounding foolish-but I am suddenly afraid for all of us very spoiled citizens. Indulge me, please?---------
 
@@ -14069,6 +14141,7 @@ Swimming in the Sea of Tranquility
 
 ----------------
 Nice of you to see the forest and not just the trees, Aristotle! There is a whole world of people out there that "like you" do not trade gold money using the Western mind's logic. Good post, sir!
+
 ------------
 
 ALL: I have several things to say about the paper movements, but must post and reply another time.
@@ -14122,12 +14195,16 @@ The Washington Agreement on Gold!
 http://www.gold.org/Gedt/Speeches/HF/Denver99.htm
 Canuck (10/27/99; 17:06:35MDT - Msg ID:17644)
 It's all here at the WGC site. Here are a few items.
+
 ----------------------------
 We at the World Gold Council have christened it The Washington Agreement on Gold. I hope you will all also use this name.
+
 ------------------------------
 On Sunday 26th September - just three weeks ago - a new era dawned for gold. For the first time in almost exactly 28 years, since convertibility of gold into US dollars for official holders was suspended on 15th August 1971, the governments with the largest gold holdings made a positive joint statement on gold.
+
 -----------------------------
 While the agreement is between European central banks, including the ECB, it was put together through the Group of Ten central bank governors who meet regularly in Basle on a monthly basis. It therefore has a broader dimension in that the United States and Japan have been at least present at the G10 discussions and in agreement with the spirit of the agreement.
+
 --------------------------
 
 FOA (10/27/99; 18:28:58MDT - Msg ID:17655)
@@ -14157,13 +14234,16 @@ Reply
 phaedrus (10/27/99; 08:41:26MDT - Msg ID:17592)
 @FOA re $30,000
 Just curious:
+
 ---------------------
 Hello phaedrus and welcome, Here are two old post that should outline our thinking. I think your professional training may have taken you to these thought before. Thanks for discussing here FOA
 
 FOA (10/20/99; 19:25:56MDT - Msg ID:17025)
 Reply to Cavan Man and Scrappy
+
 ------------------
 Scrappy (10/20/99; 18:26:19MDT - Msg ID:17019)
+
 -----------------------
 Welcome Scrappy,
 I addressed the $30,000 concept a while back. It's more a projection taken during a study (I was not part of) that indicated just how much the dollar would lose "reserve use"! Truly, the price is unimportant as value assignment can take many forms at that stage of failure. Let's say, at least $5,000 in the five years the ECB has allowed. Yes, total change is a time consuming affair. Yet, it is longer than an eternity for investors that cannot recover in their lifetimes! The major story here, is the transition of currencies. Earlier, Another was pointing to the various political leverage that made this outcome proceed. Gold, being the historic world currency of "all" resort, will benefit from this transition in that it's use will greatly expand! It's price in currency terms is meaningless as it's new value in today's modern world is made clear. No one knows where it will finally level out. Truly, until the IMF/dollar pricing system fails, gold's paper price can run literally "anywhere" as the values indicated in dollar currency are completely false! As Another says, "time will prove this out".
@@ -14197,6 +14277,7 @@ FOA (10/27/99; 19:26:52MDT - Msg ID:17669)
 Comment
 Canuck Gold (10/27/99; 10:54:59MDT - Msg ID:17605)
 Seeing things from a different perspective
+
 ------------------
 Outside North America, gold may make a sympathetic rise in relation to local currencies but not to the degree espoused by some in this forum. The only way that gold could move higher in relation to all currencies would be if there was a total collapse of all the major currencies at the same time. Judging by the way the ECB has rallied around gold by their declaration that it is an important component of their reserves, it seems to me that they're positioning the Euro to replace the dollar when the pigeons come home to roost. When the dollar takes the hit, OPEC isn't going to tie their oil to the dollar because it will be too unstable. They may want to tie it to gold but there isn't enough physical gold available to realistically make that a viable alternative. That leaves the Euro which, though not officially tied to gold, will nevertheless be proffered, and accepted, as the next best thing.
 
@@ -14208,6 +14289,7 @@ Comment
 The Stranger
 
 Hello Stranger, enjoyed your post and hope to see more of them. FOA
+
 -------------
 
 FOA (10/27/99; 20:01:55MDT - Msg ID:17677)
@@ -14253,6 +14335,7 @@ ALL: I hope to find time to make replies and comments in a day or so. There is m
 
 -----------
 ``The gold of Ashanti is a symbol of our national sovereignty and we will not do anything that is tantamount to a betrayal of posterity,'' Rawlings added.
+
 ---------
 
 FOA (10/29/99; 18:21:31MDT - Msg ID:17855)
@@ -14329,6 +14412,7 @@ Some old items:
 Al Fulchino (10/11/99; 21:18:37MDT - Msg ID:16107)
 FOA///Post War Gold?
 FOA? When you get a chance, I feel it is always appropriate to look further along in the chess game. I am nowhere near your understanding, yet I am also so much further along than I was. I wonder what strategies you see, or scenarios that will unfold, ***after*** this war. You and others may say to me, that I am jumping the gun, not having even engaged the enemy yet. I respect that view. However, it is never to early to realize that there always is another game or series to play. Thank you.
+
 ---------------------
 
 Hello AL,
@@ -14359,6 +14443,7 @@ TC 17134 (and FOA)
 RE: Saudi Arabia
 
 Could another "income source" possibly be gold? In the coming transition away from the US/IMF, could Saudi Arabia become a major international economic player; this in addition to their history of recycling petrodollars through international banks as detailed so well by Aristotle?
+
 ------------
 
 Hello C Man,
@@ -14388,8 +14473,10 @@ THX-1138
 "Wasn't it just a couple of years ago (or is it still going on) where Brazilians were spending their money as fast as they could before they devalued?"
 ----
 That's how it was in the U.S, too...in the late '70s. Only the cause was inflation (inflation/deflation...seems to have the same effect on the working man's paycheck). In those days (oil crisis days/skyrocketing gold and real-estate days), you got your paycheck and immediately spent it because, with prices going up every week, saved dollars would only buy less in the future.
+
 ------
 I'm not just reminiscing. If a $30,000 price for gold is half gold going up and the other half dollar coming down, we're in for those days again...and maybe worse. Physical gold, silver, and maybe real estate (maybe some highly sought after antiques, art, numismatic items)...will be the only value holders again.
+
 ---------
 
 Hello Simply Me,
@@ -14410,6 +14497,7 @@ TownCrier (10/29/99; 19:33:12MDT - Msg ID:17861)
 -----the CFTC should treat financial futures [such as those for Treasuries] in a fundamentally different way than futures based on metals, agriculture or energy." ----
 ----that financial markets did not rely on financial futures for price discovery---------
 ----Clearly, the case is clear that the aforementioned real underlying assets, including metal (gold), DO rely on the futures markets for price discovery.----
+
 ----------------------------
 TC,
 Everyone should read your entire post to grasp it's full impact. I took part of it to create an image.
@@ -14424,6 +14512,7 @@ How could we now expect modern traders and investors to mentally see that our mo
 After the Washington Agreement we can see that this entire arena is a house of cards built in the middle of a political currency firestorm that will strain the credibility of these contracts to perform. Eventually, as these market contracts deflate the loans will fail as the physical product it's legally required to deliver cannot replace the total number of paper demands. This house is going to burn along with everyone (long and short) that's in it.
 
 Further to your report:
+
 -----------------------
 ---That is important to grasp (and is why we repeated it) because there is currently a disparity between the availability-vs-demand of real gold when compared to the abundant trading of "paper gold." When real gold can't be moved adequately at the "paper gold" pricing levels, there will be a sharp adjustment in which all hell breaks loose due to the global scale of the gold derivative markets. Read on...-----
 ----Traders said that rumours are circulating suggesting that central banks, especially the Bank of England, had been lending more gold to the market in the hope that lower lease rates would keep the prices down and help producers to cover positions.-----------
@@ -14431,15 +14520,18 @@ Further to your report:
 First, you already know that gold can earn interest. Second, the pre-announcement of the sales was a sure-bet to shake the confidence of gold-holders with the hope of stemming demand and dropping the price. And third, now you see reports of them lending in the hope to lower lease rates,
 which in turn is hoped to keep prices down. Does this sound like the actions of an entity that is looking out for an interest to gain the best possible return on an asset that is being auctioned? Say it with me now...."No!"-----
 --------when the wheels come off of this gold derivative market, the only position you will want to have is gold in hand. The dollar itself will slide right along with spurious gold contracts as it will be the denominator of those failed contracts. Oh, sure, more dollars are better than fewer dollars; but gold in hand will be better than any amount of paper that tries to play as its suitable substitute.---
+
 ----------------
 
 TC,
 Someone is trying to keep perceptions going that real gold is in good supply, even if it is loaned gold. Look at MK's report:
+
 ---------------
 
 USAGOLD (10/29/99; 9:57:36MDT - Msg ID:17807)
 MARKET REPORT(10/29/99):
 ------...Several weeks ago, gold bears cited the lifting of a Russian export tax on precious metals as good reason to sell the metal. That tax was extended for six months yesterday with no comment by the anti-gold group frequently quoted by the mainstream financial press.---------
+
 ------------------
 
 Thanks Michael,
@@ -14454,6 +14546,7 @@ a view to improving its aggregate hedging position, results from the purchase of
 Agreement" ) among Cambior and its lenders and hedging counterparties ( collectively, the "Financial Parties" ) . The terms of the Standstill Agreement are summarized in a press release issued by Cambior on October 27, 1999. --------------------------
 
 I have to ask the question: In today's context of what "gold is", does anyone know exactly what they did? Did they actually borrow that much physical gold to initially create this deal that went bad? If so was the money created as the "gold was sold for the loan" still waiting in a bank. If not, where did they get the cash to buy the new 1.3 +/- million ounces? Did the gold that was now purchased, come from a "new borrowed deal"? If so, who owes physical to who now? ---more from the SteveH post----
+
 ---------
 
 The above mentioned purchase and close-outs are expected to generate a net crystallized liability for Cambior of approximately $33 million which will be reflected as a non-cash, pre-tax charge to earnings for a corresponding amount in Cambior's consolidated financial statements for
@@ -14461,11 +14554,14 @@ the third quarter.
 
 Under the terms of the Standstill Agreement, the above-mentioned liability will be treated as a demand loan to Cambior by the Financial Parties. The determination of more specific repayment arrangements will form part of negotiations with the Financial Parties under the Standstill Agreement regarding the elaboration of a plan for the orderly fulfillment of Cambior's obligations to the
 Financial Parties over time ( a "Definitive Plan" ) .
+
 -----------------------
 
 In the above, if a "net crystallized liability" is the same as the "liability will be treated as a demand loan to Cambior", then who covered the real gold cost and who is in debt now? Or was the first above statement
+
 -------------
 "from the purchase of one million ounces of gold ( the "Purchased Ounces" ) at an average price of approximately $300 per ounce"
+
 ----------------
 just the buying of "paper gold ounces" to settle a physical problem with a new "bookkeeping problem"?
 
@@ -14494,6 +14590,7 @@ Reply
 Canuck Gold (10/30/99; 22:41:40MDT - Msg ID:17946)
 Reply to FOA's post #17669
 Hi FOA. At last I have some time to flesh out my response. You wanted to know why I think there is not enough gold around for it to become a "viable alternative". I meant as payment for oil and I'm assuming you realised what I meant and we are talking about physical gold.
+
 ----------------
 Hello Canuck Gold,
 I was able to follow all of your reasoning and assumed you have read most of the background writing here about this subject. Still, there is one area that is making your calculations suspect.
@@ -14605,10 +14702,12 @@ You just get better and better!
 Aristotle (11/2/99; 2:02:33MDT - Msg ID:18148)
 A semi-rhetorical line of questioning to all
 First, the great post by Solomon that inspired my post (I've enjoyed your input to the forum)--
+
 ------------
 Solomon Weaver (11/1/99; 22:38:07MDT - Msg ID:18122)
 While I was doing some stocking up, I had the chance to get a palette of rice...100 x 20 lb bags...so, a ton. Total cost, $500. It would have been easier to lose $3000 on a "long contract" in today's market...its all hedging anyway...well the moral of the story is if you want your back to make it through 3 cords of wood, try carrying a ton of rice into the house for training.
 Poor old Solomon
+
 -------------
 The mention of the small cost involved in stocking up on a relatively huge amount of real goods compared with the amount of money someone might spend on gold futures speculation made this an obvious line of questioning. Hopefully, the answer is equally obvious.
 
@@ -14969,6 +15068,7 @@ Reply
 canamami (12/5/99; 11:54:47MDT - Msg ID:20321)
 Reply to FOA - post# 20311
 FOA,
+
 -------------
 Thank you for your detailed reply. Would the manipulation not have been prior to August 1971, when the US printed dollars alegedly backed by gold, but which weren't backed by gold. Once the bluff was called in August 1971, what manipulation occurred after that date? The rest of the world
 could have just "eaten" their loss, just as creditors always do when a debtor goes bankrupt, and accepted no more US dollars as settlement. That didn't happen. The question being: Why not?, and why should it be different now?----------------
@@ -15244,11 +15344,13 @@ FOA (12/10/99; 7:50:49MDT - Msg ID:20685)
 Reply
 ORO (12/09/99; 00:38:13MDT - Msg ID:20619)
 FOA - Iron Lady and EU arms - Questions of the LBMA
+
 ---------------------------------
 FOA, I believe that the EU countries will find it difficult to cooperate, which is always a plus when attempting to minimize war driven monetary inflation. But as a defence system, the independent EU military may be a positive in a way not possible before. Namely, to supply the world with a military force that only operates by wide consensus and is sensitive to issues of sovereignty, as opposed to the current US/UK system that tends to act in the interest of odd humanitarian concepts and for the furtherance of the misunderstood and misapplied concepts. The world is suffering today from the tyranny of the US humanitarian conscience. Being blurry in focus and misguided by self delusions of its own propagandists (particularly of Ted Turner and bride Fonda) they may well level a country that has done no one any harm. With the example of Yugoslavia behind us, I am certain that the whole of the sovereignty minded world will obtain the needed "weapons of mass destruction" to protect against the US delusions of sainthood. I would not be surprised to find Latin American buyers in Russian, Chinese, Paki, South African, and other
 military shows - perhaps in Europe too - looking for the very weapons they are prohibited from obtaining by the non-proliferation treaties.
 
 FOA, do you think that this is the trend before us? How do you view the outcome?
+
 -----------------------------------------
 ORO, It's late but here goes,
 It's easy to be hard on the US as we watch the results of their "mostly good intentions". No one can control the outcome of major campaigns to correct human atrocities. The process takes on the form of "management in progress". It's either "let them all kill each other and everyone close to the fire" or try to "manage a better outcome". At the very least, a "situation" degenerates into just as bad an affair as if we never entered it. But, still it's more controlled! I know, hard cold thoughts indeed, until we "walk a mile in their shoes". Truly, anyone that tries to, at best "control" the blatant effects of human hostilities assumes the position of being blamed for the whole mess. It takes broad
@@ -15258,11 +15360,13 @@ Will Euroland do a better job? I doubt it. Looking through world history we find
 No, we all learn to manage our affairs in the context of the world political evolution.
 
 I don't expect Europe to dominate in this regards. Like Japan, they are constricted by their history and will tend to underweight the need to react. Just as I pointed out before, national power blocks tend to work well in the worlds eyes during the initial build-up phase of their rise in economic status. In this regards, Euroland has the best of everything before them for the rest of most persons investment timelines. Conversely, it's time to leave the dollar based assets before they are discounted from the political degeneration that must follow.
+
 -----------------------------
 You write:
 You indicate that the UK has understood that its economic future is with the EU and the BIS organization, and has been dragged kicking and screaming (however muffled these screams may be) into the fold. The Iron Lady seems to have been left out of the loop, and I would venture a guess as to the Torries' being in the dark as well, all but the few in key leadership ("king making") positions.
 
 FOA, how much of a done deal is the inclusion of the UK into the EU? The LBMA, would it be "saved" if it were willing, under the BOE leadership, to play along with the EU plan?
+
 -----------------------------
 
 ORO,
@@ -15292,6 +15396,7 @@ Another question: The level of awareness of the bullion banks as to their vulner
 (2) Are they aware of the gold revaluation concept for backing the Euro?
 (3) Do they understand the situation which they are in regarding the consequences of the Arab Oil being pulled away from its role of supporting the dollar?
 (4) Are they aware that the Oil Royal's gold will be both pulled out from further cycling through the lending schemes and revalued by the direct trade of oil for gold without 100% transit through the dollar?
+
 -------------------------
 
 ORO, Even a person "blind in one eye" can see a mountain. Of course they see the risk! But, if you are the last man on the front and the war is lost, you will fire your last round. Don't forget, there are a lot of major miners and fabricators that could not operate without them. They would literally go down with the ship if this doesn't change. The whole industry is built into this present gold pricing
@@ -15311,6 +15416,7 @@ discounting begins (for real), the paper markets will close and bullion will dis
 
 ---------------
 Is the gold redeem ability point lost on the LBMA members as it was lost on most actors in the financial markets? Is the "de facto" dollar redeem ability (into paper gold) - through exchange at the LBMA - a true representation of the system till the advent of the Euro?
+
 ---------------
 
 I'll work on this later,,,,,,thanks ORO, hope all this makes the click go off.
@@ -15459,6 +15565,7 @@ FOA (12/11/99; 22:24:54MDT - Msg ID:20785)
 Reply
 ORO (12/10/99; 14:19:38MDT - Msg ID:20704)
 From the role of LBMA as the main conduit for gold exchange and the core of physical gold distribution, where both buyers and sellers meet incognito, there would obviously be a problem for producers to sell their gold without a location for meeting their buyers. The need to start with cash for gold trades of producers and buyers on a bilateral trade basis would obviously cause many of the gold producers problems, since they do not fabricate and have no direct connection to the retail markets.
+
 --------------------------
 ORO,
 Marketing concepts evolve in funny ways. Miners assume all the process of finding, mining, milling and then shipping dore bars. Who said it should start or stop there? The term mining could have only included the actual digging, leaving out all the rest.
@@ -15497,6 +15604,7 @@ Joey,
 OK, I see how you perceived my reply. Let ne go further with you and then I'll present a different light to everyone in the next post.
 
 Your words:
+
 -----------------
 1) You're quite right, I should not have suggested that Ashanti had in effect defaulted. Cambior, however, is as far as I can judge in a slightly different class in that they had sold considerably more calls maturing in 1999 than warranted by their production capacity. In this sense at least, they only avoided default by an effective "restructuring" of their committments.
 
@@ -16356,6 +16464,7 @@ You write:
 This fiat money is necessary, you say, because it will allow management [manipuation] of the economy without suffering the deleterious side effects that a rigid gold standard has saddled us with in the past. Would you care to draw for the benefit of the forum the the philosophical line that
 separates you from, say, an Alan Greenspan, as per the gold/fiat money relationship? do we not have TODAY a fully-floating POG alongside the dollar? What shall we gain in re-baptizing fiat money with a different name, i.e., the Euro? except the prolongation of the Game? IF gold IS
 money than nothing else is. Disagree?
+
 --------------------------
 
 No PM;
@@ -16363,6 +16472,7 @@ We don't have a fully floating price of gold today. This is the illusion (paper 
 financial power. He knows that the dollar could never retain it's position if gold became a "separate settlement currency" through a true world free physical market. All of the dollar price inflation that is currently locked into the present dollar supply inflation would present itself. Dollar reserves held world wide would become useless unless they could be used to buy real US goods (at a non inflated price).
 Truly, Mr. G. only sees gold from a Washington view and even that must be locked in the cellar. He manages a system built by others and must use the tools this system allows. The present paper gold market is as much a function of the dollar value as interest rates and it is controlled as such.
 Today, gold is money, I agree! But, it is not and never can be a fluctuating (in supply) digital money of high speed settlement. For it to work it's past magic in this modern world, it must trade in physical form without derivative use. It will.
+
 ----------------------------
 
 You write:
@@ -16376,6 +16486,7 @@ This is the standard (higher level) teachings in modern Western education. Histo
 official ruler-ship can function unless people have some private wealth. Never has worked for even a short time and never will. Further, generating more wealth from private property (owned wealth) is only good if one can overcome the "RISK" that comes with it. This is nothing new to most of the world. It's just a different concept for modern Western man.
 
 You write:
+
 ---------------
 It's a logical fallacy that doesn't survive the glare of critical analysis. Omit the adjective "private" from the premise and what you end up with is the other side of the coin, or communism. Both systems are basically worship of materialism and humanistic (man is the measure of the universe) propaganda. Now, whereas communism theoretically aims at generating its "GOD", or 'goods and services' in economic parlance, via the sweat and toil of its fellow gods (the proletariat), capitalism is predicated on CONSTANT INSTABILITY [the insidious rhetoric of the bankers
 notwithstanding] of the prices of these very goods and services, the [managed] fluctuations of which allow the people Greenspan works for to earn wealth they did not work for. -----------------
@@ -16383,6 +16494,7 @@ notwithstanding] of the prices of these very goods and services, the [managed] f
 PF:
 I'm glade you understand this ages old function of humanity. Through out time and space our life quest is influenced by others that try to control our desires. The successful time traveller lives his days in harmony by adapting to the "lay of the land". Today, it's time for gold and Euro assets. Indeed, what you have just written is the very action that has brought the dollar to the end of it's
 timeline.
+
 ------------------------------------------
 
 Again, your words,
@@ -16395,8 +16507,10 @@ In addition PF, the history of gold shows how one may remain in their chosen lan
 
 
 Further you add from :Msg ID:22104
+
 -------------------------
 Therefore; I find myself obliged to conclude that, due to your avowed devotion to the Euro and the "The King is dead; long live the King" tradition it propounds, the only difference between you and an "Alan Greenspan" lies in your respective handles. If you already are not one of them, you wanna join 'em. Incorrect?
+
 ------------------------------------
 
 Very incorrect my friend. The difference lies not between myself and others, rather between the life experience of "you" and "I".
@@ -16434,6 +16548,7 @@ Reply
 Hello canamami,
 
 You write:
+
 -----------------
 canamami (1/2/00; 22:43:33MDT - Msg ID:22091)
 Reply to FOA - Possible Demands re Gold Breach of Contract
@@ -16448,6 +16563,7 @@ Further, important people only recognize a wrong as a "moral issue" when a publi
 that didn't mean they were concluded, nor would this repudiate other precedent setting actions that occurred later in time.
 
 You write:
+
 ------------
 Remember, every other country ended gold convertability, and some of these countries did not disestablish the previously gold-backed currency - for example, Canada kept its dollar and Britain kept its pound, though gold-backing ended for these currencies. ------------
 
@@ -16455,6 +16571,7 @@ Indeed, these countries held dollars "as their gold" by international treaty. Ju
 Canada and Britain did not later back their currencies with gold, did they. Nor will the US!
 
 Your words:
+
 ---------------
 Also, neither Germany nor Switzerland expressly stated - "no more claims will be recognized flowing from World War II". However, the US has expressly extinguished any demands
 for gold against the Treasury, except for some very old issues of certificates and dollars. Thus, the US has made an express policy decision that no demands are to be made against its gold. This has not stopped the rest of the world from continuing to view the dollar as the pre-eminent currency.
@@ -16471,6 +16588,7 @@ The question is, I guess, since these two events are the two biggest thefts in h
 Journeyman
 
 Further from your post:
+
 ---------------------
 The bottom line: the US will not entertain any claims against its gold on either a moral or legal basis, and I don't believe any claims will be made against it either. This matter has been resolved, and the US would disregard any attempts to make this an issue, though I doubt such attempts would even be made.------------------
 
@@ -16482,6 +16600,7 @@ Thanks FOA
 FOA (01/08/00; 20:52:00MDT - Msg ID:22547)
 Comment
 Only part of this post:
+
 ---------------
 USAGOLD (01/03/00; 21:47:51MDT - Msg ID:22184)
 Deja Vu...
@@ -16512,6 +16631,7 @@ to support the price. Instead they stood back and let it drop down to the $250 r
 It no longer became a question of price, rather a question of when? I think it was because the Euro started out "too strong" in the beginning. They needed market acceptance and usage first, then begin the process of marking dollars to the gold price. I am expecting this year to produce some concrete moves in this direction.
 
 You write:
+
 -----------
 FOA, do you agree with that analysis? Or, do you think the BIS could enter the world Gold market, replace the LBMA, and buy and sell non-paper Gold only? In My Opinion it would be a large European Bank that would first compete with the LBMA, and then after a collapse of paper Gold, join forces with The LBMA, sometime in the future. Your thoughts and opinions are always greatly appriciated ....beesting.-------------------
 
@@ -16554,6 +16674,7 @@ FOA, for ease of reference, I will repost a reply I made to Journeyman, then I w
 Of course stealing is immoral, and it would have been preferable for the US to comply with Bretton Woods, or to withdraw while it was still able to meet extant obligations, so there would not figuratively have been a "breach of contract".
 
 That being said, we are dealing with the actions of sovereign states, which are indeed immune from the ordinary principles of contract law, including the principles of private international law as they relate to contracts. My post related to the assertions of FOA, that the US would face demands for the honouring of gold backing just as the Swiss and Germans faced demands relating to Holocaust-related matters, years after the fact. I countered that the two matters are too dissimilar for there to be a valid analogy - i.e., like comparing apples and oranges.
+
 -----------------------------
 
 Mr. C.,
@@ -16561,9 +16682,11 @@ I ask, were not the Swiss and Germans also sovereign states? Were their actions 
 light as "taking someone's private property". I make this point not because the BIS "is" about to ask for gold, rather that the US will never again back the current US dollar with it's gold. They must create another currency medium first.
 
 You state:
+
 --------------
 However, if obligations relating to 1971 are to be dug up, then the US is free to dig up the defaults of countries after WW1. Back then, basically all currencies were completely gold-backed. In the course of WW1, the major countries became indebted to the US. Except for Finland, all the Europeans defaulted on their official debt to the US. So, if some countries can dig up ancient breaches of contract like 1971 (at law, an ancient issue, and I would also say a breach that has already been waived even on a moral level), then the US can dig up the WW1 breaches of contract by European countries - with accumulated interest. Also, such demands for compensation are made against Ger/Swit because Germany/Switzerland are willing to listen to such demands. On the other hand, the Japanese have ignored demands to compensate Hong Kong veterans and others
 who were tortured, and to compensate the victims of the Rape of Nanking. Thus, few demands are even directed at Japan. This is how sovereign states generally operate. Given that most of the putative complainers concerning 1971 have "shafted" the US in the past, I doubt any demands for the honouring of the Bretton Woods gold backing will be made.
+
 ----------------
 
 Again, the closing of the gold window was not a debt issue. None of your above items are relevant. The US seized gold belonging to others by not shipping what was in vault storage.
@@ -16572,26 +16695,32 @@ You say:
 
 ------------
 Thus, FOA, I disagree with your assertion that the US will ever face demands relating to the 1971 closing of the gold window. Subsequent to closing the gold window, the world agreed for a time to currencies directly pegged to the US dollar, and then that arrangement ended. ----------------
+
 ----------------------------------
 
 My friend, the dollar reserves held in foreign banks were not these "pegged" holdings you speak of. Foreign moneys pegged through exchange rates to dollars is one thing. However, there were real dollars held as gold certificate reserves by these Central Banks. There was no arrangement on this issue. The US took their gold plain and simple.
 
 Your words:
+
 ------------------
 However, the fact that the rest of the world adopted the US dollar as the baseline currency after the closing of the gold window suggests that most of humanity did not view that a great injustice had taken place by the closing of that window; in fact, that closing was seen coming for years prior to 1971.
+
 ---------------------
 
 In the same light, was the inaction on Swiss and German issue a sign of acceptance? Apparently not!
 
 Onward:
+
 ------------
 Remember, the US did not seek out the role as reserve currency to the world after WWII, it agreed to accept that role only after pleadings from other countries. Moreover, any country that distrusted US dollars could have demanded gold instead. ---------------
 
 My point exactly. The very fact that the US shipped so much gold prior to closing sets the precedent that the dollar was a gold certificate, not a debt or IOU. It was payable on demand for many years.
 
 Further in your thoughts:
+
 ------------------------
 It is fanciful to believe that demands concerning 1971 will be made now against the US, and even more fanciful to believe that anyone would take such demands seriously. To use legal language, the limitations period has passed, and in any event the breach was waived. Further, a history's worth of demands could then be reopened. The US could demand repayment of WWI-era debts, with interest. It could demand reparations from Germany and Japan for WWII, against the Arabs for oil supply contracts broken during the Oil Embargo - it would never end. This is a can of worms the world will leave closed.
+
 -----------------
 
 I submit that it is "fanciful indeed" for one to think that the pre 71 dollar was a debt of gold. Clearly, all the evidence says it was not. The dollar represented gold held on deposit for any Central bank that requested it. Because most foreign citizens could own gold in their countries (US
@@ -16621,6 +16750,7 @@ In the way of clarification for others, I think FOA is trying to tell us that th
 --The cash buyer holds gold bullion and is obligated to nobody. His holdings do not rely on anyone fulfilling an obligation.
 
 The leverage built into the market, which we goldbugs will benefit from in the long run, is that of the many obligations denominated in gold. We need not buy leveraged instruments, because the leverage comes from the extreme volume of gold obligations issued within the "paper gold" trading arena described above. The same elements that make gold an attractive investment at this time and a long term store of value (over a lifetime), particularly during banking crises, make the various forms of leveraged gold unattractive. One should note the point of gold being protection from an environment of default on obligations. The same obligations that gold derivatives are.
+
 -------------------------------------------------------
 
 ORO,
@@ -16634,12 +16764,14 @@ Further you write:
 
 -------------
 The most important aspect of gold as financial disaster insurance is that it is immune from default. The second point, particularly important for the gold mining investor, is that in financial crissis, desperate governments are prone to disregard the property rights of large holders of industrial assets. The most captive form of industrial asset are the mine and the oil well. The most attractive asset for taxation and expropriation in time of crissis is a gold mine. Very large hoards of precious metals may prove attractive to a government seeking survival. The small hoards remaining in the West are not attractive targets.
+
 -------------------------------
 
 Yes, sir. This seems as impossible as the question of the BIS going after gold rebacking the dollar. But, this is the way the world works and the dollar timeline is running out of it's future. The trick now is in getting some of your assets out of harms way, well before the fact. The problem is in the dreams of every gold mine owner; the spiking of gold! The next gold run will be caused from pressures far different in dynamics from price inflation. Indeed, it may rum so fast. so quick that every country closes it's borders to gold flow. Usually this is accompanied with foreign exchange controls. (Ever notice how gold is always included in these currency flows controls? Not silver, platinum, copper or oil. Just gold.). The next event would be an emergency 60% (or something to this effect) exchange rate tax on bullion that comes out of ore sellers pockets. Then, it's later made permanent in some form of "windfall profits tax" against the companies. Oh yes, the mines stay in
 operation and the ore is milled, it's just that the costs (price inflation) and taxes do a number on the stockholders equety. This may not happen in every country. But that's another story.
 
 Your words:
+
 ----------------------
 The use of gold futures and options in the battle for financial self preservation during a financial crissis is equivalent to a knight charging at his enemy with a shaking kielbasa. Gold mining shares are similar to waving one's title to the land in face of the Mongol horde's charge. Wouldn't it be rather smart to hold a sword on top of the ramparts of a castle? Taking our little Midieval setting further, one does not complain of the building of the castle, though long after its construction came no attack. The expense of time and effort, of missed opportunities
 and reduced performance will come to be appreciated when disaster strikes.
@@ -16674,6 +16806,7 @@ This is an extremely possible event that is in no way different from our current
 level. And therefore increase the leverage for physical gold "after the fact".
 
 You write:
+
 ---------------------
 ORO (1/4/00; 8:16:45MDT - Msg ID:22236)
 A (bullion) BANK NOTE
@@ -16682,6 +16815,7 @@ A note about the implication of the banker's situation: through the banker's bor
 Common estimates of private gold bullion holdings available to the financial markets, most notably the one produced for the Fed in 1997 (estimated for 1995), put the gold at 20,000 tons. I have reason to believe that there are 10,000 tons more, bringing the total to some 30,000. I will not go
 into the iffy details of the estimate, but note that one of the major components is "Yamashita's treasure", which has been in the gold markets since 1984, some of it even before that date. Whenever stories come up about the reappearance of that hoard to act as an overhang on the markets, you can rest assured that it has already been introduced to them in its entirety. These 10,000 tons are in "semi-official" hands of Royals of the Oil countries, the Vatican. Much of the
 rest of the remainder (once the gold jewelry deficit is accounted for) sits in Rothchild vaults, and a few other large holders, "giants" much as described by FOA and ANOTHER.
+
 ------------------------------------------------
 
 ORO,
@@ -16689,15 +16823,18 @@ I have no doubt that these figures are in line with reality. In fact, they are l
 The point is that during a melt down, the entire human infrastructure of a paper market would be looking to buy. In other words, the gross total of world open interest times two (X2) running for gold. It does rather overload the little CB holdings, doesn't it?
 
 You write:
+
 --------------------
 The volumes of gold paper traded by the LBMA become much clearer when taken in context of the gold banking system rather than in context of annual gold production. The 1000 tons traded daily are well proportioned to the normal trading patterns in currencies. Eurodollar interest
 derivatives constitute about 5.5 $T traded on New York exchanges, and another 55 $t or so are traded OTC with 62% netting (figures are from memory so don't shoot me if I'm off a little) bringing it to 19 $t. This is equivalent to the estimated 21 $t in Eurodollar debt outstanding (my estimate). This comes to 7%to 7.5% of outstanding positions traded daily. Applying this proportion to the gold market's 1000 tons, one comes to 14,000 tons of net debt - the same kind of debt as Eurodollar debt. This is debt generated by the sale of physical gold in the four part transactions.
+
 ------------------------------
 
 Sir ORO,
 Prior to LBMA giving open figures, the trading was quite high. Even if one had no inside view of their arena, the fact that our 1,000 tonne figure didn't just arrive "overnight" should point to a long term trading build-up. We can be sure that from at least 1990 onward, the paper gold system was backing the dollar on a planned schedule of events.
 
 You offer more:
+
 ----------------------
 While the physical supply actually went into hoards of all sorts, the paper remained circulating in the markets. The gold accounts now stand at an incredible level of over 40,000 tons by my reckoning. Nearly 30,000 tons are owed by bullion bankers directly - without counter obligations
 denominated in kind. They have only 4,800 tons in credible gold mining company obligations, and another 9,000 tons were borrowed by speculative funds playing the carry trade. The remaining reserves, some 10,000 tons, can not be used to pay off the gold denominated debt because the reserves are mostly borrowed and must be kept on hand to cover obligations to Oil Royals (the major lenders of these reserves). Of the other 20,000 tons in private gold hoards, only 6,000 remain in private hands outside of the Bullion banking system. 14,000 were supplied to the market over the years, and hang around the necks and in the noses and from ears of a billion people. The total commitments of bullion banks (including derivatives) are most probably around 60,000 tons, with an imbalance of some 35,000 tons, where gold was "borrowed" by the bankers (in reality only
@@ -16709,6 +16846,7 @@ Their remaining gold denominated assets:
 The remaining counters to the bullion banker's gold obligations are denominated in currency.
 Physical gold lent TO bullion banks, about 25,000 tons.
 Physical gold lent BY bullion banks, about 15,000 tons.
+
 -------------------------------
 
 Again, I agree, but ask the question "are these commitments becoming irrelevant in gold terms"? This is "gold banking" on a pure fractional reserve basis and very much reflects the dollar prior to 71. Years ago, we hit a point where the market place is just trading the price of gold, not gold itself. They have created a form of "gold currency" that is more a "gold price obligation" rather than
@@ -16723,6 +16861,7 @@ FOA (01/10/00; 20:39:02MDT - Msg ID:22663)
 An Overview
 ORO (01/06/00; 15:05:40MDT - Msg ID:22411)
 Your words:
+
 -----------------
 For years, I could not understand how the dollar could stabilize in 1980. It was a complete mystery to me. Austrian monetary theory, which I studied with the intense interest of youth, alongside Monetarist theory, was giving no clue as to how the dollar could be stable at all once the arbitrage
 to gold through redeemability was closed to everyone - CBs included. ---------------------
@@ -16824,6 +16963,7 @@ Sorry I cannot write now,,,,,,,,,,,,,,,,,,,,,FOA
 -------------------------------------
 ALSO:
 Welcome Traveller and all the new posters here!
+
 -------------------------------------
 
 USAGOLD (1/12/00; 9:31:05MDT - Msg ID:22771)
@@ -16897,6 +17037,7 @@ ORO (1/12/00; 10:01:35MDT - Msg ID:22773)
 FOA - some comments - Part I
 
 You write:------------------------I am trying to put the two issues in perspective, (1) the break in the gold backing and (2) the need to price oil at a higher dollar price for the dual purposes of (2a)"strategic", locally controlled oil, and for the simple (2b) prosperity of the American oil patch and its highly connected people.
+
 ---------------------------------------
 
 foa: ORO, the oil patch was hated in New York and Washington. Two different cultures, you know. The Government just wanted them to produce oil and shut up. If they needed to make money in the process, so be it. The "oil windfall profits tax" later proved the point that oil was more seen as a "public utility" for "monetary policy". Not something that was privately owned.
@@ -16906,6 +17047,7 @@ Which do you see as having been more significant? Or was it a monetary decision 
 from this concept would also have made it attractive.
 
 Besides, considering that the US was then so far outsude of any possible internal remedy to its gold receipt (dollar) printing problem, it was just a matter of a few months till it would all have broken apart in 1968 - the Fed and the government then facing the hard choice between having a banking system or a currency. I can see that the system was saved in 69, when the London gold market moved to gold pricing in dollars and the OPEC countries stopped taking currencies other than dollars. The US managed to even stretch that arrangement past the breaking point. ----------------
+
 -------------
 
 foa: ORO, my friend, they were not using this concept as a real "commodity money play" in the "gold standard perception". At that time we were buying local oil with "fiat dollars" (made so by the 1933 internal gold confiscation) and foreign oil with "gold dollars". But, as you pointed out, dollar production was so far past it's "gold backing" that it was obvious they (USA) were pegging dollar printing to oil prosperity. Still, with London gold and oil mostly settled in dollars, the foreign dollar
@@ -16938,6 +17080,7 @@ system gone bad. Yet, compared to the SOL of even Japan, we were always way ahea
 ------------------------The question that comes at this point, is why were the Arab oil suppliers willing to do this? Was it because their oil would continue to be priced in gold, and this whole thing with the dollar just did not matter? Why did Europe go along with this scheme?
 
 I think it was the "strategic" element of the time, a malevolent and reluctant Soviet system and China in complete chaos in the "cultural revolution", led by psycopathic crackpots, that played a part in convincing Europe and Oil to back the scheme. There was a need to continue support for the US so that it could retain/gain superiority over the Soviets. The "exorbitant privelege" had to be maintained for both the sake of the US and of Europe. For Arab oil, pricing was fine so long as they got their "fair" amount of gold per barrel. The Europeans would pay for the US military sevice by taking US dollars. Do you see this as the "whole" of the strategic significance of the deal?
+
 --------------------------------------
 
 foa: ORO, First and foremost, everyone was caught flatfooted as the dollar broke from gold. Like I said above, the industrial world loved the dollar expansion in the oil context presented. Caught between what appeared as a good system based on cheap oil and the loss of gold delivery, they let it drift too far. Even as we left gold behind (71) and oil went up (78), the system still worked because oil was perhaps delivering $100.00 worth of value and being brought for $30. Yes, this new price did create a financial panic, but more so because everyone was leveraged for the status quo, not a rising price. Like a company business slowing down because they expected 100% profits and invested in equipment for it, yet only got 50%.
@@ -16984,6 +17127,7 @@ say that by 1959 it was not necessary at all. Europe had grown to the point of b
 
 No, FOA, there was never a danger of deflationary spirals forming if the US had not insisted on socializing banking costs as the cost of the political bargain for subjugating the whole of the country's wealth to direct Federal government control. Did the war/wars both cold and hot make
 this the only politically acceptable way? I think that was not the only way, even when going into a prolonged "cold" war. What it was for is obviously to "disappear" the cost to both Americans and Europeans. The decision to back the dollar with oil was based on any new concept, it was simply a new way for the US government to retain control of its economy through currency control. I could venture a guess as to Hayek being an intellectual backer of the compromise plan (compromise between reality and the wish of the Johnson and Nixon era bureaucracy to retain hegemony), since he understood well how oil is important economically, and how a currency works. .---------------
+
 --------------------
 foa: above you say:
 "The decision to back the dollar with oil was based on any new concept, it was simply a new way for the US government to retain control of its economy through currency control."
@@ -17013,6 +17157,7 @@ but the tip of the enormous ice-berg this piece of idiocy cost.
 There is no benefit whatsoever derived from the oil being local but for its strategic significance for military and political reasons. No amount of theory can find a benefit from the waste of resources on a problem we did not face (at least not for another 30-50 years at the time) and from the
 uneconomic consumption of the intermediate range reserves. Now we have broken the natural cost structure of the oil industry and put in a big hole between the low cost oil and the high cost oil. In the meantime, we have destroyed the coal mining industry with a boom and bust cycle, we drove
 natural gas exploration too early and wasted it, We broke down the economies of many nations. This folly did not allow the growth of the world economy to proceed unempeded by the restraints of gold, it slowed down the world's growth and diverted its energies.------------
+
 ---------------
 foa: Yes, to all except one." " " There is no benefit whatsoever derived from the oil being local but for its strategic significance for military and political reasons. " " "
 
@@ -17047,6 +17192,7 @@ An Overview
 
 FOA (1/11/00; 6:23:10MDT - Msg ID:22690)
 More Overview
+
 -----------------------
 http://home.att.net/~gmoritz/public/Deficit.jpg
 We stop and share the view!
@@ -17137,6 +17283,7 @@ Also you note: --------------
 
 Ha! Ha! That is a good way to see it. Let's watch for this to happen!
 Thanks FOA
+
 ------------------------------------------------------------
 
 Aggie (1/15/00; 20:27:06MDT - Msg ID:22970)
@@ -17145,6 +17292,7 @@ Another????
 Hello Aggie, yes there is a new Another and he is from Provo Utah, no less. Stay with him and do exactly what he say's. I promise you your life will be forever changed! (great big huge sarcastic smile) Oh, by the way, I'll stay with the original here.
 
 FOA
+
 -----------
 
 Cavan Man (1/15/00; 17:24:07MDT - Msg ID:22966)
@@ -17186,6 +17334,7 @@ We will all have to see how this plays out. thanks FOA
 
 FOA (01/16/00; 20:58:26MDT - Msg ID:23019)
 Reply
+
 -------------------
 Journeyman (1/16/00; 15:55:09MDT - Msg ID:23007)
 Oil shale: A spoiler, FOA?
@@ -17194,6 +17343,7 @@ But FOA, there is one factor, it could be minor, I don't have the context knowle
 
 Clearly the size of the reserves is significant. The question is, is it significant enough to affect your
 scenario FOA?
+
 ---------------------------
 
 Hello Journeyman,
@@ -17251,6 +17401,7 @@ foa: Looks like fits and starts to me. But the trend is there. Truly, someone is
 -------If, it is yes, gold should be being unleashed right now. ------------
 
 foa: If the gap that Michael talks about is still working (I think it is), then the paper market is running out of physical supply. The fact that they had to call in markers from small official sources the last time (to get physical lent), indicates that we have reached the last of the private stocks. We shall see.
+
 --------------------------------
 
 
@@ -17831,6 +17982,7 @@ account was far smaller. "This is the first time since the end of World War II t
 
 The last time the United States resorted to a similar
 move was in 1893, when J. P. Morgan provided gold to help the Treasury.
+
 -----------------------------------
 C Man,
 Now that the Euro has become even more competitive with the dollar, the US trade deficit is going to literally explode! And this is on top of a cascading dollar system that is forcing the Fed to pump money! And now Britain is running straight for EU membership with all that implies for the US dollar system. You tell me if this doesn't mean they are managing a gold banking crisis with their sales. If they join before a gold market failure, then "England in Euroland" will be the end of dollar gold banking as we know it! Believe it! Here is a real shocker:
@@ -17914,6 +18066,7 @@ FOA (12/30/99; 16:38:17MDT - Msg ID:21859)
 Reply
 Hello and welcome Permafrost,
 I'll comment on your items in order:
+
 ------------------------------------------------------------
 PERMAFROST (12/29/99; 3:21:27MDT - Msg ID:21765)
 FOA Msg ID: 21734
@@ -17937,6 +18090,7 @@ system. It's only in the eyes of the Western dollar saver that this price inflat
 ------QUESTION: Do you know of any emperor (I think you called them 'Grandees' here on this forum) who's willingly abdicated power--Besides God himself?------------
 
 My friend (PF), power belongs to the swift of heart and mind. This world waits for no one as power flows from peoples to peoples. Even the strongest emperor knows to occupy the high ground before the flood. The powerful in tomorrow's future will own gold today. Thank you, FOA
+
 ------------------------------------------------------------
 
 ALL:
@@ -17962,6 +18116,7 @@ PART 3
 Part 3
 
 ALL: Below, I clearly demonstrate my position on the current evolution of financial affairs. Please read for the peoples court:(I will comment on each part with ALL: preceding my analysis)
+
 -----------------------------------
 
 FOA (01/08/00; 17:34:05MDT - Msg ID:22538)
@@ -17987,6 +18142,7 @@ timeline". At this point the users of this money begin to either "deflate it's s
 Inflation is the choice when people can "refinance" into another currency media. Leaving the old to contend with an ever increasing velocity of the useless money supply. This is the fate that waits the dollar.
 Is this some structure brought about by a New World Order? If you want to see it this way, then remember the world has been doing this from creation. I only add, why bother to put the "New" on it? Let's just call it "Next World Order"! Besides, it's only one peoples as a nation group (EURO/BIS) trying to protect their wealth because another nation group of peoples (Dollar/IMF) borrowed more that they could ever pay back! Still, I read this New World Order faction (NWOF) as loudly declaring the Euro as a fraud, yet they (NWOF) are hip deep the dollar assets
 of a country that "defaulted on it's gold delivery. Twice! Then they (NWOF) yell because no one is creating a new gold or gold backed currency. Why do that? So we can be defaulted again by the "NEXT World Order"?
+
 -----------------------
 
 ALL: Later on Mr. Frost tries to paint a picture that I did not hold this logic. His future contention that all the "boys in control" are in the same club and the Euro is but another dollar. My chain of reasoning demonstrates how his logic is flawed. The very fact that we find "tribes" and
@@ -17994,13 +18150,17 @@ ALL: Later on Mr. Frost tries to paint a picture that I did not hold this logic.
 affairs. Financial power is no different. Sure, they all hate gold, but they will embrace it if it gives them an advantage in currency warfare.
 
 In my next reply to his several part post, I offer the logic and reasoning behind the dollars position. Why it is managed today in a defensive posture. It presents it's weak link from where the Euro/BIS faction can attack.
+
 ------------------------------------
+
 -----------------------------------
 You write:
+
 -----------------
 This fiat money is necessary, you say, because it will allow management [manipuation] of the economy without suffering the deleterious side effects that a rigid gold standard has saddled us with in the past. Would you care to draw for the benefit of the forum the the philosophical line that
 separates you from, say, an Alan Greenspan, as per the gold/fiat money relationship? do we not have TODAY a fully-floating POG alongside the dollar? What shall we gain in re-baptizing fiat money with a different name, i.e., the Euro? except the prolongation of the Game? IF gold IS
 money than nothing else is. Disagree?
+
 --------------------------
 
 No PM;
@@ -18008,10 +18168,13 @@ We don't have a fully floating price of gold today. This is the illusion (paper 
 financial power. He knows that the dollar could never retain it's position if gold became a "separate settlement currency" through a true world free physical market. All of the dollar price inflation that is currently locked into the present dollar supply inflation would present itself. Dollar reserves held world wide would become useless unless they could be used to buy real US goods (at a non inflated price).
 Truly, Mr. G. only sees gold from a Washington view and even that must be locked in the cellar. He manages a system built by others and must use the tools this system allows. The present paper gold market is as much a function of the dollar value as interest rates and it is controlled as such.
 Today, gold is money, I agree! But, it is not and never can be a fluctuating (in supply) digital money of high speed settlement. For it to work it's past magic in this modern world, it must trade in physical form without derivative use. It will.
+
 ----------------------------
 
 ALL: next I conclude the replies
+
 ----------------------------
+
 ----------------------------
 
 You write:
@@ -18024,6 +18187,7 @@ not at all.
 This is the standard (higher level) teachings in modern Western education. History proves that "real private property" has and always has been both wealth and a purchasing power medium (money). Through the best of times and the worst of times, in war and peace, people have always had private property. Even in Russia of old, they had to allow people their things. Even if these positions weren't recorded "officially". A universal truth is that no form of official ruler-ship can function unless people have some private wealth. Never has worked for even a short time and never will. Further, generating more wealth from private property (owned wealth)is only good if one can overcome the "RISK" that comes with it. This is nothing new to most of the world. It's just a different concept for modern Western man.
 
 You write:
+
 ---------------
 It's a logical fallacy that doesn't survive the glare of critical analysis. Omit the adjective "private" from the premise and what you end up with is the other side of the coin, or communism. Both systems are basically worship of materialism and humanistic (man is the measure of the universe) propaganda. Now, whereas communism theoretically aims at generating its "GOD", or 'goods and services' in economic parlance, via the sweat and toil of its fellow gods (the proletariat), capitalism is predicated on CONSTANT INSTABILITY [the insidious rhetoric of the bankers
 notwithstanding] of the prices of these very goods and services, the [managed] fluctuations of which allow the people Greenspan works for to earn wealth they did not work for. -----------------
@@ -18031,6 +18195,7 @@ notwithstanding] of the prices of these very goods and services, the [managed] f
 PF:
 I'm glade you understand this ages old function of humanity. Through out time and space our life quest is influenced by others that try to control our desires. The successful time traveller lives his days in harmony by adapting to the "lay of the land". Today, it's time for gold and Euro assets.
 Indeed, what you have just written is the very action that has brought the dollar to the end of it's timeline.
+
 ------------------------------------------
 
 Again, your words,
@@ -18038,24 +18203,30 @@ Again, your words,
 PERMAFROST (1/3/00; 3:09:12MDT - Msg ID:22105)
 Reply to FOA Msg. ID: 21859 Lastly,
 As to even the 'emperor running to higher ground when he sees the flood coming'--if he were to do so, he'd be emperor no more for what makes an emperor an emperor is the "land" he rules. Without it he's nothing. That's why captains do not abandon their sinking ships; and why sometimes even emperors get their heads chopped off. To die an emperor is perhaps preferable than to live as a normal human being for some...You?
+
 --------------------------------
 
 In addition PF,
 the history of gold shows how one may remain in their chosen land and retain their wealth. For gold needs not return to a native place to receive it's value. We do indeed chose the
 high ground, with or without our heads. (smile)
+
 --------------------------------
 
 --------------------------------
 ALL: Here again, I promote gold as the high ground, not the Euro!
+
 -----------------------------------
 
 Further you add from :Msg ID:22104
+
 -------------------------
 Therefore; I find myself obliged to conclude that, due to your avowed devotion to the Euro and the "The King is dead; long live the King" tradition it propounds, the only difference between you and an "Alan Greenspan" lies in your respective handles. If you already are not one of them, you wanna join 'em. Incorrect?
+
 ------------------------------------
 
 Very incorrect my friend (Permafrost).
 The difference lies not between myself and others, rather between the life experience of "you" and "I". Somewhat like the movie "The wind and the Lion": You like the wind hold the power of force in your words. I as the lion roar in defiance as the sand stings my eyes in a land I cannot leave. Yet, as a lion, I know my place on earth while as the wind, you will never know yours!Thanks Much ,,,,,,,, FOA
+
 ---------------------------------
 
 ------------------------
@@ -18082,6 +18253,7 @@ arrest needless mincing of words--or the holy trinity [ORO, FOA, and the "holy s
 
 You are doing this willingly because the content of your postings display articulate intelligence and considerable knowledge. The only conclusion I can deduce from these FACTS are that you are either trying to surreptitiously mislead your following or simply making an [---] of yourself.
 Unfortunate in both cases.
+
 --------------------------------
 
 ALL: Some chain of logic? One would think he would respond to all the previous discussion ,,,,, and do so in a manner that spells out his position. Instead he uses the old ---I can't present my views in a way that proves me right so I'll tell everyone that you're an (---)!
@@ -18091,6 +18263,7 @@ Then he goes on:
 ------------------------
 TO THE FORUM PARTICIPANTS:
 Your fawning and obseqious behaviour towards the local gurus places you in the same ship [the Titanic?] as the sheeple you frown upon.I've been reading this forum for a month; thence follow my observations for those who care to read them:
+
 -----------------------
 
 ALL: Again I say, "What a bunch of garbage!!" He admits that he's been reading the group for a month,,,,,,no less,,,,,,,,and has us all pegged. And later on says that I am talking down to everyone!!
@@ -18104,12 +18277,14 @@ liras.
 the Titanic [the dollar] are LYING, because YOU know that they know better!
 3) Now I ask YOU who previously considered yourselves to be so well informed; WHY would they do such a thing? Do they have a hidden agenda or are they plain you-know- what?
 When they disparage one fiat money [the dollar] and sing the praises of another [the Euro] they are talking from both sides of their respective mouths. Sheer dishonesty!
+
 ---------------------------
 
 ALL: Again I say "What a bunch of garbage!!" You have all just read our (FOA/A) position as given. Did anyone feel "arm twisting" ,,,, or "mind control",,,,,or a "hidden agenda"? I ask, where is his logic chain,,,,,,,his political analysis ,,,, his reasoning. Does he just give "predictions" based on his perceptions without laying the ground work of how political logic would bring his events about?
 
 ------------
 Mr. Frost says (part of his post) in (1/13/00; 6:59:28MDT - Msg ID:22822)----------Even assuming Aristotle's words were written in stone, YOU are still confusing an alleged (by Ari) RESULT with an actual CAUSE of that result, or fact (irrationally assumed by the lot of them) that never was the case: THE DOLLAR WAS NEVER PEGGED TO OIL!--------------
+
 ------------
 
 ALL: But he never offers his reasoning as to why! Nothing! Deep stuff, huh! Big help to the forum as a team effort! Here is another of his team effort-----------(1/13/00; 7:15:04MDT - Msg ID:22824)---------You're right Steve; nothing wrong with being friends and sharing thoughts. But I
@@ -18122,15 +18297,18 @@ He attacks me (and others) with innuendoes and then states the following--------
 ALL: "What a bunch of garbage!" ,,,,,,and "What an incredible contradiction!"
 He is "simply reacting to what I (he) perceived"-----and after only reading the discussion for a month or so. Does
 "his perception" give him the right to step all over other participants?
+
 --------------------
 
 Mr. Frost says in --------(1/18/00; 8:28:03MDT - Msg ID:23104)------------------Mr. Peter Asher; With all due respect, sir, I never stoop to calling people names like your camp has done re Msg. ID 23098 by FOA.FOA; Strange...I have the nagging feeling that what you wrote there (Msg. 23098) hurt YOUR credibility more than it did anything else. For God's sake man, you actually called me a nut! Was
 that really warranted? Does THAT fit the guidelines?
+
 -------------
 
 ALL: "What a bunch of garbage!" He just said that we offer ----half-truths and willful creation of confusion and intellectual miasma on this forum------,,,,,,,,and then says he never insults anyone!
 
 Then admits that in my Msg. 23098 he was the nut referred to. Read my post,,,,,I never referred to him. "What a bunch of ?"
+
 ---------------
 
 And Further:
@@ -18146,6 +18324,7 @@ Again, after all this guy says about our discussion, I am accused of this trash!
 There is more------(01/21/2000; 02:39:57MDT - Msg ID:23334)----------BEESTING: FOA has discredited HIMSELF. Just as you yourself did by standing by a man who's betrayed you.----
 
 ALL: What was that ????,,,, where did that come from? Why am I standing on the same stage and attempting to add to this convention while this "!!!" is saying anything that comes to mind?
+
 --------------------
 
 Now I'm told (by a friend) who he is
@@ -18462,49 +18641,67 @@ Trail Guide (02/11/00; 17:21:28MDT - Msg ID:25055)
 A different view?
 ORO (02/11/00; 13:59:00MDT - Msg ID:25019)
 Aristotle and Trail Guide
+
 ------
 What is to stop the gold markets to regroup and form a new gold banking system?
+
 ------
 Q:
 Please define "gold markets" in the context you use? We need to know exactly what this market is before one can "bank on it"!
 ----
 I would think that - if there is gold there is also someoned to lend it and someone to borrow it.
+
 ---------
 Q: Why use gold to create a lending contract? Would society use gold as a "lend able" account unit if it freezes any further function of their money asset? To date, the history of the past gold systems points that such a function creates gridlock in the banking system. Doesn't this contradict the first purpose of gold: to act as a pay as we go medium, under no contract risk?
+
 ---------
 If there is new gold mined, it will be contracted for future delivery.
+
 ----------
 Q: Again, Why must gold be used? And why the illusion of future delivery in contract form? If society places a high enough value (currency price) on it, a" no collateral financing" would easily create a pay as you go operation, NO?
+
 -------------
 If there is gold of many players in a number of vaults, the gold will stay in the vaults and the title to the gold will trade electronically.
+
 -----------------------------------
 Q: Tell me, do we pay for our gasoline with "stock certificates" of IBM? Or any other ware - housed asset. Would not real estate titles also trade electronically? In this period of high speed trade, digits of anything could do the trick, no?
+
 -----------------
 
 I still say that there is no economic reason, no justification for central banks at all. There is no
 economically useful purpose for national currencies.
+
 -------------------
 Observation: Years of history and the nature of modern society say you are wrong, no? Our use of digital currencies for trade always flows like a river that's strong and wide,,,,, and it always flows to it's end in the sea. The water takes it into the air and rains it again upon the headwaters for another trip,,,,,a new currency starts again. All the while gold is held from it's value as officials grapple with it's position on the currency river,,,,,,,,,, stopping it's use as a wealth asset held by all.
+
 --------------------
 I will go further and state that the purpose of central banks holding gold is so their people remain beholden to the state and the bank cartels it has chartered. The best thing for the CBs and treasuries to do is to unload their gold and cease participation in the financial markets. Individuals
 and private organizations should hold their gold and trade its receipts, to lend and to borrow it.
+
 -----------------
 Observation: Again, society has proven that any and all currencies and moneys that are lent and borrowed,,,,,'soon become corrupted. Even gold itself,,,,,many times! Let gold become an asset of real wealth,,,,,and it will shine as the best background money this modern world has ever seen,,NO?
+
 -----------
 The amount of gold and other PMs can not be insufficient in quantity to for the basis for the volume of trade settlement. It is precisely the point that the quantity of gold matters not. What matters is that it grows with the economy that trades it as money.
+
 ----------------
 Q: What will you do today that is different from yesterday? Can we pass laws that remove human nature?
+
 ----------
 The myth of a living and breathing fiat system. Many have proposed that there is some need in trade and business for the flexible money that fiat allows. I contend that there is no such flexible money, as its cost in trade and to business far outweighs the benefits of flexion.
+
 ------------------------------
 Observation: We want and use this "flexion" today. Is not the only thing missing,,,,,,,,,,a way to shield
 our wealth from the effects of this "flexion"'s inflation ,,,,
+
 --------------------------------
 Fiat currencies do not expand and contract as the markets need. Their mere existence forbids healthy interaction in the markets. The seekers of the conversion of income into wealth and those who must convert wealth into income are forbidden from setting the rates of conversion by the
 existence of fiat currencies. The necessary precondition of a fiat currency is the existence of a monetary authority that controls the quantity and the rate of conversion - the interest rate - at which both monetary and "real" wealth
 coverts into income.
+
 ------------------------------
 Perhaps: But no one ever said that wealth was digits? no? A Western view of a world that's always going mad?
+
 -----------------
 
 (smile)
@@ -18714,6 +18911,7 @@ The above is my point in it's most simple form. I word it this way in an effort 
 
 ------------
 Second, fiat currency is for convenience only and is now truly represented in proper context for all the world to see; all of its weaknesses and limitations are manifested in the relationship between a particular genus of fiat and the POG. If it can come and go as the wind then truly, one should hold equity and wealth in gold and not fiat; exposure to the medium should be minimalized as is prudent.
+
 ------------
 
 TG:
@@ -18750,6 +18948,7 @@ I believe that you have still not challenged the thrust of my argument. That bei
 fail.---------
 
 You write:
+
 ----------------------------------
 ORO
 Under a gold standard and the debt dollar standard as well, the existence of a lender of last resort in one substantial country will cause all international banks to lower their rates or minimum credit rating to make use of the guarantees of that lender of last resort - If they had not, the banks of the country with a lender of last resort would have forced them out of the markets during the boom. This is as much the case today as it was during the turn of the previous century.
@@ -18758,37 +18957,46 @@ For reference in reading the comments below, this note:
 Booms and busts do occur. Debt bubbles occur without government sponsored cartels. What is different is the following:
 
 1. Early failure. The non-central bank gold standard produces a small crash after 4-5 years of overextension. This is long before a gold debt boom made possible by a central bank and government sponsored bank cartel would have fully developed.
+
 ----------------
 Trail Guide (TG):
 How true! But this does not address the aspects of society control in our modern world. We will not allow any system to contract after a 4-5 year overextention. Any "small crash" today,,,,,, if using a gold standard,,,,,,would be countered with an immediate devaluation of the currency (raise
 the nation's, official price of gold) so as to allow the boom to continue. Outside of that remedy ,,, and the loss of currency prestige it would entail,,,,,,, we would just dump the gold system entirely.
 Not my idea of sound operation, but it's what society does today.
+
 --------------------
 
 2. The scale of debt. The natural dynamics of the free banking business is towards caution. By disabling the market's tempering mechanism (it functions through the specie money supply), the cartel can push debt to 15-20 years. The resulting scale of debt would be some 8 fold larger, because the rollover game made possible by the government cartel and the presence of a lender of last resort.
+
 --------------
 TG:
 In a natural dynamic what is the greater fear,,,,,losing your banking capital or losing your banking franchise? There is no method of disabling a markets tempering ambitions. We have not outlawed fear, greed, fraud or war and conflict with each other. Today, if it's official, it's open for negotiations and rule changes.
+
 --------------------
 
 3. The weeding out of weak business. Weak businesses are weeded out much earlier than under a central bank regime.
+
 -----------------------
 TG:
 As above, society today has a way of tolerating it's weeds and always says "oh, let's help them out for a while ,,, it' only just these few weeds". Soon, the boom is on!
+
 ----------------
 
 4. Who benefits. The key motive of a cartel is the elimination of competition by means other than fair competition on the merits of the corporation. The best cartel to have is that of banking. The bank cartel allows endless losses during the establishment of the cartel, until the competition is destroyed. One familiar example to the goldbugs is Barrick. Their growth through the use of
 hedging was very rapid, much more so than any other gold company starting out at their size in the mid 80s.
+
 ----------------
 
 TG:
 I agree! But when you have a nation that loves "Las Vegas" and all that represents,,,,,,, buys dot.com stocks and trades stock options,,,,,,they also enjoy the soap operas of these cartels. Hell, they buy into them, no less! ORO, with this mindset, no nation will tolerate the discipline of having gold as their official money. Yes, it's my loss,, your loss,,,,,,all of our loss!
 
 But,,,there is another way! And it will politically work because it builds on the desires of this mind set, while offering an escape route. You are reading my posts, yes?
+
 -----------
 
 5. Who Pays. The failures of the centrally controlled bank system are swept under the rug and reappear in the form of fresh loans coupled with monetization. In the case of monetization, the "good" securities are purchased by the central bank, adding to the monetary base. The additions to
 the monetary base are leveraged through the bond markets and the banks into a price rise that swindles the saver of the purchasing power of his funds.
+
 ------------------
 
 TG:
@@ -19302,6 +19510,7 @@ quote from the bible,,,,,, "it shall be done!"
 Once the gold market implodes, it will set off a chain of events that will propel investors into using the Euro as a world reserve, come what may. From that time forward any mention of paper gold will be looked at with total disbelief. Anything outside of up front, cash on the head physical trading will be only be found in the back alleys. Euroland will embrace gold with a new physical marketplace that will endorse a bull run in prices like nothing ever seen in modern times. It will not be inflationary anymore than YAHOO stock prices are, precisely because gold will trade as an asset, not a currency. Official BIS / ECB policy will hold that gold is this asset wealth we have been
 talking so long about. This is exactly why they now hold it as a asset reserve outside their Euro and mark it to the market. In the future it will be used to settle payments no different than if one gave another Yahoo shares or the deed to their house as debt payment. But, it will no longer contain an official currency function. The political will to control it's price for the sake of world currencies will
 be gone.
+
 ---------------
 
 So, canamami,,,,,, are the CBs selling gold that -------" " represents in a concrete form the accumulated savings of those who created wealth at a time when gold and currencies were intertwined, and thus dumping it on the market for "multi-use" purposes is a method of frittering away past savings." " ?????? ----
@@ -20351,6 +20560,7 @@ The Western mind does focus on "what I buy today for the lowest price". Yet, in 
 
 Thank you
 Another
+
 --------------------------
 Trail Guide (3/12/2000; 19:58:28MDT - Msg ID:26743)
 Comment
@@ -20390,6 +20600,7 @@ comment
 Leland (03/11/00; 11:44:19MDT - Msg ID:26681)
 Al Fulchino, your 10:44:14 is echoed in the LA TIMES (Grin)
 Is there a positive side to the gasoline price hikes? Phil Proctor, this column's man in Beverly Hills, heard an L.A. motorist tell "CBS Evening News": "I want to pay three or four dollars a gallon. I want to feel like I'm living in Paris." Ooh L.A. L.A.!
+
 -------------------
 
 Leland,
@@ -20403,6 +20614,7 @@ Cavan Man (03/11/00; 20:38:48MDT - Msg ID:26697)
 Trail Guide/Aristotle
 TG: I have read and re-read what you have written this past year many times. The serial along the "Trail" is teriffic. I believe I know now what you mean when you say, one should hold as much gold as, "one can grasp". The grasping is not only a tactile sensation. By grasp, you mean intellectually
 "grasp".
+
 -----------------
 
 Hello Cavan Man,
@@ -20447,6 +20659,7 @@ Comment
 tg (03/13/00; 00:13:13MDT - Msg ID:26760)
 Hedging your bets SLF
 I am getting overly cynical, but when someone says to me that gold is a 50/50 chance of going up or down, it really means that they don't really know which way gold is headed.
+
 ------------------------
 
 Hello tg,
@@ -20480,6 +20693,7 @@ Trail Guide (03/13/00; 08:13:30MDT - Msg ID:26778)
 Comment
 HI - HAT (03/13/00; 05:03:02MDT - Msg ID:26770)
 TRAIL GUIDE HOPE
+
 -------------------------------------------
 
 Hello Hi - Hat,
@@ -20520,6 +20734,7 @@ Trail Guide (03/13/00; 08:42:55MDT - Msg ID:26782)
 Comment
 ORO,
 The interventions now should be to just slow the fall, not reverse it as in the past!
+
 -----------
 ORO (03/13/00; 18:41:32MDT - Msg ID:26797)
 
@@ -20533,6 +20748,7 @@ Trail Guide (03/13/00; 07:01:29MDT - Msg ID:26777)
 Comment to:
 tg (03/13/00; 00:13:13MDT - Msg ID:26760)
 I am getting overly cynical, but when someone says to me that gold is a 50/50 chance of going up or down, it really means that they don't really know which way gold is headed.
+
 ------------------------
 
 Hello tg,
@@ -20630,6 +20846,7 @@ In other words, central banks over the past four years have lost in the aggregat
 That after countless mainstream press articles bemoaning the surety of central bank sales, the Bank of England dishoarding, Dutch and Belgian central bank sales, Canadian, Russian, Malaysian ,Jordanian sales -- and others.
 
 What the mainstream press fails to point out consistently is that while some central banks have been selling, others must have been buying. I want to thank my good friend, Voyager, for prompting me on this subject.
+
 ------------------------------------------------------------
 Solomon Weaver (03/14/00; 21:11:52MDT - Msg ID:26846)--
 
@@ -20654,6 +20871,7 @@ Would any President really want to be the one to do this? When Roosevelt called 
 We look at the divergent paths of gold metal vs. gold paper. When gold paper becomes worthless, gold metal will have value because it holds inherent credibility. But given its very scarcity, that gold metal will need "another currency" to move its value into in order to transact purchases. In a dollar crisis in a digital world, there is really nothing to gain by "confiscating gold"....the primary concern should be to keep the "remnant of the dollar economy" stabile enough that "gold will flow back into it". Perhaps I am naive to believe that our leaders will understand this...if they don't then they are not only fools they are derivatives of fools. I like to hope that this might be one of the reasons why the very intellectually astute monetary mind of Mr. Greenspan decided to stay in power...I think he may be one of the few who understand the problems of foolishness (particularly when viewed in the magic mirror made of gold).
 
 Poor old Solomon
+
 ------------------------
 Thank you for reading
 
@@ -20694,6 +20912,7 @@ Reply
 ORO (3/16/2000; 14:39:54MDT - Msg ID:26937)
 Short replies
 Trail Guide - Do you think this display of reckless money flows of the past two days is the result of the Bankers (that own the BBs) and their facillitators at the Fed and Treasury thumbing their noseat the EU? Or do you think they just lost control for a while? I tend to think the latter.
+
 ----------------
 Hello ORO,
 Yes, I think you are right. But, I don't think they lost control for a while,,,,, we may be seeing the first signs of a runaway system making it's own rules! It's right around here,,,, at this point in the process,,,, is where the shift begins to give the Fed an "all or none" choice. Nothing in-between will do.
@@ -20819,6 +21038,7 @@ Also:
 
 ------------------------------------------------------------
 Trail Guide (3/18/2000; 19:38:09MDT - Msg ID:27056)
+
 -----------------------------------
 Hello, The Victorian,
 
@@ -20980,6 +21200,7 @@ A question for you inspired by a conversation with a well-placed friend of USAGO
 He wonders if there is any scuttlebut about an announcement being made in Vienna that the Gulf will start taking euros in payment for oil (corrected per MK, smile). The extravagant dollar printing goes on almost without interruption. The oil price rises and Europe must convert to dollars first, then buy oil at the jacked-up price -- three times what it was less than a year ago. This has to be a
 tremendous burden on Europe both politically and financially, and I note the quietly proceeding talks between European financial officials and the MidEast.
 What is your take on this? Do you think the March 27th OPEC meeting in Vienna will be the day the Euro speaks with new authority, or just another OPEC meeting?
+
 -------------------------------------------
 
 Hello Michael,
@@ -21145,6 +21366,7 @@ Trail Guide - Inflation Indexes
 Trail Guide,
 
 Or..... we could base it on "Master's Golf Tournament tickets."(Smile!)
+
 ------------
 
 Hello Julia,
@@ -21169,6 +21391,7 @@ Finally, if we truly want a return to honest money, the more gold actually relea
 
 Regards,
 Journeyman
+
 ----------------------------
 Hello Journeyman,
 Reading your post made me think of something I was wanting to say about the "Legal Tender" item. Many readers commented on it earlier when it was brought up.
@@ -21334,6 +21557,7 @@ Journeyman (03/21/00; 06:32:00MDT - Msg ID:27201)
 Paper/gold composite spot
 
 I know we all pay lip service, but at times like this, it's good to remember. Also good to remember, if TC or MK was it? was correct, most of the gold "sold" actually travels around to other CBs, it doesn't really enter the market, doesn't affect the supply/demand equation except psychologically.
+
 --------------------------------------------------
 Journeyman,
 
@@ -21348,6 +21572,7 @@ We must remember that selling a real asset to the public for cash does not contr
 What this modern gold market can control is the value of contract gold. Here they (BBs) do an exceptionally fine job. They sold paper gold to everyone that wanted to only bet on it's price movement, not buy gold. To this end, they took everyone's money and the buyer got nothing in return. Yes, it did play an important role in supporting the dollar while the currency world was in transition. Just as our USAGOLD writer SteveH has said, this gold industry and the contract market it services was sacrificed. But, look at what would have happened if they didn't. Indeed, the time brought was purchased on the backs of gold bugs, not physical gold advocates. One ended up with depreciating paper and the other with an ages old world class money. This isn't the first time citizens of the world such as Farfel learned that "betting" and "owning" are two different things. It won't be the last!
 
 This country is diving head first into a grand hyper inflation and no amount of Fed maneuvers will stop it. People that learn this early on, before the physical comes into short supply, will be miles ahead. Buying gold between $400 and $200 will be like knowing a member with Masters Tickets.
+
 ------------------------------------------------------------
 Enough for now, unpack and lights out. We need our rest because the trail will get rough from here on out.
 
@@ -21568,6 +21793,7 @@ Reply
 reply to da2g
 
 After a long day and night of market thinking (for me anyway), just thought I would toss this quick one in here. Cavan Man's post gave me the thought (smile)
+
 --------------------------------------------
 
 If today I can purchase about $1.00 with my one CHEESEBURGER, and use this currency to purchase about 1/280 OUNCE OF GOLD, then after CHEESEBURGERS run (from price
@@ -21781,6 +22007,7 @@ In short: for a monetary system to work, someone, somewhere, must be able to exc
 7. The system could not work if it was well known even among the top bankers, because their attempts to get into gold for defense against this would have killed the system. Even now, when it is apparent, bankers refuse to believe that their product is as toxic as RJR's and Columbia's main export combined (and they work in remarkably simillar ways).
 
 Finally, say thanks for the low gold and silver prices you are getting and pray that it can continue. Next thanksgiving tell your familly to give thanks to the Germans, Japanese, Koreans, Chinese, Indians, Italians and others who feed and clothe us half the time (actually 56% in 1998, 60% in 1999).
+
 ---------------------------------------
 Some details and discussion follow:
 
@@ -21836,12 +22063,14 @@ New, "would be" physical gold investors are not looking at the gains made from s
 Seeing this, the question is presented: why trade a gold industry security or gold derivative paper when I can make and lose just as much playing the established fiat stock markets? Truly, if contract paper gold is being inflated with supply in order to mask bullish fundamentals on the physical side, why bet on a rise in physical gold using a leveraged derivative? If the world stock markets are in trouble and I need to hedge my wealth, why hedge using an arena that will tend to be manipulated down even more so as equity markets fail?
 
 Further, if this official paper gold market is not the free place we thought it was why not buy the product that's in short supply and the subject of said paper manipulation? In this regard, Physical Gold Advocates are gaining the upper ground of "sound reasoning" as we speak! New investors see through the fog and don't want any part of an investment that's already killing many investor assets. From my post:
+
 --------
 "The distinction between gold stocks, contract gold and physical gold investments is widening as the relative "soundness" of these asset classes is further exposed daily. In the past, as long as all gold vehicle valuations held within a tradable ratio of each other "Trader Gold Bugs" could hide within the "Gold Bug" community and proclaim all the fine attributes of a "physical gold advocate". But this current protracted political involvement in the gold "paper marketplace" is dividing "Gold Bugs" into their two clear different groups and showing their two clearly different reasons to be in gold.
 
 Over the last three years, Trader Gold Bugs (TGBs) have fallen further and further behind "Physical Gold Advocates" (PGAs) as their leveraged investments are more percentage impacted by a falling contract gold system. No longer able to keep quiet, the pain that their leverage brought them is forcing an ever more vocal (and irrational) response to the movements in gold prices.
 
 Every $2 drop is seen as a total failure of gold and every $2 rise as pathetic and proving how gold is done in for the count. Truly, these are the perceptions of investors trading either a "Paper Gold Market Place" or a leveraged "Gold Industry". Not the feelings of a Physical Gold Advocate holding a sound world class financial asset! One that's holding it's own strongly in the face of massive official manipulation." " "
+
 ----------------------
 This full post was aimed squarely at the failed paper gold investor of the past. Whether buying into the gold industry or the contract gold arena, the flaw in this strategy is that leverage gold today is and has been for some time opposed to official policy. An investor can "wait out" this policy time frame or buy directly into the part of the gold market that cannot be controlled. Physical gold!
 
@@ -21895,6 +22124,7 @@ Trail Guide EURO
 Hello. I am looking at analysus that focuses on possibility that Euro's downtrend portends value crises of this currency. It seems that all the prognostications of the dollars future are what is exactly happened to the Euro. Since its inception it has steadily lost value, and now appears at the crossroads to go down more.
 
 This it semms is the only major currency arena where the price of gold is in a bullish uptrend. In a world already saturated with debt financed stuff, it seems any fundamental competative advantage of lower Euro, will still net out very negatively against increased costs for oil,electricity,etc., in Euroland.
+
 -------------------------------
 
 Hello Hi - Hat!
@@ -21961,6 +22191,7 @@ Is their report incorrect.?. If not, why do you (FOA)
 continue to tout the Euro so highly.?.
 Cordially
 ThaiGold
+
 --------------------------------------------------
 
 
@@ -21999,6 +22230,7 @@ Besides, who's fooling who about the Euro? Quoting from today's WSJ currency pag
 
 --------
 "Even after the expected increase (talking about ECB Euro rates), the Central Bank's main refinancing rate would remain well below those in other western countries - at 3.5%, compared with 6% in the US and the United Kingdom".
+
 --------
 
 The Euro is weak? Give me a break? Some posters here only look at the exchange rate to see a currencies strength. That's good for the "trader crowd", but it doesn't begin to address the fundamental forces that truly impact a currencies real redeeming qualities. We are talking about real world "use" and the cost to implement that "use" in business. At these rates the Euro is smoking the dollar, hands down. Can you imagine what the exchange rate would be if Euro rates were raised somewhat close to Western rates?
@@ -22027,15 +22259,18 @@ Mr Gresham (04/25/00; 09:47:57MT - usagold.com msg#: 29313)
 Trail Guide #29301
 
 think we could re-finance the house in Euros? Before the rush begins?
+
 ------------------
 TG:
 Oh, lord no! Not if you live in the US (smile). I think one could just buy some well located (in a safe area) homes financed in dollars (or cash (smile)) and hold them for the great run. I have done just that and am adding.
 If one can buy (a home) in Euroland, plan on using it, not selling for dollar profits. I fully well expect big time exchange controls as this blows up. This is the same reason many investors save in Euros (and other currencies) in addition to local dollars. They don't bet on it (Euros) because it's a long term hedge as is.
+
 ---------------
 
 Of course we'd have to hedge the future Euro/dollar rise, since we earn in dollars. That would be a call on Euros, or maybe a put on Tbonds (call on TYX). Just throw us on that $80 trillion derivative heap. Of course, we'd be first in line for collecting. Not!
 
 Then we could broker our neighbors getting in on Euro re-fi's. Get our own Euro carry trade going.(Just think of the fees!) Oh, but the unwinding (big grimace!) ahead!
+
 -------------
 
 TG:
@@ -22048,6 +22283,7 @@ Trail Guide (04/25/00; 17:58:32MT - usagold.com msg#: 29341)
 Comment
 Cavan Man (04/25/00; 08:12:34MT - usagold.com msg#: 29302)
 Trail Guide.......Still with you....CM
+
 --------------
 
 Thank you Cavan Man!
@@ -22074,6 +22310,7 @@ WAC (Wide Awake Club) (04/25/00; 08:31:17MT - usagold.com msg#: 29304)
 Sterling
 
 WAC (Wide Awake Club) (04/25/00; 08:15:20MT - usagold.com msg#: 29303)
+
 --------------------------
 Hello WAC!
 
@@ -22086,6 +22323,7 @@ And he is so right in his perception. Just as you quoted: "It is just some big a
 It seems like the entire dollar thinking world is on some new level of perception. Yet, their treasuries (and CBs) are just bankrupting everything that's left of the system and doing it in double time now.
 
 Thank you for your realistic views in (usagold.com msg#: 29304).
+
 -------
 I think the key word here is FUNDAMENTALS. The UK economy is been completed decimated. ---------
 
@@ -22282,6 +22520,7 @@ Cavan Man (05/06/00; 20:07:56MT - usagold.com msg#: 30063)
 Hello Trail Guide
 Two questions please:
 1.) Will you tell us of your favorite gold stocks?
+
 --------------
 I once said one and will hold back from mentioning it (or others) again. The Western view says that if I have $100,000 to put into hard assets, I'll buy ten ounces and place the rest in gold stocks. I doubt most people could hold that ratio through what is most likely coming.
 
@@ -22298,6 +22537,7 @@ Trail Guide
 Trail Guide (5/7/2000; 0:09:23MT - usagold.com msg#: 30082)
 Note
 TownCrier (5/5/2000; 21:00:38MT - usagold.com msg#: 30028)
+
 -----------------------------
 If they are giving up their own ability to print money, why all the trouble to form a new currency unit instead of just joining the dollar and the currency union of 50 states plus assorted banana republics that use the dollar? The reasonable answer is that the intended objective is a
 fundamentally new monetary architecture not available through the current dollar system.------
@@ -22722,6 +22962,7 @@ Great post! A few comments:
 -----------
 ORO (5/25/2000; 6:21:15MT - usagold.com msg#: 31228)
 BTD, TC, TG, Solomon - gold and paper The paper markets provide an investor with a means to play the price of gold. They do not reflect directly the availability of gold, just the availability of paper obligations denominated in gold.
+
 ---------------------
 
 Your part above brought me back to a subject I only touched on before. When all the gold loans were a big rage a year ot two ago, no one really bothered to confirm if the loan money the mines got really came from "sold gold". The media and Bullion houses said it was, but was it? The price said it was, but did the price fall from physical selling or was it just some physical and mostly paper derivatives?
@@ -23235,6 +23476,7 @@ I'm going to place this post on the Gold Trail with reference to my discussion p
 
 Thanks
 Trail Guide
+
 ---------------------------------------------
 Trail Guide (6/2/2000; 9:31:57MT - usagold.com msg#: 31682)
 Gold,,,, OIL,,,,, and EUROs,,,, All up!
@@ -23414,6 +23656,7 @@ the Euro Zone will move quickly to establish a "no contract" arena of it's own a
 
 Will it last? Ha! Ha! I am always struck by that question being put to me from an stock / futures day trader type. People who plan their investments on a one to two day / year time frame but downplay the Euro because they don't see it's gold policy supporting it for more than ten years! (frown)
 But then, we can't all hold physical at the turn, can we? (smile)
+
 --------------------------
 
 Well, I'll be going for a while. It'll be a week or so before I leave. I hear there are some big gold
@@ -24473,6 +24716,7 @@ Reply
 Al Fulchino (09/03/00; 19:38:42MT - usagold.com msg#: 35953)
 Trail Guide
 I many have missed a response to the post below, I have searched a couple of times, but to no avail.. However....any comment would be appreciated.Al Fulchino (08/21/00; 19:16:50MT - usagold.com msg#: 35277)
+
 --------------------------------------
 Hello Al,
 
@@ -24597,6 +24841,7 @@ My Questions:(08/20/00 msg#30)
 You stated, "If this continues further, and now with the blessing of Europe, it's the paper longs that may be had as the shorts are let off the hook as the market is destroyed!"
 
 After having read Howe's excellent commentary and also Murphy's, is it your implication thatDeustch Bank is absorbing the derivatives in order to prevent Euro "bleeding" or is there another context to this statement?
+
 -------------
 
 Mr. Law, I fully well believe all the following:
@@ -25188,6 +25433,7 @@ Markets
 ------"As the meter runs on California's electricity crisis, shock over this summer's price spikes is giving ,,,,,,,,,,,
 
 Geez - what a quandry! The free market is intersecting with our collectivist friends in California.
+
 -------------
 
 Hello ET,
@@ -25266,6 +25512,7 @@ shared knowledge and analysis logically leads people to similar conclusions. Sor
 
 ----------------------
 I never thought of that as drifting. Sounds more like thinking (smile).
+
 -----------------------
 Your post:
 
@@ -25291,21 +25538,25 @@ Even deeper; again,,,,, if gold is used as a currency it has no fixed value even
 I hope I'm not drifting alone here (smile).
 
 From your post:
+
 -------------------------------
 But when you go on this line of reasoning, you are confronted with a major question:
 
 What would EU put as a currency value on that one ounce gold coin? Now that's something to think about. . . . . If you do not put a currency value on it, you make exchange risk a factor in every transaction. I don't think that's what Mundell has in mind, though I could easily be wrong on that.
 
 Am I missing something here, FOA? Each method provides its unique advantages and disadvantages.
+
 -------------------------------------
 
 But Michael, exchange risk is inherent in everything we own. Only a currency system that can recognize and base itself on the flexible nature of gold value can survive in the long run. As a high speed, modern, global trading society we are not going to drive digital currencies away because gold is becoming more valuable. If that were the case we would already be using stock certificates to buy our groceries (grin). FreeGold will allow us to use the timeless traits of gold wealth to protect ourselves from currency inflation.
 
 From your post:
+
 ----------------
 I'm with you all the way on this being a trial balloon. I think there are those in Europe who know what it's going to take to overcome the euro's problems and what better way to float the gold euro idea than through a Nobel Prize winner who happens to know what he's talking about. In the recent
 interview of Judy Shelton (another economist I admire) by Robert Novak, she mentioned that gold was going to make a comeback as the international arbiter of value because it is the only true international money -- money without a country, as I have said before. She said gold was perfect
 for the direction the world was going -- breaking down international trade barriers, etc.
+
 ----------------
 
 Yes, I think we are well on the way to using gold as an international free asset in monetary affairs. The difference this time is that the next reserve currency has learned to use gold in the same way we have,,,,,,,, by allowing it to protect their system from political tinkering. Rather than use gold to force responsible currency creation through currency denomination of it's weight (something that
@@ -25313,6 +25564,7 @@ history has shown will always fail),,,,,, FreeGold will make the very best meter
 
 -------------
 again, your post:
+
 ---------
 
 Another thought, FOA. . .
@@ -26205,6 +26457,7 @@ I think exactly opposite.
 There's no way I would touch paper gold till after this coming correction. All the signs are there that paper gold is slowly being destroyed. To commit assets to paper gold in front of a meltdown is a lunacy.
 
 After the washout perchance it will be different. But to do so before is pure gambling.
+
 -----------------------------------
 
 Steve,
@@ -26264,6 +26517,7 @@ Trail Guide (10/19/2000; 5:48:31MT - usagold.com msg#: 39387)
 Hello all!
 
 I have a few replies / comments:
+
 -----------------
 HA! HA! This is good! You know, there are only a hand full of people that know I post here and one of them just sent me this comment. I had to share some of it with everyone. It went like this
 
@@ -26271,6 +26525,7 @@ HA! HA! This is good! You know, there are only a hand full of people that know I
 auspec (10/18/2000; 17:27:06MT - usagold.com msg#: 39342)
 WE'RE BAAAAACKK!/ Peter Asher
 What say you fellow {half} wits??????????
+
 -----
 His how his note to me was: What the hell? That auspec has some nerve. I spent years trying to move from 1/4 wit up to the 1/3 wit level! Now I have to orientate my goals to reach his 1/2 mark to enter that select group. Well they can stick it, I won't live long enough to get there!
 ====================
@@ -26309,11 +26564,13 @@ A Fireside Chat
 Let's settle by the outdoor hearth for heat and conversation. I even see Michael Kosares back there with a warm cup. The fire is aglow,,,,,, the talk is about the trail before us:
 
 Aristotle, said this today:
+
 --------------------------
 Aristotle (10/19/2000; 5:44:45MT - usagold.com msg#: 39386)
 Do you heed your own advice? Thoughts on Trade deficits--big and small
 
 """""As for the U.S., we are in a unique but temporary position in which we haven't yet had to pay the full price for our past trade deficits. Until that day arrives (with severe currency devaluation), we might be inclined to stand the old terms on their heads and describe our current trade deficit as a FAVORABLE trade position because we are receiving real goods and services from other countries with partial payment (required in excess of our own exports) made in typically depreciating paper of our own easy creation.""""""
+
 -----------
 
 Aristotle,
@@ -26406,6 +26663,7 @@ SteveH (10/21/2000; 5:03:21MT - usagold.com msg#: 39550)
 Stuff
 http://www.the-privateer.com/gold6.html
 Snippet from above link (even the-Privateer is getting on the Euro for gold band wagon now):
+
 -----------------------
 
 Hello Steve,
@@ -26478,6 +26736,7 @@ Some people think I'm MK (hello Michael (smile)). Well, in my current time and s
 "NO! NO! he's Michael Kosares, very famous and photogenic ,,,, but I don't think he's been in hollywood" ,,,,, Who's the other one ,,,,,, standing kind of in the shadow?"
 
 OH! OH!, I know I've seen him before,,,,,, can't think of where,,,,,, Now I know,,,, saw him the other day ,,,,,,, He's Michael's ,,,,,,,,,,,,,, gardener?????????????
+
 ----------------------------------------------
 
 HA HA, talk to everyone another day, on the trail.
@@ -27738,6 +27997,7 @@ I think (smile)?
 You know, both Bush and Gore are good guys. I bet they are at least equal to the best members of your family "in laws" (huge grin)!
 
 Below, I'm perhaps saying the same things in several different ways. Give it some thought?
+
 --------------------
 
 All of us are them,,,,, those two guys!
@@ -28099,6 +28359,7 @@ Hello PH in LA, I read your #45071. PH, nice construction of the way it works. H
 ------ I declare my intention to accept delivery. At this juncture, (as the system is presently functioning) I would eventually receive my gold.-------
 
 ------Now, for a physical market to open up separately as FOA forecasts, the paper based futures market would have to vaporize instantly. Otherwise, anyone noticing that prices were higher on the physical market, would merely opt to stand for delivery and sell the delivered gold there. Far from causing the futures market to fall farther, it would merely explode higher as investors took delivery at Comex and sold it on the new Euro physical market.-------------
+
 -----------
 
 PH,
@@ -28699,6 +28960,7 @@ To FOA. . .A challenging question from the C-Man. . . .
 
 Michael,
 Thank you for inviting me up here, on stage. I'll offer some frank discussion to Mr. Cavan Man's challenging question. Only, I hope my oratory doesn't drive the audience from their seats. (smile)
+
 ---------
 
 Hello everyone,
@@ -28850,6 +29112,7 @@ We have a whole generation,,,, even several generations,,, perhaps, yourself inc
 
 With this almost national perception of a false "net worth purchasing power" and with our ability to borrow more into said net worth, our perception's impact,,,,,,, as a whole,,, on society's money culture cannot be resisted. Yet, all this proceeds as our fiat values, in reality, are transitory and always have been. It's just not understood as a natural process. We see it in all our conversations, at home, at work, at play and on the internet. With such a well grounded belief:
 ----People are reduced to playing a game with their wealth, instead of employing it to create a better standard of life. A better standard based more upon the security of ownership, now, than upon some quantity of purchasing power who's future value conversion is unknown.------
+
 ----------------
 
 (another pause and a sip)
@@ -28875,6 +29138,7 @@ But, the first two guys observed and asked:
 Oh yeah,,,,,, we will later buy them,,, said the traders,,,,, besides, I got a 1/4 shoe now,,,, that's a start. And, by holding these tiny shoe laces, we can stand here and fit in with all you well heeled players (grinning like Texas Westerner on an oil well ). Look, I'm in this to make money,,,,, it's just a concept like all the others I follow. I do the same thing when I'm with other "conceptors" of the same ilk,,,,,, I talk their talk to understand their concept. But, I really don't need your gold as long as I got my paper profits.
 
 OK, said the two guys with shoes. We don't mind your talking with us, so long as your perceptions don't distort our end purpose of having good shoes,,,,,,, and just don't complain when your company's value can't equal the worth of good shoes on the hard road before us.
+
 ------------------
 
 Further to consider,
@@ -28915,6 +29179,7 @@ He planned to make sure his brother was properly buried, claim what he believed 
 Despite two bouts of yellow fever, Schliemann persevered, and in nine months he made more than $400,000, some of it legitimately. He returned to St. Petersburg in1852, using his Gold Rush fortune to make an even greater fortune in the Crimean War. And his money allowed Schliemann to indulge his real passion in rchaeology -- and preserve himself a place in history.
 
 In 1871, Schliemann, using Homer's "Iliad" as a guide, began digging in what is now Turkey, and found the lost city of Troy. A German merchant with a penchant for prevarication spurred the growth of modern archaeology and found the gold of an ancient era -- using the gold of California.
+
 -------------------------------------
 
 Oh boy, what a life, what a story?
@@ -29025,6 +29290,7 @@ DAVOS, Switzerland President Vicente Fox of Mexico said Thursday that the U.S. e
 "The slowdown in the United States could affect our projection of 4.5 percent growth in 2001, but we want to substitute it with more European trade and investment and make use of the recently signed trade agreement between Mexico and the European Union," Mr. Fox said Thursday night in an interview in Davos with the International Herald Tribune.
 
 Mr. Fox said he would soon visit France, Britain, Germany, Spain and Switzerland to promote Mexican exports and to seek fresh European investment in Mexico.----------------
+
 -------------
 
 HA! HA! Well, Michael, CMan, what do you think of my rambeling on? Can't you just see Britain wondering why they are coming in the front door while Mexico is running out the back? Oh Boy!,,,,Here comes Fox, a smart cookie I might add, signing trade expanding pacts with EuroLand because he can't make his numbers with the US. So what is England going to trade to us that could undercut Mexico? Makes you think, right? (smile)
@@ -29218,6 +29484,7 @@ But, you thought silver was more in style as a coinage then, because so much of 
 
 ------------
 (My thanks to The Smithsonian Institution, Doug Smith and many, many others that have, with the advent of the internet, placed so much of this research in public view. Also thanks to all those that have educated me over all these years)
+
 -----------
 
 I'll read several partials from these written pieces:
@@ -29236,6 +29503,7 @@ PARTHIA:
 ------------- *** Their coinage formed the medium through which western, in particular Greek, ideas of coin design were transmitted, and transmuted, in the Middle East from the Euphrates to the Indus and beyond. The Parthians developed one of the first recognizably feudal systems on record- which was transmitted to the Sassanians, and thence to the Arabs. **** The Persian epic history is now thought to include lengthy portions from the Parthian era - the Parthians had a great oral tradition, in keeping with their nomadic background, and greatly valued BARDS and story-telling. The Parthians also left a legacy in art and architecture, creating a style that mixed Hellenism with native Persian influences, particularly in ornamental metal work. There is even a small literary legacy with the "Parthian shot" - a phrase taken from Parthian horse-archer tactics in which the archer would feign flight, and, while riding away, fire over the back of their horse -----------
 
 ---------Their economy and success was based on taxes paid by traders using the 'Silk Road' that connected Rome and the West with China and the East. Parthian finances depended greatly on Rome's failure to make direct contact with China until the late second century AD. Parthians were known for being men of their word and their coins continued to be issued with fair weight of good silver long after Roman silver coins were being debased.------------------
+
 --------------------------------
 
 Well;
@@ -29376,6 +29644,7 @@ The real leverage today, is found in the "hunk" of real gold in one's hand. That
 ---------
 Black Blade (02/06/01; 06:31:56MT - usagold.com msg#: 47549)
 I feel let down by Harmony (HGMCY),------------
+
 ----------------
 
 Buy a real physical gold value,,,,,, today,,,,,, for free,,,,, by just paying it's currency commission as a full price. The future is for all who can see ahead,,,,, down the trail. (smile) The "Advantage" of holding real gold has never been better!
@@ -29588,6 +29857,7 @@ would do that?);
 because there is just too much of it for the purposes for which it is being used.); and,
 
 (5) there is a shortage of gold production compared to that used in jewelry fabrication. (But this is meaningless because there is more than a fifty-year supply above ground. No other commodity except silver, which has also played a monetary role has even a one-year supply above ground.)
+
 ------------
 
 ------- There's more to this, but you get the point. Since these perceptions are wrong and people are recognizing that they are wrong, as the older generation passes, inheritors are getting rid of their gold. Gold will have its day when the fiat dollar collapses and people once again demand
@@ -29629,6 +29899,7 @@ After giving my talk about "the curve" (along with other talks), I hope that at 
 I'll use some things from the Carl H post the other day (Carl H (02/07/01; 20:05:56MT - usagold.com msg#: 47727)
 
 Hi Carl, I'll comment first them start into your post:
+
 -------
 
 From where I sit:
@@ -29671,13 +29942,16 @@ So, the dollar got support from CB's holding more of it as a reserve,,,,,, the d
 
 The next part of the play came as world paper gold traders starting making use of a good thing,, falling dollar gold prices! Never mind that the real gold movement behind the paper market was becoming a tiny fraction of this paper trading. Never mind that the dollar would eventually step back from world reserve status,,,, changing the settlement function of our paper gold market overnight and killing everyone's paper holdings. They said:
 ----"Why,,,, we know why gold prices are falling, the CBs of the world want it down,,,,,, but we don't believe all this talk of Euro success",,, "there are a hoard of other reasons", "besides, we are making tons of money playing this paper game"!-------
+
 ------------
 
 Now, I'll pause to introduce some items from Mr. Carl H's post.
+
 -----
 Section 1 -- Bullion Banks Establish the Gold Carry Trade
 
 From what I have read, it seems that a few years ago a number of Bullion Banks started borrowing gold at interest rates of around 1% from Central banks. This gold was immediately sold on the spot market and the money and invested it in higher yielding investments. This type of operation is referred to as a carry trade. This practice went unchecked and has reached a point where at least 6000 tons and probably as much as 10000tons of gold are owed to the central banks. To put these numbers in perspective, annual world wide mine production is estimated to be about 2500 tons.
+
 -------------
 Thank You Carl.
 
@@ -29710,6 +29984,7 @@ Section 2 -- Lining up the Gold to Unwind the Carry Trade
 I consider the above paragraph to be fairly well established information. Now, I will speculate for a moment. If I were the bullion bankers and was in this situation, I would want to get my hands on a tremendous amount of physical gold at cheap prices. As far as I know, only the central banks and mining companies have large amounts of physical gold. In the case of the mining companies, it is still in the ground. I will assume here that the central banks would be very reluctant to let the bullion banks default. It would show how stupid or corrupt the central bankers are and it might be a big enough scandal to change the outcome of some elections. Ok, so this means that I have to convince the mining companies to sell me all the gold they produce for the next several years at prices close to what they are currently. So, how would one go about convincing the mining companies to sell their future production? Youíd either have to convince them that the price of gold was going to stay low for the period of time for which you wanted them to sell you the production or you would have to coerce them into selling future production. To accomplish this, you would have to convince them that there was a large supply of gold that was going to be dumped on the market. As stated above, the only other large holder of gold is the central banks. So, you have to convince the central banks to drive down the price of gold and act like they are ready to dump much more gold.
 
 So, the question then is how to separate a central banker and his gold. Simple, create a potential crisis of a magnitude that it will force him to sell gold to prevent it. This is easily done by simply writing a huge gold call options (or surrogates thereof). Then, if the price of gold rises, the Bullion banks will fail and probably take the financial system with them. This compels the central banks to cap the price of gold at a level that less than the cost of production for many mines. This forces those mines to hedge or go bankrupt. The Bullion Banks can then acquire the forward production at prices near the cost of production, or to acquire the bankrupt mine. What is even better is that hedging will help hold down the price and force other mining companies to hedge.
+
 --------------------
 
 OK,,,,,,,,,, again thanks Carl.
@@ -29880,6 +30155,7 @@ Reply
 
 R Powell (2/12/2001; 9:13:48MT - usagold.com msg#: 48083)
 Harmony hedge
+
 -------------
 
 Rich, we still are on different channels. Let me take another poke at it (smile). From your post:
@@ -29893,6 +30169,7 @@ Ok, I completely and totally agree with that item. The premium that H paid to bu
 Ok, the bank gave them a bunch of cash to spend on infrastructure. As H makes money from their business plan they will pay back this loan. next:
 
 --------The bank was worried that Harmony wouldn't be able to repay IF POG sank lower SO the bank required some insurance of the Harmony's ability to repay. ------------ Harmony bought the right to sell gold at a future date at a set price. They own this right, it is NOT an obligation.
+
 -----------
 
 Ok again!
@@ -30183,6 +30460,7 @@ From his post of: Chris Powell (2/13/2001; 21:20:26MT - usagold.com msg#: 48208)
 But then what of people who invested honestly both in gold paper and in mining companies under the misapprehension that the ordinary rules would be followed and that there was a free market in gold, the free market that their governments told them there was?"
 
 Note: please real all of his post.
+
 ------------
 
 Well people, all the "gold positions" I mentioned above are, indeed included in those very same derivatives he speaks of! Sure, "Gold Bugs" speculate on them, make and lose big money. But, most conservative "Gold Advocates" never consider them as the place where one buys gold?
@@ -30591,6 +30869,7 @@ Standing back across the row, I asked a physical gold advocate what he made of a
 The rules of play, using Casino Chips instead of real gold, are all right out in the open just as the gold market we used to know becomes little more than a shell game. A Dollar Gold Casino, if you will, and the gold bugs don't want to leave it. If they can't use "near gold" to play with, they won't play at all. So, their whole advocating of the gold story is just talk. They stay right with trading fiat assets instead of gold even as their market slowly fails their purpose.
 
 It's almost as if they didn't really want gold wealth in the first place. I see it as if they want everyone else to make physical gold worth more so their fiat based assets can grow? God awful logic for a gold advocate, but then again, they aren't gold Advocates? These are the new breed, aren't they? Fiatgold bugs? Well, I write it all off as the Gold Bugs can't see the difference anymore and still crave playing in the same house, using the same house rules. Most of them would rather the government keep the fiat going at the expense of just a little higher gold price. Say $500? Just enough to make their fiat grow. Instead of advocating holding bullion wealth and a freegold market to crash the old system. Ha! Ha!, These guys even want those in charge to change the rules back into the players favor, bankrupting the house in the process! There is no chance in hell of any casino doing that to themselves. It'll only happen when the casino's credit is taken away. And that process is in the works, don't we know! That's why I am a physical gold advocate. My time will come as the fiatgold bugs go broke with the casino. I guess it's the nature of life that we go down with the ship we sail."""""
+
 ---------------------------
 
 Will it all pass as this gentleman presents it? I sure do think so.
@@ -30801,11 +31080,13 @@ This shift revolved around the major world political players and their use of in
 Even more so, it's all about the illusion of wealth that manifests itself so well at the very end times of major currency failures. Perhaps this is also a fear hidden in the Euro skeptics. The possibility that they will one day lose the wealth and lifestyle their dollar valuations afford them. Once again, the simple are warned from wise words, "your wealth, it not what your dollar say it be"!
 
 Onward!
+
 -------------
 
 It wasn't always this way.
 
 Gold, that wonderful metal that has all the unique qualities to function as our one and only wealth medium, and we just can't use it without altering it's purpose. You know, the Lydians had it right, back around 430 BC. They didn't struggle with the concepts of money, like we do today. They just stamped whatever pieces of gold they found laying around and kept it for trade. There was no need to clarify for certain that their gold money needed properties of "utility", store of value, medium of exchange, etc. etc.. They didn't need to identify these qualities were in gold before they stopped questioning if it was safe to use gold as savings. Gold was owned and the knowledge that people owned it and carried it for trade was alone enough to make it "worth it's weight as wealth".
+
 -------------
 
 Why then and not now?
@@ -30837,6 +31118,7 @@ Many hard money philosophers have pointed their finger at others for the fiat si
 Over time and life spans gold has been brought into official use countless times. Only to be bastardized by forces, we as peoples can never control. After every failure and ruination of much wealth, the cries always return to bring gold back as money. Once again to begin the long hard road that leads to the same conclusion. Gold coins then bank storage then gold lending then gold certificate use then lending of certificates then certificates are declared paper money then overprinted then gold backing removed then price inflation then,,,,,, we begin again. But this time it's different the hard money crowd say. Yes, it is. Only the time has changed.
 
 For the better part of human existence, gold alone has served all of the best functions of tradable wealth. But as soon as we call it our money, human nature takes over. Yes, we can call it a stock or a bond, a piece of land or a painting, a car, boat or antique, but just don't label it as money.
+
 ---------------------
 
 Up the hill and thru the pass!
@@ -30899,6 +31181,7 @@ I thought it would be a good idea to make some clear comments and replies regard
 Auspec makes several points and contention for me to address. Please read his complete post first (and all the others I'll address). Hello auspec, you write in reference to my hike #61 here on the trail:
 auspec (4/19/01; 08:48:52MT - usagold.com msg#: 52175)
 -------*If the dollar's status is now so similar to what it was in 1971, why would we see the Brazil type hyperinflation now as opposed to the simple ongoing degredation of fiat that we have all come to know and hate? Why the extreme portrayal of the dollar? It's clear the dollar is an old toad and there are young stallions waiting in the wings, but it's hard to see this as an all-or-none issue where the dollar {banana} goes from being the world's reserve currency to being "nada". Where's the middle ground with dual and competing reserve currencies in common use?*
+
 --------------------
 
 Well sir, I'm going to try and reply in context to the way you asked these questions. Considering well all your prefacing stated before asking for info.
@@ -30915,6 +31198,7 @@ Some hard money people thought that the world would simply convert to gold itsel
 There were times when our foreign trading partners were thinking of breaking away. This is when the US spiked rates. Again, we confuse this action with stopping the inflation presses. Quite the contrary, the killing rise in rates was just a signal that we would not go completely hyper. On our side, the only reason we could afford to take this economic killing gamble was because oil was still priced and settled in dollars. But that is a whole Another book.
 
 The prestige of many international dollar holders took a real bath because they held dollars in place of gold. When they tried to initially bid for gold, the US and London made sure the price rose fast enough to tell a story to these dollar converters. That is; "bid for gold and it will soar" cutting off your conversion. Sure the US made all sorts of noise about how awful and incorrect the rising gold price was. Even showed their hand at managing the price a little so it didn't go up too fast. All the while saying they were fighting for all they were worth to keep it down! Truly, the last decade shows naive Gold Bugs just how much in control they were and are of this so called "free commodity market in gold". Oh well, back to your point.
+
 ---------
 
 You see, the dollar is going to fail now because a good alternative is available now. All this has something to do with the coming new gold valuation, but that new price level is not related so much to gold backing a currency again. (more on that in a min). The dollar is toast because most of the world doesn't like the management policy. They didn't like it in 71, but tolerated it because gold was suppose to keep flowing in repatriation payments. And if they didn't like it back then, they god awful hate it now!
@@ -30933,8 +31217,10 @@ When most of the major players that styled the Euro decide to swing even 1/2 sup
 Right now, the actions of our fed is telling this truth. We must inflate while we watch the Eurozone enjoy it's basically internal trade economy. As other nation blocks embrace that zone, they will pull economic function from us.
 
 You write:
+
 ------
 *Comments: Again it is easy to see the dollar as losing a large piece of the action, but hard to see its total demise or its falling out of use. The US as the largest military force in the world certainly has its overriding benefits. The US has enormous resources; physical, financial, and spiritual. American creativity and "know how" has changed the world. This country will not turn over and simply give in! Let's look forward to the next 5 years and place probabilities on what is likely to happen as far as the dollar/euro is concerned. I will rank these various scenarios in what I see as their most likely odds of happening:
+
 -------------------
 Auspec, before I list your most likely odds, I would like to comment on your above.
 
@@ -30946,6 +31232,7 @@ I point out that many, many other countries also have the same "enormous resourc
 attributes and requiring the use of other nation's as well. Not unlike Black Blade's Kalifornians sucking up their neighbors energy supplies (smile). We cannot place your issues up as example of our worth to other nations unless we crash our lifestyle to a level that will allow their export! Something our currency management policy will confront with dollar printing to avert. Also:
 
 NO, "this country will not turn over and simply give in" as you state. But, we will give up on our currency! Come now, let's take reason in grasp. Our American society's worth is not it's currency system. Around the world and over decades other fine people states have adopted dollars as their second money, only to see their society and economy improve. Even though we see only their failing first tier money. What changes is the recognition of what we do produce for ourselves and what we require from others to maintain our current standard of living. In the US this function will be a reverse example from these others. We will come to know just how "above" our capabilities we have been living. Receiving free support by way of an over valued dollar that we spent without the pain of work.
+
 --------
 
 Your "various scenarios" with mine notes added :
@@ -31189,15 +31476,19 @@ AMMAN — Arab member states party to the Euro-Mediterranean Association Agreeme
 
 --------
 The meeting, to be held in Brussels, will also examine the harmonisation of rules of origin amongst the Arab partners as a first step towards achieving the trade area.
+
 ---------
 
 The Jordanian-EU bilateral agreement was developed under the Euro-Mediterranean Partnership, a governmental forum comprised of the 15 EU member states and 12 Mediterranean countries, including Jordan.
+
 -----------
 
 The 1995 Barcelona Process which established the Euro-Med partnership, calls for gradual trade liberalisation between members, with the ultimate goal of establishing a Mediterranean free trade zone.
+
 -------
 
 Meanwhile, European imports will be granted preferential treatment depending on the agreed schedule of reducing tariffs.
+
 -------
 
 
@@ -31243,8 +31534,10 @@ My friend, you should also read your scholars books again, for they tell the ver
 ==============
 Elwood (4/22/01; 11:17:14MT - usagold.com msg#: 52335)
 Trail Guide You write:
+
 -------
 We never intend to have two moneys. The concept is better seen as the Euro and a wealth reserve. Still, to defend against your thrust, what do we have now? Travel the world, my friend and mingle in the world of currency. In almost every country of the planet there are several prices for ever good sold! All depending on what nations currency you choose to use. Today's system is working with perhaps hundreds of moneys!
+
 ----------
 ---does the ECB intend to hold works of art, boats, land or any other wealth items as part of its reserves? Will they officially mark their currency against any of these other wealth items? Can you understand my skepticism regarding this attempt to "un-money" gold? -------------
 Hello again Elwood,
@@ -31257,10 +31550,12 @@ The ECB is using the current leveraged paper gold market as a way to force the d
 Elwood, they are not trying to Un-money gold! They are going to un-Westernize gold so it performs it's historic function of acting as a tradable wealth holding. No longer following the Gold Bugs view that governments need to control gold so it acts like real money in the fiat sense. Truly, the BIS and ECB are today "Walking In The Footsteps Of Giants"!
 
 Elwood writes my words then comments:
+
 ---------
 "Now, consider that all wealth is represented in and of itself. You cannot reproduce wealth through substitution, like giving someone five pieces of copper for one piece of gold and then have then think they now have five pieces of gold! This is the process we try to perform within the realm of man's money ideals. We have always debased trading wealth by duplicating it into other forms and calling all of it, collectively, "our money".
 
 This duplicating, this replicating, this debasement is the result of taking the concept of a credit /contract function ( paying in the future) and combining it with the concept of completing a trade at the moment. Think about that for a moment?"
+
 --------------
 Yes! This is what we need to fix. As long as man believes that he can (without cost) create value, capital or whatever by making a bookkeeping entry in a ledger, we will live in a world possessed by the ìcopper into goldî illusion, no? But there is nothing wrong with credits and contracts as long as they are backed at par by real money, because there is no illusion in this. We are capable technologically of creating such a system, and we will have a prime opportunity politically when the dollar reserve function dies.
 Sir Elwood,
@@ -31268,8 +31563,10 @@ Today, our perfect gold system has been bastardized into it's current form. Over
 
 
 Again Elwood writs my words, then his:
+
 -----------
 We all need and must use some form of fiat currency to operate in this modern world. It makes little difference if MSFT went to $10 or $10 billion, you would still use the fiat currency system in trade as a more efficient form of modern trade. Society now uses these " money" systems without any form of gold backing, not because they are "strong" or "stable", but because they work more than they fail.
+
 -------
 No! Fiat is used only through threat of force. ANOTHER implied as much when he stated that this was a way to get oil off the dollar without war. I ask you, sir, look around you. See all the things in your life brought to you by voluntary exchange through the market economy? An economy capable of all this is certainly capable of producing a free-market medium of exchange, no? This is what I mean by sound money (the Rothbard way).
 Elwood,
@@ -31302,6 +31599,7 @@ Comment
 
 abudahhab (04/23/01; 18:15:47MT - usagold.com msg#: 52412)
 @Trail Guide re Arab free trade zone
+
 ------
 
 Thank you abudahhab,, fine observations! I just read the forum and found yours.
@@ -31824,6 +32122,7 @@ USAGOLD (5/3/01; 19:40:36MT - usagold.com msg#: 53004)
 Randy. . . .Argentina
 
 -----FOA, maybe you'd like to get in on this??? ------
+
 ---------------------------------------------------------
 
 Hello Michael and everyone!
@@ -31907,6 +32206,7 @@ Just as the value of the post-'71 paper dollar has long been propped by the inte
 The reason this full transition has not already occurred is that institutional interest still exists to foster the smoothest practicable transition until that unknowable moment where the final remaining *SNAP* in the adjustment occurs.
 
 Speaking for The Tower and personally, I continue to buy gold with excess funds because I prefer the real wealth of gold over managed paper (and digital) contract currency. As a bonus, the real wealth value of same gold will provide a pleasant benefit upon full completion of the transition in world currencies' reserve structures. (An understatement, to be sure.)
+
 -----------------------------------------------------------
 
 Absolutely, Sir Randy!
@@ -31942,6 +32242,7 @@ If Randy is concerned about hegemony and its effect on various populations, I do
 Once again I'll reiterate what PH hinted at in his post: For most investors the world over, the ownership of gold is a pragmatic undertaking, and what FOA/Another are advocating is a practical, hands-on solution for the average investor -- personal gold ownership. I think Randy agrees with this position, as do I. I can envision private gold ownership as a necessity even under a gold standard -- because there is little doubt in my mind that if the government were to undertake a gold standard even under the best intentions, with Lewellyn Rockwell serving as Chairman of the Fed, it eventually would botch the whole scheme -- politics being what it is. (By the way, I can't imagine a currency regime at this late date that would allow only the circulation of specie. Therefore, you will always have various derivatives in circulation along with the government largesse, currency printing, tinkering with the gold price which threatens the value of the paper. Gresham rules.)
 
 In the end, he who owns the gold, makes the rules. And it is the personal ownership of it that will carry the day on a practical level while governments will do, well ...... governments will do what governments do.
+
 --------------------------------
 
 Ha! Ha! Now, that was good! What chance do us poor hikers have against a mountain climber like that? Legs like tree trunks and a mind the size of Bolder (Colorado?). (grin)
@@ -32445,6 +32746,7 @@ Further,
 If any EuroZone based gold paper they (China) own that had a US originator (US financial institution) and that defaults; with China's approval, that paper could be restructured to pay back in Euro currency assets. Courtesy of the ECB /BIS. Forcing the US originator to dump dollar based gold hedges (that's a lot of paper gold) as they buy Euro coverage to ensure exchange matching. Of course, extrapolating this system wide, we would see paper gold credibility plunge (therefore it's bid price also) aside from the Euro exchange rates spiking on the dollar. All the while out right trade in physical gold or "five day" (super spot delivery) would spike to the heavens. I do wonder if we are, as I said a number of days ago, seeing history in the making with lease rates doing strange things now? (smile)
 
 end
+
 ------------------------------------------------------------
 
 OK everyone, could it be that Europe and China are linking more closely? With China not only playing the Euro card, but also seeing this future economic powerhouse (EuroLand) as a two way market for their goods? Lets look at a more recent item out of the IHT:
@@ -32465,6 +32767,7 @@ On Thursday, the Chinese government announced that three top U.S. investment ban
 The next day, three European banks - Barclays Capital Group, BNP Paribas SA, and Deutsche Bank AG - issued a statement saying that they had been awarded the portion of the offering that would be denominated in euros.
 
 end
+
 ------------------------------
 
 OK. Next, we move to an excelent commentary in the COMMENTARY & REVIEW portion of USAGOLD (get your password if you want to read all of it). In this, Michael Kosares notes how the latest LBMA volume seems to show that the gold lending business is unwinding. He writes:
@@ -32505,6 +32808,7 @@ You write:
 So, you didn't borrow against future hours of your life to go to a fancy resaurant (and give more of your future hours to banksters in the form of interest). Instead you saved-up from the past hours of your production, had the same meal in that fancy restaurant - - - and _didn't_ pay interest to the
 banking establishment. You kept the amount you would have paid in interest - - - which gave you the appetizer in next month's fancy dinner. What's wrong with that? (Of course! - - - The bankers don't like it!)
 end
+
 ---------
 
 Well, my self evident point was that without banks (back then), people didn't want to loan their money. This is and was a fact. As our world society has matured over centuries, one item has stood out; people want to borrow and borrow a lot. In some ways this is good, in most ways this is
@@ -32518,6 +32822,7 @@ You write:
 most prosperous in American history with a growth rate well above 4% per year? Without modern credit, people would indeed be more careful what they gambled on, ah, invested in, but history strongly suggests that didn't mean they didn't gamble, ah, invest. There probably would not have
 been a .com mania, etc., if we were still on the gold standard. What's wrong with that?
 end
+
 ---------
 
 Well, you have absolutely made my point (smile). Our economic function, prior to 1913, was constrained by the fact that no one would pay the high rates said gold system demanded. Any type of gold discipline drives down credit expansions once they hit the credit limits that limited gold
@@ -32533,6 +32838,7 @@ You write:
 
 ------2. I don't know who Trail Guide has been hanging-out with these days, but I do know that while I've run across crooks in my day, there are nowhere near the percentage of crooks among my friends and family - - or even among my acquaintences - - as there are in Washington D.C.
 end
+
 ------
 
 Well, I have none in my family (that I know of smile). But I have to ask, where have you been while gaining your fundamental economic perspective? I know that in my earth, crooks are everywhere.
@@ -32552,6 +32858,7 @@ You write:
 -------we DON'T need fiat, and neither "the people" nor "society" decided to go from the classical gold standard to FED fiat. That change was foisted on "the people" AND "society" by the banking-government cliques, with the express purpose of profiting these two groups at the expense
 of the rest of the population.
 end
+
 --------
 
 Absolutely Journeyman. Your articulated account is regarded as an unshakable law amongst our Western hard money crowd. Indeed, it is this very perception that drives the rethinking today about fiat's relationship with gold. That thinking is spelled out in self evident form in this passage from the trail:
@@ -32574,6 +32881,7 @@ Further, to mitigate the loss all of us experience as this repeats, I made this 
 That simple reply, my friend addresses all our experience with moneys.
 
 end
+
 ----------------
 
 This is our direction and thrust. Society would, as ORO makes the point, always pick gold as their tradable wealth. However, it is society's "lot in life" to always want credit,,,,,, then rebel in paying back said credit by diluting the payment terms. Usually by changing the rules so fiat replaces the very gold they borrowed. Hard money thought has always tried to paint the government and
@@ -32583,6 +32891,7 @@ Even ET lays out that such a proposition is in his eyes is "" socialism"" ET (05
 
 ---------I prefer free markets over your socialism------- Seems to fly in the face of any kind of gold advocacy.
 end
+
 ------------
 
 I say that the only socialist mind is the hard money one that must dilute gold's value through credit. All done for the purpose of extending their Western power structures. Structures that could not achieve the dominance in currency they did without defrauding gold by combining it with credit. Truly, the wise gold advocate can see the socialist slant that motivates a hard money advocate's need for credit. Like tomatos, they start out green and eventually turn red! The same for Egold, sold as pure gold untill credit demands ripen it's creators appetite.
@@ -32598,6 +32907,7 @@ That's the type of thing people always think (or at least say) when they institu
 They said it of French assignats - - - up through their first nine-and-a-half years. They said it of German marks - - - until after WWI. They said it of the Brazillian currency just before the "real" and of the Ecuadorian sucre - - - until last year. They said it of the Turkish lira. Etc. They're saying it of the dollar. But if Trail Guide is correct, a similar fate awaits the dollar as well. And it's just around the corner.
 
 end
+
 ------------------
 
 Well, my point was that if society can institute the dollar as our trading fiat,,,, and do it for as long as they have,,,,,,,, it would be a far simpler proposition to exclude gold as collateral for credit. Did you somehow think I was promoting the above items as proof for the Euro (or dollar?)? I doubt anyone was duped by my statement, especially when read in full context as given.
@@ -32606,6 +32916,7 @@ you write:
 
 --------So what's different today than ever before in history that makes some folks here so optimistic about modern fiats??? In the above contexts, why is it so hard to imagine transactional gold?
 end
+
 ------------
 
 Everything we have given demonstrated that the Euro will inflate. Only inflate less than our dollar will or has in the past. In this light we are not optimistic, rather realistic. We encourage a floating fiat, full ensconced in all it's government's credit glory. Failing as it will against itself and every other currency.
@@ -32627,6 +32938,7 @@ thought to apply to this gold market today. These two precedents are leading the
 
 Standing aside this group is the Physical Gold Advocate. For them, for us, these times will contain the greatest gain in real wealth ever seen. For those who are falling behind, gold is still within your grasp.
 end
+
 ---------
 
 Thank you all
@@ -33265,6 +33577,7 @@ For Western Gold Bugs today, their culture, their system and their recent knowle
 
 Standing aside this group is the Physical Gold Advocate. For them, for us, these times will contain the greatest gain in real wealth ever seen. For those who are falling behind, gold is still within your grasp.
 TrailGuide
+
 -----------------------------------
 
 OK, with that thought in place let's go further.
@@ -35251,10 +35564,12 @@ While I am not unloading any of my various Eagles, maples, etc.,,,,,,,,, I want 
 To this end that same gentleman made a statement that embellishes the entire trail of Thought we walk today. It inspires countless large and small private gold advocates with a warning for a future we must prepare for and a call to stand guard!
 
 I'll say the words again to end our hike.
+
 --------
 "when a thousand hungry lions fight over one scrap of food, small dogs should hide with what's in their belly"
 
 "we watch this new gold market together, yes?"
+
 -------
 
 The sun is going down and it's time to camp here for the next speaker. Something about burning paper; I won't want to skip that one. Thank you each and every one for walking with me on this very fine day (smile).
@@ -37102,6 +37417,7 @@ As the Euro builds a base, it will drive an inflationary recognition into our cr
 You see, living with real serious price inflation goes something like this:
 
 ---- "Honey, I talked to Fred again, he can't sell his house! Poor guy, he has had it up for two years now and has to raise his asking price again. No takers, yet. The last couple was just about to close but took a month too long; they almost got the cash together, too. He backed out to raise the asking price, again. Oh well, that's not so bad, we had to jump ours up three times before selling."
+
 ----------
 Inflation runs crazy when a money system is forced to "print out". We will "print out" our dollar, too. Getting there just takes time and an alternative system to cause it.
 
@@ -37134,6 +37450,7 @@ Another thing we can count on and I mentioned this before:
 The moment England is seen as even a "virtual" member of the Euro club; the world will jump on every physical ounce of gold available at whatever dollar amounts anyone will part with it,,,,,,,,,,,,,,,,, and sell every paper gold play into the dirt in the process!!
 
 I say, know your dealer, buy your bullion early and watch for this act to begin. It's closer than you think!
+
 ------------
 
 Thanks for hearing my thoughts
@@ -37145,6 +37462,7 @@ site steward (10/25/01; 12:12:28MT - usagold.com msg#: 64186)
 Monetary choices -- ECB holds rates solid, dumps dollars
 http://biz.yahoo.com/rf/011025/l25344987_2.html
 FRANKFURT, Oct 25 (Reuters) - The European Central Bank left interest rates unchanged on Thursday, ignoring calls from politicians urging it to do more to prop up the euro zone economy....The [independent] ECB angered some euro zone governments, worried about rising job losses and stalling growth, when it kept rates unchanged at its meeting two weeks ago, arguing that still high inflation left it little room for maneouvre.
+
 -----
 
 Central banks have learned this lesson in the past three decades (but politicians have not): the provision of easy monetary policy does not create jobs nor does it stimulate real economic growth. Therefore, a "good" (competent) central bank will not meddle with monetary policy under the premise of affecting the unaffectable. The best contribution a good central bank can ever be expected to make to the well-being of a national economy is through the successful delivery of price stability -- thus providing a stable basis upon which business planning and contracts for the future are made.
@@ -37384,6 +37702,7 @@ As "political will" begins to impact the economies of the US,
 our old "virtual wealth" that is no longer in the form of "passive inflation" nor limited to the currency, and is openly displayed in our vast sea of paper assets values including stocks, bonds--------
 
 must now be defended in the open with official printed money flow.
+
 ---------------
 
 The "virtual wealth" in gold, saved over years by patient investors, will also be priced to market in this process.
