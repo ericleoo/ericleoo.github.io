@@ -1,6 +1,6 @@
 ---
 date: 2024-11-01
-title: After Thoughts (September 1998 - December 2021)
+title: After Thoughts (September 1998 - February 2000)
 published: true
 ---
 
