@@ -3,29 +3,24 @@
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
-		"deploy": "touch dist/.nojekyll && gh-pages -d dist -t",
-		"dev": "vite dev",
-		"build": "vite build",
-		"preview": "vite preview",
-		"test:unit": "vitest"
-	},
-	"dependencies": {
-		"bootstrap": "^5.3.7",
-		"front-matter": "^4.0.2",
-		"react": "^18.2.0",
-		"react-bootstrap": "^2.10.10",
-		"react-dom": "^18.2.0",
-		"react-feather": "^2.0.10",
-		"react-markdown": "^10.1.0",
-		"react-router-dom": "^6.22.3",
-		"remove-markdown": "^0.6.2"
+		"deploy": "touch dist/.nojekyll && node node_modules/gh-pages/bin/gh-pages.js -d dist -t",
+		"dev": "node node_modules/vite/bin/vite.js",
+		"build": "node node_modules/vite/bin/vite.js build",
+		"preview": "node scripts/preview.mjs",
+		"test:unit": "node node_modules/vitest/vitest.mjs run"
 	},
 	"devDependencies": {
-		"@vitejs/plugin-react": "^4.2.1",
+		"@types/markdown-it": "^14.2.0",
 		"gh-pages": "^6.3.0",
 		"typescript": "*",
 		"vite": "*",
 		"vitest": "*"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@fontsource-variable/geist": "^5.3.0",
+		"@fontsource-variable/newsreader": "^5.3.0",
+		"gray-matter": "^4.0.3",
+		"markdown-it": "^15.0.3"
+	}
 }

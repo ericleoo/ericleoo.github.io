@@ -1,16 +1,15 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-import { copyFileSync } from 'fs'
+import { defineConfig } from 'vite';
+import { sitePlugin } from './scripts/vite-plugin-site.mjs';
 
-// https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [
-    react(),
-    {
-      name: 'copy-404',
-      writeBundle() {
-        copyFileSync('dist/index.html', 'dist/404.html')
+  appType: 'custom',
+  plugins: [sitePlugin()],
+  build: {
+    rollupOptions: {
+      input: {
+        client: 'src/client.ts',
+        styles: 'src/styles/main.css'
       }
     }
-  ],
-})
+  }
+});
